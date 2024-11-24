@@ -37,11 +37,11 @@ def get_al_style_products():
     # Параметры запроса (фильтры, лимиты, дополнительные поля)
     params = {
         'access-token': AL_STYLE_TOKEN,  # Токен доступа
-        'limit': 100,                    # Количество товаров на запрос
+        'limit': 20000,                    # Количество товаров на запрос
         'offset': 0,                     # Смещение для пагинации
         'additional_fields': 'brand,price1,price2,quantity,article_pn'  # Дополнительные данные о товаре
     }
-    all_products = []  # Список для хранения всех товаров
+    all_products = []  # Список для хранения всех товаро
 
     while True:  # Цикл для получения всех страниц товаров
         # Выполняем запрос
@@ -62,14 +62,44 @@ def get_al_style_products():
 
     return all_products  # Возвращаем полный список товаров
 
+
+def get_valid_stock_count(quantity):
+    """
+    Преобразует значение количества товара в корректный формат для XML-файла.
+    """
+    # Проверяем, является ли значение строкой
+    if isinstance(quantity, str):
+        # Удаляем пробелы с начала и конца строки
+        quantity = quantity.strip()
+        # Проверяем, содержит ли строка символ '>'
+        if '>' in quantity:
+            # Если есть символ '>', возвращаем значение '500' (считаем его большим числом)
+            return '500'
+        # Проверяем, является ли строка числом (содержит только цифры)
+        elif quantity.isdigit():
+            # Если строка число, возвращаем её как есть
+            return quantity
+        else:
+            # Если строка не число, возвращаем '0' (некорректное значение)
+            return '0'
+    # Если значение число (int или float)
+    elif isinstance(quantity, (int, float)):
+        # Преобразуем его в целое число и возвращаем как строку
+        return str(int(quantity))
+    else:
+        # Если значение ни строка, ни число, возвращаем '0' (некорректное значение)
+        return '0'
+    
+    
 def update_kaspi_prices_stock(products):
     """
     Обновляет цены и остатки на Kaspi.kz.
     """
     logging.info('Начало обновления цен и остатков на Kaspi.kz')
     # Импортируем модуль для работы с XML
-    from xml.etree.ElementTree import Element, SubElement, ElementTree
-
+    from xml.etree.ElementTree import Element, SubElement, tostring
+    import xml.dom.minidom
+    
     # Создаем корневой элемент XML-файла
     kaspi_catalog = Element('kaspi_catalog', {
         'date': time.strftime('%Y-%m-%dT%H:%M:%S'),  # Текущая дата и время
@@ -80,47 +110,68 @@ def update_kaspi_prices_stock(products):
 
     # Добавляем информацию о компании
     company = SubElement(kaspi_catalog, 'company')
-    company.text = 'Название вашей компании'  # Указываем название компании
+    company.text = 'Al-Style'  # Указываем название компании
 
     # Добавляем идентификатор компании
     merchantid = SubElement(kaspi_catalog, 'merchantid')
-    merchantid.text = 'ID вашей компании'  # Указываем ID компании
+    merchantid.text = '01'  # Указываем ID компании
 
     # Создаем секцию предложений (товаров)
     offers = SubElement(kaspi_catalog, 'offers')
 
     for product in products:  # Проходим по каждому товару
-        # Добавляем информацию о товаре (offer)
+        sku = str(product.get('article_pn') or product.get('article') or '').strip()
+        if not sku:
+            logging.warning('Пропуск товара без SKU')
+            continue  # Пропускаем товары без SKU
+        
+        
         offer = SubElement(offers, 'offer', {
-            'sku': str(product.get('article_pn', product.get('article')))  # Уникальный код товара
+            'sku': sku  # Уникальный код товара
         })
 
         # Указываем модель товара
+        model_value = product.get('name')
         model = SubElement(offer, 'model')
-        model.text = product.get('name')  # Название товара
+        model.text = model_value.strip() if model_value else 'No Name'
 
         # Указываем бренд товара
+        brand_value = product.get('brand')
         brand = SubElement(offer, 'brand')
-        brand.text = product.get('brand', 'Unknown')  # Бренд или "Unknown"
-
+        brand.text = brand_value.strip() if brand_value else 'Unknown'
+        
         # Указываем информацию о доступности на складе
         availabilities = SubElement(offer, 'availabilities')
+        stock_count = get_valid_stock_count(product.get('quantity'))
         availability = SubElement(availabilities, 'availability', {
-            'available': 'yes' if product.get('quantity') != '0' else 'no',  # Есть ли в наличии
-            'storeId': 'yourStoreId',  # Код склада
-            'preOrder': '0',  # Возможность предзаказа
-            'stockCount': str(product.get('quantity'))  # Остаток на складе
+            'available': 'yes' if int(stock_count) > 0 else 'no',
+            'storeId': 'myFavoritePickupPoint1',  # Замените на ваш actual storeId
+            'preOrder': '0',
+            'stockCount': stock_count
         })
 
         # Указываем цену товара
         price = SubElement(offer, 'price')
-        price.text = str(product.get('price2'))  # Цена товара
-
+        price_value = product.get('price2') or product.get('price1') or '0'
+        price.text = str(price_value).strip()
+        
+    # Convert to string
+    rough_string = tostring(kaspi_catalog, encoding='utf-8')
+    reparsed = xml.dom.minidom.parseString(rough_string)
+    pretty_xml_as_string = reparsed.toprettyxml(indent="  ")
+    
+    with open('kaspi_price_list.xml', 'w', encoding='utf-8') as f:
+        f.write(pretty_xml_as_string)
+    logging.info('Prices and stock successfully updated and saved to XML for Kaspi.kz')
+    
+    
+    """    
     # Сохраняем XML-файл
     tree = ElementTree(kaspi_catalog)
     tree.write('kaspi_price_list.xml', encoding='utf-8', xml_declaration=True)  # Сохраняем файл
-    logging.info('Цены и остатки успешно обновлены на Kaspi.kz')
-
+    logging.info('Цены и остатки успешно обновлены и добавлены в XML для Kaspi.kz')
+    """
+    
 def process_kaspi_orders():
     """
     Обрабатывает заказы с Kaspi.kz и обновляет остатки в вашем магазине.
@@ -221,4 +272,4 @@ def main():
     logging.info("Обработка заказов с Kaspi.kz завершена")
 
 if __name__ == "__main__":
-    main()  # Запускаем программу
+    main()  # Запускаем программ
