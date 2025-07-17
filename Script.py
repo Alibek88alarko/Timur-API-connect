@@ -3,29 +3,19 @@ import requests  # Для работы с HTTP-запросами
 import json      # Для работы с JSON-данными
 import time      # Для работы с временем
 import logging   # Для логирования
+from xml_validator import KaspiXMLValidator  # Для валидации XML
+from config import config, AL_STYLE_HEADERS, KASPI_HEADERS  # Конфигурация
 
 # Настраиваем логирование
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Токены доступа (используются для аутентификации в API)
-AL_STYLE_TOKEN = 'fTjmIXfcC0F1F_lykYdkCPOqNJDXp_xm'  # Токен для Al Style
-KASPI_TOKEN = '56Pj6wkGBX34/05TUMV1ptxrGCa1ZdMkderQA1+Gtr0='  # Токен для Kaspi.kz
-
-# Базовые URL-адреса API
-AL_STYLE_API_URL = 'https://api.al-style.kz/api'  # API-адрес для Al Style
-KASPI_API_URL = 'https://kaspi.kz/shop/api/v2'  # API-адрес для Kaspi.kz
-
-# Заголовки для запросов в Al Style
-AL_STYLE_HEADERS = {
-    'Content-Type': 'application/json',  # Тип содержимого — JSON
-    'Accept': 'application/json'         # Ожидаем JSON в ответе
-}
-
-# Заголовки для запросов в Kaspi.kz
-KASPI_HEADERS = {
-    'Content-Type': 'application/vnd.api+json',  # Тип содержимого — специфичный JSON
-    'X-Auth-Token': KASPI_TOKEN                 # Передаем токен аутентификации
-}
+# Валидируем конфигурацию при запуске
+try:
+    config.validate()
+    logging.info("Конфигурация успешно загружена")
+except ValueError as e:
+    logging.error(f"Ошибка конфигурации: {e}")
+    exit(1)
 
 def get_al_style_products():
     """
@@ -33,10 +23,10 @@ def get_al_style_products():
     """
     logging.info('Начало получения товаров из Al Style')
     # Формируем URL для получения товаров
-    url = f"{AL_STYLE_API_URL}/elements-pagination"
+    url = f"{config.al_style_api_url}/elements-pagination"
     # Параметры запроса (фильтры, лимиты, дополнительные поля)
     params = {
-        'access-token': AL_STYLE_TOKEN,  # Токен доступа
+        'access-token': config.al_style_token,  # Токен доступа
         'limit': 20000,                    # Количество товаров на запрос
         'offset': 0,                     # Смещение для пагинации
         'additional_fields': 'brand,price1,price2,quantity,article_pn'  # Дополнительные данные о товаре
@@ -58,7 +48,7 @@ def get_al_style_products():
             break  # Выходим из цикла
         else:
             params['offset'] += params['limit']  # Увеличиваем смещение для следующей страницы
-            time.sleep(5)  # Ждем 5 секунд, чтобы не перегружать сервер
+            time.sleep(config.request_delay)  # Ждем настроенное время, чтобы не перегружать сервер
 
     return all_products  # Возвращаем полный список товаров
 
@@ -110,11 +100,11 @@ def update_kaspi_prices_stock(products):
 
     # Добавляем информацию о компании
     company = SubElement(kaspi_catalog, 'company')
-    company.text = 'Al-Style'  # Указываем название компании
+    company.text = config.company_name  # Указываем название компании
 
     # Добавляем идентификатор компании
     merchantid = SubElement(kaspi_catalog, 'merchantid')
-    merchantid.text = '01'  # Указываем ID компании
+    merchantid.text = config.merchant_id  # Указываем ID компании
 
     # Создаем секцию предложений (товаров)
     offers = SubElement(kaspi_catalog, 'offers')
@@ -145,7 +135,7 @@ def update_kaspi_prices_stock(products):
         stock_count = get_valid_stock_count(product.get('quantity'))
         availability = SubElement(availabilities, 'availability', {
             'available': 'yes' if int(stock_count) > 0 else 'no',
-            'storeId': 'myFavoritePickupPoint1',  # Замените на ваш actual storeId
+            'storeId': config.store_id,  # Используем настроенный storeId
             'preOrder': '0',
             'stockCount': stock_count
         })
@@ -160,9 +150,30 @@ def update_kaspi_prices_stock(products):
     reparsed = xml.dom.minidom.parseString(rough_string)
     pretty_xml_as_string = reparsed.toprettyxml(indent="  ")
     
-    with open('kaspi_price_list.xml', 'w', encoding='utf-8') as f:
+    xml_filename = config.xml_filename
+    with open(xml_filename, 'w', encoding='utf-8') as f:
         f.write(pretty_xml_as_string)
     logging.info('Prices and stock successfully updated and saved to XML for Kaspi.kz')
+    
+    # Валидируем созданный XML
+    logging.info('Начало валидации XML против схемы Kaspi.kz')
+    validator = KaspiXMLValidator()
+    
+    # Проверяем структуру XML
+    structure_valid, structure_message = validator.check_required_elements(pretty_xml_as_string)
+    if not structure_valid:
+        logging.error(f'Ошибка структуры XML: {structure_message}')
+        return False
+    
+    # Валидируем против схемы
+    schema_valid, schema_message = validator.validate_xml_string(pretty_xml_as_string)
+    if schema_valid:
+        logging.info(f'XML успешно прошел валидацию: {schema_message}')
+    else:
+        logging.warning(f'XML не прошел валидацию схемы: {schema_message}')
+        logging.warning('XML сохранен, но может быть отклонен Kaspi.kz')
+    
+    return True
     
     
     """    
@@ -184,7 +195,7 @@ def process_kaspi_orders():
         'page[size]': 20    # Размер страницы (количество заказов)
     }
     # Выполняем запрос на получение заказов
-    response = requests.get(f"{KASPI_API_URL}/orders", headers=KASPI_HEADERS, params=params)
+    response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
     orders = response.json().get('data', [])  # Получаем список заказов
     logging.info(f'Найдено {len(orders)} заказов для обработки')
 
@@ -204,7 +215,7 @@ def process_kaspi_orders():
             }
         }
         # Отправляем запрос для принятия заказа
-        response = requests.post(f"{KASPI_API_URL}/orders", headers=KASPI_HEADERS, json=accept_order_payload)
+        response = requests.post(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, json=accept_order_payload)
         if response.status_code == 200:  # Если запрос успешный
             logging.info(f"Заказ {order_code} принят")
         else:
@@ -227,9 +238,9 @@ def process_kaspi_orders():
             product_code = product_data['attributes']['code']  # Код товара
 
             # Обновляем остаток в Al Style
-            al_style_quantity_url = f"{AL_STYLE_API_URL}/quantity"
+            al_style_quantity_url = f"{config.al_style_api_url}/quantity"
             al_style_params = {
-                'access-token': AL_STYLE_TOKEN,
+                'access-token': config.al_style_token,
                 'article': product_code  # Код товара
             }
             response_quantity = requests.get(al_style_quantity_url, headers=AL_STYLE_HEADERS, params=al_style_params)
@@ -244,11 +255,11 @@ def process_kaspi_orders():
 
                 # Отправляем запрос на обновление остатка
                 update_quantity_payload = {
-                    'access-token': AL_STYLE_TOKEN,
+                    'access-token': config.al_style_token,
                     'article': product_code,
                     'quantity': new_quantity
                 }
-                update_response = requests.post(f"{AL_STYLE_API_URL}/update-quantity", headers=AL_STYLE_HEADERS, json=update_quantity_payload)
+                update_response = requests.post(f"{config.al_style_api_url}/update-quantity", headers=AL_STYLE_HEADERS, json=update_quantity_payload)
                 if update_response.status_code == 200:
                     logging.info(f"Остаток товара {product_code} обновлен до {new_quantity}")
                 else:
@@ -263,9 +274,13 @@ def main():
     products = get_al_style_products()
     logging.info(f"Получено {len(products)} товаров из вашего интернет-магазина")
 
-    # Обновляем цены и остатки в Kaspi.kz
-    update_kaspi_prices_stock(products)
-    logging.info("Цены и остатки обновлены на Kaspi.kz")
+    # Обновляем цены и остатки в Kaspi.kz с валидацией
+    xml_valid = update_kaspi_prices_stock(products)
+    if xml_valid:
+        logging.info("Цены и остатки обновлены на Kaspi.kz - XML валиден")
+    else:
+        logging.error("Ошибка валидации XML - проверьте данные товаров")
+        return  # Останавливаем выполнение при ошибке валидации
 
     # Обрабатываем заказы с Kaspi.kz
     process_kaspi_orders()
