@@ -3,8 +3,10 @@ import requests  # Для работы с HTTP-запросами
 import json      # Для работы с JSON-данными
 import time      # Для работы с временем
 import logging   # Для логирования
+import os        # Для работы с файловой системой
 from xml_validator import KaspiXMLValidator  # Для валидации XML
 from config import config, AL_STYLE_HEADERS, KASPI_HEADERS  # Конфигурация
+import os  # Для работы с файловой системой
 
 # Настраиваем логирование
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -106,7 +108,7 @@ def update_kaspi_prices_stock(products):
     merchantid = SubElement(kaspi_catalog, 'merchantid')
     merchantid.text = config.merchant_id  # Указываем ID компании
 
-    # Создаем секцию предложений (товаров)
+    # Создаем секцию предложений (товаров) - БЕЗ categories
     offers = SubElement(kaspi_catalog, 'offers')
 
     for product in products:  # Проходим по каждому товару
@@ -194,10 +196,29 @@ def process_kaspi_orders():
         'page[number]': 0,  # Номер страницы
         'page[size]': 20    # Размер страницы (количество заказов)
     }
-    # Выполняем запрос на получение заказов
-    response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
-    orders = response.json().get('data', [])  # Получаем список заказов
-    logging.info(f'Найдено {len(orders)} заказов для обработки')
+    
+    try:
+        # Выполняем запрос на получение заказов
+        response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
+        logging.info(f'Статус ответа от Kaspi API: {response.status_code}')
+        
+        if response.status_code != 200:
+            logging.error(f'Ошибка при получении заказов: {response.status_code} - {response.text}')
+            return
+        
+        orders = response.json().get('data', [])  # Получаем список заказов
+        logging.info(f'Найдено {len(orders)} заказов для обработки')
+        
+        if len(orders) == 0:
+            logging.info('Нет заказов для обработки в статусе APPROVED_BY_BANK')
+            return
+            
+    except requests.exceptions.RequestException as e:
+        logging.error(f'Ошибка при подключении к Kaspi API: {e}')
+        return
+    except Exception as e:
+        logging.error(f'Неожиданная ошибка при получении заказов: {e}')
+        return
 
     for order in orders:  # Проходим по каждому заказу
         order_id = order['id']  # ID заказа
@@ -269,7 +290,139 @@ def process_kaspi_orders():
 
     logging.info('Обработка заказов с Kaspi.kz завершена')
 
+def test_kaspi_orders():
+    """
+    Тестовая функция для проверки получения заказов с разными статусами
+    """
+    logging.info('=== ТЕСТ: Проверка заказов с разными статусами ===')
+    
+    # Список возможных статусов для тестирования
+    statuses_to_test = [
+        'APPROVED_BY_BANK',
+        'ACCEPTED_BY_MERCHANT', 
+        'KASPI_DELIVERY_RETURN_REQUESTED',
+        'COMPLETED',
+        'CANCELLED'
+    ]
+    
+    for status in statuses_to_test:
+        params = {
+            'filter[orders][status]': status,
+            'page[number]': 0,
+            'page[size]': 5
+        }
+        
+        try:
+            response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
+            logging.info(f'Статус {status}: HTTP {response.status_code}')
+            
+            if response.status_code == 200:
+                orders = response.json().get('data', [])
+                logging.info(f'  Найдено {len(orders)} заказов в статусе {status}')
+                
+                if len(orders) > 0:
+                    # Показываем информацию о первом заказе
+                    first_order = orders[0]
+                    order_code = first_order.get('attributes', {}).get('code', 'N/A')
+                    created_at = first_order.get('attributes', {}).get('createdAt', 'N/A')
+                    logging.info(f'  Пример заказа: {order_code}, создан: {created_at}')
+            else:
+                logging.warning(f'  Ошибка получения заказов в статусе {status}: {response.text}')
+                
+        except Exception as e:
+            logging.error(f'  Ошибка при тестировании статуса {status}: {e}')
+    
+    logging.info('=== КОНЕЦ ТЕСТА ===')
+
+def upload_xml_to_kaspi(xml_file_path):
+    """
+    Загружает XML файл с товарами в Kaspi.kz
+    """
+    logging.info('Начало загрузки XML файла в Kaspi.kz')
+    
+    try:
+        # Проверяем, существует ли файл
+        if not os.path.exists(xml_file_path):
+            logging.error(f'XML файл не найден: {xml_file_path}')
+            return False
+        
+        # Читаем содержимое XML файла
+        with open(xml_file_path, 'rb') as xml_file:
+            files = {'file': (xml_file_path, xml_file, 'application/xml')}
+            
+            # Заголовки для загрузки файла
+            headers = {
+                'X-Auth-Token': config.kaspi_token
+            }
+            
+            # Отправляем файл
+            response = requests.post(
+                config.kaspi_xml_upload_url,
+                files=files,
+                headers=headers,
+                timeout=config.request_timeout
+            )
+            
+            logging.info(f'Статус загрузки XML: {response.status_code}')
+            
+            if response.status_code in [200, 201, 202]:
+                logging.info('XML файл успешно загружен в Kaspi.kz')
+                logging.info(f'Ответ: {response.text}')
+                return True
+            else:
+                logging.error(f'Ошибка при загрузке XML: {response.status_code} - {response.text}')
+                return False
+                
+    except requests.exceptions.RequestException as e:
+        logging.error(f'Ошибка при подключении к Kaspi.kz: {e}')
+        return False
+    except Exception as e:
+        logging.error(f'Неожиданная ошибка при загрузке XML: {e}')
+        return False
+
 def main():
+    """
+    Основная функция с поддержкой режимов тестирования
+    """
+    import sys
+    
+    # Проверяем аргументы командной строки
+    if len(sys.argv) > 1:
+        mode = sys.argv[1].lower()
+        
+        if mode == 'test-orders':
+            # Тестируем только получение заказов
+            test_kaspi_orders()
+            return
+        elif mode == 'test-products':
+            # Тестируем только получение товаров
+            products = get_al_style_products()
+            logging.info(f"Получено {len(products)} товаров из Al-Style")
+            return
+        elif mode == 'test-xml':
+            # Тестируем только генерацию XML
+            products = get_al_style_products()
+            xml_valid = update_kaspi_prices_stock(products)
+            logging.info(f"XML валидация: {'успешно' if xml_valid else 'ошибка'}")
+            return
+        elif mode == 'upload-xml':
+            # Загружаем XML файл в Kaspi.kz
+            xml_uploaded = upload_xml_to_kaspi(config.xml_filename)
+            logging.info(f"XML загрузка: {'успешно' if xml_uploaded else 'ошибка'}")
+            return
+        elif mode == 'help':
+            print("Доступные режимы:")
+            print("  python Script.py test-orders    - тестировать получение заказов")
+            print("  python Script.py test-products  - тестировать получение товаров")
+            print("  python Script.py test-xml       - тестировать генерацию XML")
+            print("  python Script.py upload-xml     - загрузить XML в Kaspi.kz")
+            print("  python Script.py help          - показать помощь")
+            print("  python Script.py               - полный запуск")
+            return
+    
+    # Полный запуск (по умолчанию)
+    logging.info("=== ПОЛНЫЙ ЗАПУСК СИСТЕМЫ ===")
+    
     # Получаем список товаров из Al Style
     products = get_al_style_products()
     logging.info(f"Получено {len(products)} товаров из вашего интернет-магазина")
@@ -278,6 +431,13 @@ def main():
     xml_valid = update_kaspi_prices_stock(products)
     if xml_valid:
         logging.info("Цены и остатки обновлены на Kaspi.kz - XML валиден")
+        
+        # Загружаем XML файл в Kaspi.kz
+        xml_uploaded = upload_xml_to_kaspi(config.xml_filename)
+        if xml_uploaded:
+            logging.info("XML файл успешно загружен в Kaspi.kz")
+        else:
+            logging.error("Ошибка при загрузке XML файла в Kaspi.kz")
     else:
         logging.error("Ошибка валидации XML - проверьте данные товаров")
         return  # Останавливаем выполнение при ошибке валидации

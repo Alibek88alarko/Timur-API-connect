@@ -124,11 +124,26 @@ class KaspiXMLValidator:
         try:
             root = ET.fromstring(xml_content)
             
+            # Определяем пространство имен
+            namespace = {'kaspi': 'kaspiShopping'}
+            
             # Проверяем обязательные элементы
+            company = root.find('.//kaspi:company', namespace)
+            if company is None:
+                company = root.find('.//company')
+            
+            merchantid = root.find('.//kaspi:merchantid', namespace)
+            if merchantid is None:
+                merchantid = root.find('.//merchantid')
+            
+            offers = root.find('.//kaspi:offers', namespace)
+            if offers is None:
+                offers = root.find('.//offers')
+            
             required_elements = {
-                'company': root.find('.//company'),
-                'merchantid': root.find('.//merchantid'),
-                'offers': root.find('.//offers')
+                'company': company,
+                'merchantid': merchantid,
+                'offers': offers
             }
             
             missing_elements = []

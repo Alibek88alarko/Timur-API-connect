@@ -1,0 +1,3764 @@
+<?xml version="1.0" ?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-07-17T21:11:57" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Al-Style</company>
+  <merchantid>01</merchantid>
+  <categories>
+    <category id="cables" parentId="electronics">Кабели</category>
+    <category id="keyboards" parentId="electronics">Клавиатуры</category>
+    <category id="accessories" parentId="electronics">Аксессуары</category>
+    <category id="patch-cords" parentId="electronics">Патч-корды</category>
+    <category id="network" parentId="electronics">Сетевое оборудование</category>
+  </categories>
+  <offers>
+    <offer sku="F2 to F1" available="true">
+      <model>Переходник F2-&gt;F1</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>96</price>
+      <currencyId>KZT</currencyId>
+      <description>Переходник F2-&gt;F1 от SVC. Цена: 95 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">F2 to F1</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="XK-100UB" available="true">
+      <model>Клавиатура XG XK-100UB</model>
+      <brand>XG</brand>
+      <categoryId>keyboards</categoryId>
+      <price>1990</price>
+      <currencyId>KZT</currencyId>
+      <description>Клавиатура XG XK-100UB от XG. Цена: 1370 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XK-100UB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="Air Clean" available="true">
+      <model>Сжатый воздух Delux Air Clean</model>
+      <brand>Deluxe</brand>
+      <categoryId>accessories</categoryId>
+      <price>3345</price>
+      <currencyId>KZT</currencyId>
+      <description>Сжатый воздух Delux Air Clean от Deluxe. Цена: 2230 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Air Clean</param>
+        <param name="Бренд">Deluxe</param>
+      </params>
+    </offer>
+    <offer sku="16821" available="true">
+      <model>Патч Корд Оптоволоконный ST/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1260</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный ST/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м от АЗОП. Цена: 840 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16821</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="21513" available="true">
+      <model>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Simplex 2.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1125</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Simplex 2.0мм 1 м от АЗОП. Цена: 750 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">21513</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="16839" available="true">
+      <model>Патч Корд Оптоволоконный SC/APC-LC/UPC SM 9/125 Duplex 3.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>2100</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SC/APC-LC/UPC SM 9/125 Duplex 3.0мм 1 м от АЗОП. Цена: 1400 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16839</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="16815" available="true">
+      <model>Патч Корд Оптоволоконный SC/APC-ST/UPC SM 9/125 Simplex 3.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1260</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SC/APC-ST/UPC SM 9/125 Simplex 3.0мм 1 м от АЗОП. Цена: 840 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16815</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="SC/APC SM 9/125 0.9 мм 1.5 м" available="true">
+      <model>Пигтейл Оптический SC/APC SM 9/125 0.9 мм 1.5 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>accessories</categoryId>
+      <price>630</price>
+      <currencyId>KZT</currencyId>
+      <description>Пигтейл Оптический SC/APC SM 9/125 0.9 мм 1.5 м от АЗОП. Цена: 420 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SC/APC SM 9/125 0.9 мм 1.5 м</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="16903" available="true">
+      <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC MM OM4 50/125 Duplex 3.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>2550</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный LC/UPC-LC/UPC MM OM4 50/125 Duplex 3.0мм 1 м от АЗОП. Цена: 1700 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16903</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="CK-11508 DP-ICAS-CK11508" available="true">
+      <model>Кулер для процессора Intel Deepcool CK-11508</model>
+      <brand>Deepcool</brand>
+      <categoryId>accessories</categoryId>
+      <price>3103</price>
+      <currencyId>KZT</currencyId>
+      <description>Кулер для процессора Intel Deepcool CK-11508 от Deepcool. Цена: 1545 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CK-11508 DP-ICAS-CK11508</param>
+        <param name="Бренд">Deepcool</param>
+      </params>
+    </offer>
+    <offer sku="XD-1100OUB" available="true">
+      <model>Комплект Клавиатура + Мышь XG XD-1100OUB</model>
+      <brand>XG</brand>
+      <categoryId>keyboards</categoryId>
+      <price>2450</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект Клавиатура + Мышь XG XD-1100OUB от XG. Цена: 1990 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XD-1100OUB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="ODP-02" available="true">
+      <model>Оптическая розетка А-Оптик АО-1426</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>225</price>
+      <currencyId>KZT</currencyId>
+      <description>Оптическая розетка А-Оптик АО-1426 от А-Оптик. Цена: 150 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="50"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ODP-02</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="DLC-LPT" available="true">
+      <model>Удлинитель Deluxe DLC-LPT</model>
+      <brand>Deluxe</brand>
+      <categoryId>accessories</categoryId>
+      <price>804</price>
+      <currencyId>KZT</currencyId>
+      <description>Удлинитель Deluxe DLC-LPT от Deluxe. Цена: 386 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DLC-LPT</param>
+        <param name="Бренд">Deluxe</param>
+      </params>
+    </offer>
+    <offer sku="T-1640E" available="true">
+      <model>Тонер-туба Europrint Toshiba T-1640E</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>5350</price>
+      <currencyId>KZT</currencyId>
+      <description>Тонер-туба Europrint Toshiba T-1640E от Europrint. Цена: 4708 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="34"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">T-1640E</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="6770" available="true">
+      <model>Бушинги резинового вала Europrint HP 1200</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>142</price>
+      <currencyId>KZT</currencyId>
+      <description>Бушинги резинового вала Europrint HP 1200 от Europrint. Цена: 119 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6770</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="RC1-2038-000" available="true">
+      <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>277</price>
+      <currencyId>KZT</currencyId>
+      <description>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010) от Europrint. Цена: 241 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="67"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RC1-2038-000</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="RC1-2050-000" available="true">
+      <model>Ролик захвата бумаги Europrint RC1-2050-000 (для принтеров с механизмом подачи типа 1010)</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>147</price>
+      <currencyId>KZT</currencyId>
+      <description>Ролик захвата бумаги Europrint RC1-2050-000 (для принтеров с механизмом подачи типа 1010) от Europrint. Цена: 128 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="197"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RC1-2050-000</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="6188" available="true">
+      <model>Картридж Europrint EPC-C4129X</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>8244</price>
+      <currencyId>KZT</currencyId>
+      <description>Картридж Europrint EPC-C4129X от Europrint. Цена: 6870 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6188</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="V-600-L" available="true">
+      <model>Источник бесперебойного питания SVC V-600-L</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>22942</price>
+      <currencyId>KZT</currencyId>
+      <description>Источник бесперебойного питания SVC V-600-L от SVC. Цена: 18354 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">V-600-L</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="RTO-1.5K-LCD" available="true">
+      <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>89238</price>
+      <currencyId>KZT</currencyId>
+      <description>Источник бесперебойного питания SVC RTO-1.5K-LCD от SVC. Цена: 80314 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RTO-1.5K-LCD</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="GR16-1379T" available="true">
+      <model>Сетевой фильтр Trip-lite GR16-1379T 1.5 м. 220 в.</model>
+      <brand>Trip-lite</brand>
+      <categoryId>accessories</categoryId>
+      <price>4536</price>
+      <currencyId>KZT</currencyId>
+      <description>Сетевой фильтр Trip-lite GR16-1379T 1.5 м. 220 в. от Trip-lite. Цена: 1820 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">GR16-1379T</param>
+        <param name="Бренд">Trip-lite</param>
+      </params>
+    </offer>
+    <offer sku="21649" available="true">
+      <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>2100</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный LC/UPC-LC/UPC SM 9/125 Duplex 2.0мм 1 м от АЗОП. Цена: 1400 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">21649</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="R6P-SP4G" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R6P-SP4G 4 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>447</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R6P-SP4G 4 шт. в плёнке от Camelion. Цена: 297 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R6P-SP4G</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="R14P-SP2G" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R14P-SP2G 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>669</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R14P-SP2G 2 шт. в плёнке от Camelion. Цена: 398 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R14P-SP2G</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="R20P-SP2G" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2G 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>828</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R20P-SP2G 2 шт. в плёнке от Camelion. Цена: 598 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R20P-SP2G</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="CR2330-BP1" available="true">
+      <model>Батарейка CAMELION Lithium CR2330-BP1</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>220</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Lithium CR2330-BP1 от Camelion. Цена: 188 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CR2330-BP1</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="XD-7700GB" available="true">
+      <model>Комплект Клавиатура + Мышь XG XD-7700GB</model>
+      <brand>XG</brand>
+      <categoryId>keyboards</categoryId>
+      <price>5018</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект Клавиатура + Мышь XG XD-7700GB от XG. Цена: 3100 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XD-7700GB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="DVD-291" available="true">
+      <model>Настенный кронштейн Brateck DVD-291 для DVD, 360х250 мм.</model>
+      <brand>Brateck</brand>
+      <categoryId>accessories</categoryId>
+      <price>10689</price>
+      <currencyId>KZT</currencyId>
+      <description>Настенный кронштейн Brateck DVD-291 для DVD, 360х250 мм. от Brateck. Цена: 4101 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DVD-291</param>
+        <param name="Бренд">Brateck</param>
+      </params>
+    </offer>
+    <offer sku="23820" available="true">
+      <model>Картридж Europrint EPC-60F5H00</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>5980</price>
+      <currencyId>KZT</currencyId>
+      <description>Картридж Europrint EPC-60F5H00 от Europrint. Цена: 5200 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">23820</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="ОКЛ-4(G.652.D)-Т/С 2,7 кН" available="true">
+      <model>Кабель оптоволоконный ОКЛ-4(G.652.D)-Т/С 2,7 кН</model>
+      <brand>СКО</brand>
+      <categoryId>cables</categoryId>
+      <price>255</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ОКЛ-4(G.652.D)-Т/С 2,7 кН от СКО . Цена: 170 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ОКЛ-4(G.652.D)-Т/С 2,7 кН</param>
+        <param name="Бренд">СКО </param>
+      </params>
+    </offer>
+    <offer sku="SR66-BP1(0%Hg)" available="true">
+      <model>Батарейка CAMELION Silver Oxide SR66-BP1(0%Hg)</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>195</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Silver Oxide SR66-BP1(0%Hg) от Camelion. Цена: 112 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SR66-BP1(0%Hg)</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="ODWAC-22 (C201)" available="true">
+      <model>Анкерный зажим натяжной А-Оптик, АО-ODWAC-22 (C201)</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>180</price>
+      <currencyId>KZT</currencyId>
+      <description>Анкерный зажим натяжной А-Оптик, АО-ODWAC-22 (C201) от А-Оптик. Цена: 100 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ODWAC-22 (C201)</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="8228" available="true">
+      <model>Набор мини-кукол Lily 8228</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>3423</price>
+      <currencyId>KZT</currencyId>
+      <description>Набор мини-кукол Lily 8228 от XG. Цена: 2004 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">8228</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="RPCM 1502 (16A)" available="true">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1502 (16A)</model>
+      <brand>Rcntec</brand>
+      <categoryId>accessories</categoryId>
+      <price>879120</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль удаленного управления питанием RCNTEC RPCM 1502 (16A) от Rcntec. Цена: 799200 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RPCM 1502 (16A)</param>
+        <param name="Бренд">Rcntec</param>
+      </params>
+    </offer>
+    <offer sku="28024" available="true">
+      <model>Тонер-картридж Europrint EPC-TK1130</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>1531</price>
+      <currencyId>KZT</currencyId>
+      <description>Тонер-картридж Europrint EPC-TK1130 от Europrint. Цена: 1331 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">28024</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="XM-880OUB" available="true">
+      <model>Компьютерная мышь XG XM-880OUB</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>774</price>
+      <currencyId>KZT</currencyId>
+      <description>Компьютерная мышь XG XM-880OUB от XG. Цена: 480 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XM-880OUB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="DP-GH01-ARGB" available="true">
+      <model>Держатель видеокарты DeepCool GH-01 A-RGB</model>
+      <brand>Deepcool</brand>
+      <categoryId>accessories</categoryId>
+      <price>7383</price>
+      <currencyId>KZT</currencyId>
+      <description>Держатель видеокарты DeepCool GH-01 A-RGB от Deepcool. Цена: 5671 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DP-GH01-ARGB</param>
+        <param name="Бренд">Deepcool</param>
+      </params>
+    </offer>
+    <offer sku="3020V_BI" available="true">
+      <model>Монохромный принтер Xerox Phaser 3020BI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>62990</price>
+      <currencyId>KZT</currencyId>
+      <description>Монохромный принтер Xerox Phaser 3020BI от Xerox. Цена: 48000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">3020V_BI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="3025V_BI" available="true">
+      <model>Монохромное МФУ Xerox WorkCentre 3025BI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>89990</price>
+      <currencyId>KZT</currencyId>
+      <description>Монохромное МФУ Xerox WorkCentre 3025BI от Xerox. Цена: 69000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">3025V_BI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="ИКБ-Т-А4-2.7" available="true">
+      <model>Кабель оптоволоконный ИКБ-Т-А4-2.7 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>255</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИКБ-Т-А4-2.7 кН от Интегра. Цена: 130 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИКБ-Т-А4-2.7</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="ИКнг(А)-HF-М4П-А2-0.4кН" available="true">
+      <model>Кабель оптоволоконный ИКнг(А)-HF-М4П-А2-0.4 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>225</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИКнг(А)-HF-М4П-А2-0.4 кН от Интегра. Цена: 150 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИКнг(А)-HF-М4П-А2-0.4кН</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="21601" available="true">
+      <model>Труба гофрированная ПНД РУВИНИЛ 21601 16мм безгалогенная</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>114</price>
+      <currencyId>KZT</currencyId>
+      <description>Труба гофрированная ПНД РУВИНИЛ 21601 16мм безгалогенная от Ruvinil. Цена: 95 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">21601</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="К01116" available="true">
+      <model>Крепёж-клипса для трубы РУВИНИЛ К01116 16 мм</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>16</price>
+      <currencyId>KZT</currencyId>
+      <description>Крепёж-клипса для трубы РУВИНИЛ К01116 16 мм от Ruvinil. Цена: 12 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">К01116</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="11258" available="true">
+      <model>Крышка лотка North Aurora КЛ 100-0.55</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>164</price>
+      <currencyId>KZT</currencyId>
+      <description>Крышка лотка North Aurora КЛ 100-0.55 от No name. Цена: 131 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="69"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">11258</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="ОВ8" available="true">
+      <model>Опорная поверхность North Aurora ОВ8</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>542</price>
+      <currencyId>KZT</currencyId>
+      <description>Опорная поверхность North Aurora ОВ8 от No name. Цена: 507 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ОВ8</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="Р3-Ц-15" available="true">
+      <model>Металлорукав РУВИНИЛ Р3-Ц-15</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>305</price>
+      <currencyId>KZT</currencyId>
+      <description>Металлорукав РУВИНИЛ Р3-Ц-15 от Ruvinil. Цена: 265 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Р3-Ц-15</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="SAC562DN-CK" available="true">
+      <model>Вызывная панель Competition SAC562DN-CK</model>
+      <brand>Competition</brand>
+      <categoryId>accessories</categoryId>
+      <price>33000</price>
+      <currencyId>KZT</currencyId>
+      <description>Вызывная панель Competition SAC562DN-CK от Competition. Цена: 19000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SAC562DN-CK</param>
+        <param name="Бренд">Competition</param>
+      </params>
+    </offer>
+    <offer sku="14323" available="true">
+      <model>Movement Sensor PST-IR401</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>7458</price>
+      <currencyId>KZT</currencyId>
+      <description>Movement Sensor PST-IR401 от No name. Цена: 6908 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">14323</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="SSXCQ01XY" available="true">
+      <model>Беспроводной вертикальный мини-пылесос Xiaomi Mi Vacuum Cleaner mini Белый</model>
+      <brand>MI</brand>
+      <categoryId>accessories</categoryId>
+      <price>22990</price>
+      <currencyId>KZT</currencyId>
+      <description>Беспроводной вертикальный мини-пылесос Xiaomi Mi Vacuum Cleaner mini Белый от MI. Цена: 18273 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SSXCQ01XY</param>
+        <param name="Бренд">MI</param>
+      </params>
+    </offer>
+    <offer sku="XMKDDYJ01HT" available="true">
+      <model>Портативный фотопринтер Mi Portable Photo Printer</model>
+      <brand>MI</brand>
+      <categoryId>accessories</categoryId>
+      <price>28990</price>
+      <currencyId>KZT</currencyId>
+      <description>Портативный фотопринтер Mi Portable Photo Printer от MI. Цена: 24963 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XMKDDYJ01HT</param>
+        <param name="Бренд">MI</param>
+      </params>
+    </offer>
+    <offer sku="AFP-620/CF-25" available="true">
+      <model>Вентилятор SVC AFP-620</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>2990</price>
+      <currencyId>KZT</currencyId>
+      <description>Вентилятор SVC AFP-620 от SVC. Цена: 2318 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AFP-620/CF-25</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="98938" available="true">
+      <model>Внешний привод Verbatim CD/DVD 98938 Slim USB Чёрный</model>
+      <brand>Verbatim</brand>
+      <categoryId>accessories</categoryId>
+      <price>21200</price>
+      <currencyId>KZT</currencyId>
+      <description>Внешний привод Verbatim CD/DVD 98938 Slim USB Чёрный от Verbatim. Цена: 14599 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">98938</param>
+        <param name="Бренд">Verbatim</param>
+      </params>
+    </offer>
+    <offer sku="6F22-SP1G" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty 6F22-SP1G</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>535</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty 6F22-SP1G от Camelion. Цена: 214 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6F22-SP1G</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="NB-218C EU" available="true">
+      <model>Компактный компрессорный небулайзер iHealth NEb</model>
+      <brand>IHealth</brand>
+      <categoryId>accessories</categoryId>
+      <price>10990</price>
+      <currencyId>KZT</currencyId>
+      <description>Компактный компрессорный небулайзер iHealth NEb от IHealth. Цена: 9480 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">NB-218C EU</param>
+        <param name="Бренд">IHealth</param>
+      </params>
+    </offer>
+    <offer sku="ИК/Д2-Т-А1-1.1 кН (плоский)" available="true">
+      <model>Кабель оптоволоконный ИК/Д2-Т-А1-1.1 кН (плоский)</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>120</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИК/Д2-Т-А1-1.1 кН (плоский) от Интегра. Цена: 80 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИК/Д2-Т-А1-1.1 кН (плоский)</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="R03P-SP4G" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R03P-SP4G 4 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>557</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R03P-SP4G 4 шт. в плёнке от Camelion. Цена: 205 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R03P-SP4G</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="C235V_DNI" available="true">
+      <model>Цветное МФУ Xerox C235DNI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>379362</price>
+      <currencyId>KZT</currencyId>
+      <description>Цветное МФУ Xerox C235DNI от Xerox. Цена: 322450 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C235V_DNI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="C230V_DNI" available="true">
+      <model>Цветной принтер Xerox C230DNI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>238763</price>
+      <currencyId>KZT</currencyId>
+      <description>Цветной принтер Xerox C230DNI от Xerox. Цена: 202943 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="41"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C230V_DNI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="A23-BP1" available="true">
+      <model>Батарейка CAMELION Alkaline A23-BP1</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>395</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Alkaline A23-BP1 от Camelion. Цена: 237 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">A23-BP1</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="F-M1" available="true">
+      <model>Оптический кросс SHIP F-M1</model>
+      <brand>Ship</brand>
+      <categoryId>accessories</categoryId>
+      <price>24000</price>
+      <currencyId>KZT</currencyId>
+      <description>Оптический кросс SHIP F-M1 от Ship. Цена: 16000 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">F-M1</param>
+        <param name="Бренд">Ship</param>
+      </params>
+    </offer>
+    <offer sku="NH-AAA900ARBP2" available="true">
+      <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AAA900ARBP2 2 шт. в блистере</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>2234</price>
+      <currencyId>KZT</currencyId>
+      <description>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AAA900ARBP2 2 шт. в блистере от Camelion. Цена: 1040 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">NH-AAA900ARBP2</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="97B" available="true">
+      <model>Набор иструментов Poholy NO.97B для прокладки электрических или автомобильных сетей</model>
+      <brand>Poholy</brand>
+      <categoryId>accessories</categoryId>
+      <price>22329</price>
+      <currencyId>KZT</currencyId>
+      <description>Набор иструментов Poholy NO.97B для прокладки электрических или автомобильных сетей от Poholy. Цена: 18261 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">97B</param>
+        <param name="Бренд">Poholy</param>
+      </params>
+    </offer>
+    <offer sku="MCH01NEB" available="true">
+      <model>Защитный шлем Xiaomi Mi Commuter Helmet Черный</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>25990</price>
+      <currencyId>KZT</currencyId>
+      <description>Защитный шлем Xiaomi Mi Commuter Helmet Черный от Xiaomi. Цена: 19857 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MCH01NEB</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="Р3-Ц-ПВХ-15" available="true">
+      <model>Металлорукав РУВИНИЛ Р3-Ц-ПВХ-15</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>580</price>
+      <currencyId>KZT</currencyId>
+      <description>Металлорукав РУВИНИЛ Р3-Ц-ПВХ-15 от Ruvinil. Цена: 358 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="100"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Р3-Ц-ПВХ-15</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="WB Used for MLT-101" available="true">
+      <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>145</price>
+      <currencyId>KZT</currencyId>
+      <description>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S) от Europrint. Цена: 126 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">WB Used for MLT-101</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="МС4" available="true">
+      <model>Коннектор для солнечных панелей SVC МС4</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>704</price>
+      <currencyId>KZT</currencyId>
+      <description>Коннектор для солнечных панелей SVC МС4 от SVC. Цена: 541 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">МС4</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="C7101V_D" available="true">
+      <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>1210000</price>
+      <currencyId>KZT</currencyId>
+      <description>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация от Xerox. Цена: 1025000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="43"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C7101V_D</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="LFQ03KL" available="true">
+      <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>13990</price>
+      <currencyId>KZT</currencyId>
+      <description>Машинка для стрижки волос Xiaomi Hair Clipper Черный от Xiaomi. Цена: 11272 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">LFQ03KL</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="GFLQ-C2-1*16-PLC-G657A1-SC/APC" available="true">
+      <model>Делитель оптический планарный PLC-M-1x16 в корпусе</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>4500</price>
+      <currencyId>KZT</currencyId>
+      <description>Делитель оптический планарный PLC-M-1x16 в корпусе от А-Оптик. Цена: 2600 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">GFLQ-C2-1*16-PLC-G657A1-SC/APC</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="AC-M18-SC" available="true">
+      <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>44990</price>
+      <currencyId>KZT</currencyId>
+      <description>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый от Xiaomi. Цена: 37152 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AC-M18-SC</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="AFEP7TFM01" available="true">
+      <model>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>16990</price>
+      <currencyId>KZT</currencyId>
+      <description>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый от Xiaomi. Цена: 12946 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="46"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AFEP7TFM01</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="XG100" available="true">
+      <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>148990</price>
+      <currencyId>KZT</currencyId>
+      <description>Персональный компьютер XG Basic XG100 Win Pro 11 от XG. Цена: 102172 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XG100</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="OBTK300CH" available="true">
+      <model>Конструктор ONEBOT Building Block Off-Road Vehicle-Tank 300 580+ OBTK300CH</model>
+      <brand>ONEBOT</brand>
+      <categoryId>accessories</categoryId>
+      <price>49990</price>
+      <currencyId>KZT</currencyId>
+      <description>Конструктор ONEBOT Building Block Off-Road Vehicle-Tank 300 580+ OBTK300CH от ONEBOT. Цена: 41060 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="122"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">OBTK300CH</param>
+        <param name="Бренд">ONEBOT</param>
+      </params>
+    </offer>
+    <offer sku="MJJSQ06DY" available="true">
+      <model>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Lite Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>19990</price>
+      <currencyId>KZT</currencyId>
+      <description>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Lite Белый от Xiaomi. Цена: 15102 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MJJSQ06DY</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="N-SP1100HC" available="true">
+      <model>Картридж Europrint EPC-SP110E</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>6442</price>
+      <currencyId>KZT</currencyId>
+      <description>Картридж Europrint EPC-SP110E от Europrint. Цена: 5602 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">N-SP1100HC</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="EA-60" available="true">
+      <model>Атмосферный водогенератор EA-60</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>1666807</price>
+      <currencyId>KZT</currencyId>
+      <description>Атмосферный водогенератор EA-60 от SVC. Цена: 1452143 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">EA-60</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="DA807" available="true">
+      <model>Внутренняя SNMP карта DA807</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>64474</price>
+      <currencyId>KZT</currencyId>
+      <description>Внутренняя SNMP карта DA807 от SVC. Цена: 53728 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="199"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DA807</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="ZJB4143GL" available="true">
+      <model>Рюкзак Xiaomi Casual Daypack Черный</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>4990</price>
+      <currencyId>KZT</currencyId>
+      <description>Рюкзак Xiaomi Casual Daypack Черный от Xiaomi. Цена: 3476 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ZJB4143GL</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="DHI-ASI7213X" available="true">
+      <model>Контроллер доступа Dahua DHI-ASI7213X</model>
+      <brand>Dahua</brand>
+      <categoryId>accessories</categoryId>
+      <price>176000</price>
+      <currencyId>KZT</currencyId>
+      <description>Контроллер доступа Dahua DHI-ASI7213X от Dahua. Цена: 141000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DHI-ASI7213X</param>
+        <param name="Бренд">Dahua</param>
+      </params>
+    </offer>
+    <offer sku="YD-02" available="true">
+      <model>Комплект для уборки Yijie Rotary Mop Set Белый</model>
+      <brand>Yijie</brand>
+      <categoryId>accessories</categoryId>
+      <price>10990</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект для уборки Yijie Rotary Mop Set Белый от Yijie. Цена: 6757 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">YD-02</param>
+        <param name="Бренд">Yijie</param>
+      </params>
+    </offer>
+    <offer sku="16972" available="true">
+      <model>Абонентский FTTH Патч Корд SС/UPC-SC/APC SM 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1350</price>
+      <currencyId>KZT</currencyId>
+      <description>Абонентский FTTH Патч Корд SС/UPC-SC/APC SM 1 м от АЗОП. Цена: 900 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16972</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="CJ-JS01" available="true">
+      <model>Вакуумная пробка Circle Joy Mini stopper Серебристый</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>3190</price>
+      <currencyId>KZT</currencyId>
+      <description>Вакуумная пробка Circle Joy Mini stopper Серебристый от No name. Цена: 2672 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CJ-JS01</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="18099" available="true">
+      <model>Пигтейл Оптический LC/UPC MM OM2 50/125 0.9 мм 1.5 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>accessories</categoryId>
+      <price>539</price>
+      <currencyId>KZT</currencyId>
+      <description>Пигтейл Оптический LC/UPC MM OM2 50/125 0.9 мм 1.5 м от АЗОП. Цена: 490 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">18099</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="MOGO Pro+" available="true">
+      <model>Проектор портативный XGIMI MOGO Pro +</model>
+      <brand>Xgimi</brand>
+      <categoryId>accessories</categoryId>
+      <price>460089</price>
+      <currencyId>KZT</currencyId>
+      <description>Проектор портативный XGIMI MOGO Pro + от Xgimi. Цена: 214000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MOGO Pro+</param>
+        <param name="Бренд">Xgimi</param>
+      </params>
+    </offer>
+    <offer sku="497ABF" available="true">
+      <model>Пылесос для оргтехники SCS-67424 (497ABF)</model>
+      <brand>Scs</brand>
+      <categoryId>accessories</categoryId>
+      <price>251434</price>
+      <currencyId>KZT</currencyId>
+      <description>Пылесос для оргтехники SCS-67424 (497ABF) от Scs. Цена: 228576 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">497ABF</param>
+        <param name="Бренд">Scs</param>
+      </params>
+    </offer>
+    <offer sku="4g" available="true">
+      <model>Термопаста X-Game в шприце 4 г</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>1500</price>
+      <currencyId>KZT</currencyId>
+      <description>Термопаста X-Game в шприце 4 г от XG. Цена: 880 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">4g</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="C35-7W-E27-4200K" available="true">
+      <model>Эл. лампа светодиодная SVC LED C35-7W-E27-4200K, Нейтральный</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>260</price>
+      <currencyId>KZT</currencyId>
+      <description>Эл. лампа светодиодная SVC LED C35-7W-E27-4200K, Нейтральный от SVC. Цена: 260 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C35-7W-E27-4200K</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="C35-7W-E14-4200K" available="true">
+      <model>Эл. лампа светодиодная SVC LED C35-7W-E14-4200K, Нейтральный</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>260</price>
+      <currencyId>KZT</currencyId>
+      <description>Эл. лампа светодиодная SVC LED C35-7W-E14-4200K, Нейтральный от SVC. Цена: 260 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="60"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C35-7W-E14-4200K</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="JCDR-7W-GU5.3-3000K" available="true">
+      <model>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-3000K, Тёплый</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>265</price>
+      <currencyId>KZT</currencyId>
+      <description>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-3000K, Тёплый от SVC. Цена: 265 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">JCDR-7W-GU5.3-3000K</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="CSE-825TQC-R802LPB" available="true">
+      <model>Серверное шасси Supermicro CSE-825TQC-R802LPB</model>
+      <brand>Supermicro</brand>
+      <categoryId>accessories</categoryId>
+      <price>963070</price>
+      <currencyId>KZT</currencyId>
+      <description>Серверное шасси Supermicro CSE-825TQC-R802LPB от Supermicro. Цена: 802558 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CSE-825TQC-R802LPB</param>
+        <param name="Бренд">Supermicro</param>
+      </params>
+    </offer>
+    <offer sku="ИКАЛс-М4П-А4-3 кН" available="true">
+      <model>Кабель оптоволоконный ИКАЛс-М4П-А4-3 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>293</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИКАЛс-М4П-А4-3 кН от Интегра. Цена: 170 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИКАЛс-М4П-А4-3 кН</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="LSWM1STK" available="true">
+      <model>Пассивный кабель H3C LSWM1STK</model>
+      <brand>H3C</brand>
+      <categoryId>cables</categoryId>
+      <price>32155</price>
+      <currencyId>KZT</currencyId>
+      <description>Пассивный кабель H3C LSWM1STK от H3C. Цена: 26800 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">LSWM1STK</param>
+        <param name="Бренд">H3C</param>
+      </params>
+    </offer>
+    <offer sku="UTP RJ-9" available="true">
+      <model>Коннектор RJ-9 телекоммуникационный</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>17</price>
+      <currencyId>KZT</currencyId>
+      <description>Коннектор RJ-9 телекоммуникационный от No name. Цена: 12 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">UTP RJ-9</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="E1009" available="true">
+      <model>Наушники 1MORE Piston Fit In-Ear Headphones E1009 Серебристый</model>
+      <brand>1MORE</brand>
+      <categoryId>accessories</categoryId>
+      <price>2990</price>
+      <currencyId>KZT</currencyId>
+      <description>Наушники 1MORE Piston Fit In-Ear Headphones E1009 Серебристый от 1MORE. Цена: 2293 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="42"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">E1009</param>
+        <param name="Бренд">1MORE</param>
+      </params>
+    </offer>
+    <offer sku="43893" available="true">
+      <model>Чехол для планшета Flip Case for Redmi Pad White</model>
+      <brand>Redmi</brand>
+      <categoryId>accessories</categoryId>
+      <price>9990</price>
+      <currencyId>KZT</currencyId>
+      <description>Чехол для планшета Flip Case for Redmi Pad White от Redmi . Цена: 9950 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">43893</param>
+        <param name="Бренд">Redmi </param>
+      </params>
+    </offer>
+    <offer sku="Чаша" available="true">
+      <model>Чаши для каркасных и надувных бассейнов Bestway и Intex</model>
+      <brand>Bestway</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Чаши для каркасных и надувных бассейнов Bestway и Intex от Bestway. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Чаша</param>
+        <param name="Бренд">Bestway</param>
+      </params>
+    </offer>
+    <offer sku="AV12-6/S" available="true">
+      <model>Аккумуляторная батарея SVC AV12-6/S 6В 12 Ач</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>3540</price>
+      <currencyId>KZT</currencyId>
+      <description>Аккумуляторная батарея SVC AV12-6/S 6В 12 Ач от SVC. Цена: 2950 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AV12-6/S</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="A400" available="true">
+      <model>Графический процессор (видеокарта) NVIDIA RTX A400</model>
+      <brand>Nvidia</brand>
+      <categoryId>accessories</categoryId>
+      <price>0</price>
+      <currencyId>KZT</currencyId>
+      <description>Графический процессор (видеокарта) NVIDIA RTX A400 от Nvidia</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">A400</param>
+        <param name="Бренд">Nvidia</param>
+      </params>
+    </offer>
+    <offer sku="S101" available="true">
+      <model>Электробритва Xiaomi Electric Shaver S101 Синий</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>9990</price>
+      <currencyId>KZT</currencyId>
+      <description>Электробритва Xiaomi Electric Shaver S101 Синий от Xiaomi. Цена: 9990 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">S101</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="929003284802" available="true">
+      <model>Светильник Philips 59441 MESON 080 3.5W 40K WH recessed LED</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>1600</price>
+      <currencyId>KZT</currencyId>
+      <description>Светильник Philips 59441 MESON 080 3.5W 40K WH recessed LED от Philips. Цена: 1265 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">929003284802</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="929001276337" available="true">
+      <model>Лампа Philips Ecofit LEDtube 600mm 8W 865 T8 I RCA</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>1056</price>
+      <currencyId>KZT</currencyId>
+      <description>Лампа Philips Ecofit LEDtube 600mm 8W 865 T8 I RCA от Philips. Цена: 836 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">929001276337</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="N-PC-211EV" available="true">
+      <model>Картридж Europrint EPC-PC211EV</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>3901</price>
+      <currencyId>KZT</currencyId>
+      <description>Картридж Europrint EPC-PC211EV от Europrint. Цена: 3334 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">N-PC-211EV</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="911401890982" available="true">
+      <model>Однофазный прожектор Philips ST033T LED25/840 30W 220-240V I WB BK GM</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>14520</price>
+      <currencyId>KZT</currencyId>
+      <description>Однофазный прожектор Philips ST033T LED25/840 30W 220-240V I WB BK GM от Philips. Цена: 11253 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">911401890982</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="911401735852" available="true">
+      <model>Cветильник Philips WT045C LED12/NW PSU CFW L1054</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>4070</price>
+      <currencyId>KZT</currencyId>
+      <description>Cветильник Philips WT045C LED12/NW PSU CFW L1054 от Philips. Цена: 3250 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">911401735852</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="M2250AS1" available="true">
+      <model>Сменный браслет для Xiaomi Smart Band 8 Aqua Blue</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>3990</price>
+      <currencyId>KZT</currencyId>
+      <description>Сменный браслет для Xiaomi Smart Band 8 Aqua Blue от Xiaomi. Цена: 3282 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">M2250AS1</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CT-2027" available="true">
+      <model>Выпрямитель для волос Centek CT-2027</model>
+      <brand>Centek</brand>
+      <categoryId>accessories</categoryId>
+      <price>5490</price>
+      <currencyId>KZT</currencyId>
+      <description>Выпрямитель для волос Centek CT-2027 от Centek. Цена: 4667 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CT-2027</param>
+        <param name="Бренд">Centek</param>
+      </params>
+    </offer>
+    <offer sku="B112-ZS" available="true">
+      <model>Основная щётка для робота-пылесоса Xiaomi Robot Vacuum E10</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>3990</price>
+      <currencyId>KZT</currencyId>
+      <description>Основная щётка для робота-пылесоса Xiaomi Robot Vacuum E10 от Xiaomi. Цена: 2700 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="24"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">B112-ZS</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="097N02470" available="true">
+      <model>Модуль для беспроводного подключения Xerox 097N02470</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>53921</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль для беспроводного подключения Xerox 097N02470 от Xerox. Цена: 45830 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">097N02470</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="QWLDZ001" available="true">
+      <model>Дрель-шуруповерт HOTO 12V Brushless Drill</model>
+      <brand>HOTO</brand>
+      <categoryId>accessories</categoryId>
+      <price>43990</price>
+      <currencyId>KZT</currencyId>
+      <description>Дрель-шуруповерт HOTO 12V Brushless Drill от HOTO. Цена: 31066 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">QWLDZ001</param>
+        <param name="Бренд">HOTO</param>
+      </params>
+    </offer>
+    <offer sku="DRACUSB16-EU" available="true">
+      <model>Универсальное зарядное устройство Duracell DRACUSB16-EU 24W 2хUSB-A Черный</model>
+      <brand>Duracell</brand>
+      <categoryId>accessories</categoryId>
+      <price>7890</price>
+      <currencyId>KZT</currencyId>
+      <description>Универсальное зарядное устройство Duracell DRACUSB16-EU 24W 2хUSB-A Черный от Duracell. Цена: 6350 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DRACUSB16-EU</param>
+        <param name="Бренд">Duracell</param>
+      </params>
+    </offer>
+    <offer sku="DS-KP6000-HE1" available="true">
+      <model>IP телефон Hikvision DS-KP6000-HE1</model>
+      <brand>Hikvision</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>IP телефон Hikvision DS-KP6000-HE1 от Hikvision. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DS-KP6000-HE1</param>
+        <param name="Бренд">Hikvision</param>
+      </params>
+    </offer>
+    <offer sku="HMAG68EXNEA" available="true">
+      <model>Модуль памяти Hynix HMAG68EXNEA DDR4-3200 1Rx8 ECC UDIMM 8GB 3200MHz</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>34508</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль памяти Hynix HMAG68EXNEA DDR4-3200 1Rx8 ECC UDIMM 8GB 3200MHz от No name. Цена: 24496 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">HMAG68EXNEA</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="911401876385" available="true">
+      <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>9096</price>
+      <currencyId>KZT</currencyId>
+      <description>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL от Philips. Цена: 7740 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">911401876385</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="ИКД3-0А1-1.0" available="true">
+      <model>Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>60</price>
+      <currencyId>KZT</currencyId>
+      <description>Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН от Интегра. Цена: 40 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИКД3-0А1-1.0</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="URTM028" available="true">
+      <model>Монуальная дорожка для ходьбы Urevo Spacewalk E3S Черный</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>143490</price>
+      <currencyId>KZT</currencyId>
+      <description>Монуальная дорожка для ходьбы Urevo Spacewalk E3S Черный от No name. Цена: 102188 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">URTM028</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="MLLA7160" available="true">
+      <model>Косилка-робот Dreame Roboticmower A1</model>
+      <brand>Dreame</brand>
+      <categoryId>accessories</categoryId>
+      <price>1229990</price>
+      <currencyId>KZT</currencyId>
+      <description>Косилка-робот Dreame Roboticmower A1 от Dreame. Цена: 1229990 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MLLA7160</param>
+        <param name="Бренд">Dreame</param>
+      </params>
+    </offer>
+    <offer sku="T11" available="true">
+      <model>Настольный очиститель воды Dreame Counter Top Water Purifier T11</model>
+      <brand>Dreame</brand>
+      <categoryId>accessories</categoryId>
+      <price>0</price>
+      <currencyId>KZT</currencyId>
+      <description>Настольный очиститель воды Dreame Counter Top Water Purifier T11 от Dreame</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">T11</param>
+        <param name="Бренд">Dreame</param>
+      </params>
+    </offer>
+    <offer sku="067161" available="true">
+      <model>Розетка Celiane 067161 2К+З нем.ст. винт.зажимы механизм</model>
+      <brand>Legrand</brand>
+      <categoryId>accessories</categoryId>
+      <price>2345</price>
+      <currencyId>KZT</currencyId>
+      <description>Розетка Celiane 067161 2К+З нем.ст. винт.зажимы механизм от Legrand. Цена: 1524 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">067161</param>
+        <param name="Бренд">Legrand</param>
+      </params>
+    </offer>
+    <offer sku="XK-220OGB" available="true">
+      <model>Клавиатура XG XK-220OGB</model>
+      <brand>XG</brand>
+      <categoryId>keyboards</categoryId>
+      <price>3400</price>
+      <currencyId>KZT</currencyId>
+      <description>Клавиатура XG XK-220OGB от XG. Цена: 2650 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XK-220OGB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="FOSC-400A4-24F" available="true">
+      <model>Муфта оптическая А-Оптик FOSC-400A4-24F</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>15000</price>
+      <currencyId>KZT</currencyId>
+      <description>Муфта оптическая А-Оптик FOSC-400A4-24F от А-Оптик. Цена: 9000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">FOSC-400A4-24F</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="DSS8PRVB" available="true">
+      <model>Базовая лицензия видео для DSS Pro Dahua DSS8PRVB</model>
+      <brand>Dahua</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Базовая лицензия видео для DSS Pro Dahua DSS8PRVB от Dahua. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DSS8PRVB</param>
+        <param name="Бренд">Dahua</param>
+      </params>
+    </offer>
+    <offer sku="ES-1000-LCD" available="true">
+      <model>Инвертор SVC ES-1000-LCD</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>50027</price>
+      <currencyId>KZT</currencyId>
+      <description>Инвертор SVC ES-1000-LCD от SVC. Цена: 41689 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ES-1000-LCD</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="37501R" available="true">
+      <model>Никелированная пластина для заземления DKC 37501R PTCE</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>638</price>
+      <currencyId>KZT</currencyId>
+      <description>Никелированная пластина для заземления DKC 37501R PTCE от ДКС. Цена: 531 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">37501R</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="BPL2930" available="true">
+      <model>П-образный профиль PSL DKC BPL2930 L3000 толщ.1,5 мм</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>3766</price>
+      <currencyId>KZT</currencyId>
+      <description>П-образный профиль PSL DKC BPL2930 L3000 толщ.1,5 мм от ДКС. Цена: 3138 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">BPL2930</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="BSF2901" available="true">
+      <model>Крепление к потолку SSM DKC BSF2901</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>6789</price>
+      <currencyId>KZT</currencyId>
+      <description>Крепление к потолку SSM DKC BSF2901 от ДКС. Цена: 5657 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">BSF2901</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="FC5005" available="true">
+      <model>Проволочный лоток 50х50 DKC FC5005 L3000</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>2243</price>
+      <currencyId>KZT</currencyId>
+      <description>Проволочный лоток 50х50 DKC FC5005 L3000 от ДКС. Цена: 1869 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">FC5005</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="BHR7919EU" available="true">
+      <model>Рисоварка Xiaomi Smart Multifunctional Rice Cooker</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>39990</price>
+      <currencyId>KZT</currencyId>
+      <description>Рисоварка Xiaomi Smart Multifunctional Rice Cooker от Xiaomi. Цена: 23866 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">BHR7919EU</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CM-10115 (140 g)" available="true">
+      <model>Тонер Comet CM-101-15 (140 гр.)</model>
+      <brand>Comet</brand>
+      <categoryId>accessories</categoryId>
+      <price>1065</price>
+      <currencyId>KZT</currencyId>
+      <description>Тонер Comet CM-101-15 (140 гр.) от Comet. Цена: 926 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CM-10115 (140 g)</param>
+        <param name="Бренд">Comet</param>
+      </params>
+    </offer>
+    <offer sku="ZMNFJ01YMEU" available="true">
+      <model>Настольный обогреватель Xiaomi Desktop Heater Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>20990</price>
+      <currencyId>KZT</currencyId>
+      <description>Настольный обогреватель Xiaomi Desktop Heater Белый от Xiaomi. Цена: 18500 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ZMNFJ01YMEU</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="R5ST0331" available="true">
+      <model>Корпус навесной ST c м/п DKC 300x300х150 мм IP66</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>40936</price>
+      <currencyId>KZT</currencyId>
+      <description>Корпус навесной ST c м/п DKC 300x300х150 мм IP66 от ДКС. Цена: 36550 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R5ST0331</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="M2351W1" available="true">
+      <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
+      <brand>Redmi</brand>
+      <categoryId>accessories</categoryId>
+      <price>16490</price>
+      <currencyId>KZT</currencyId>
+      <description>Смарт часы Redmi Watch 5 Active Midnight Black от Redmi . Цена: 16490 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">M2351W1</param>
+        <param name="Бренд">Redmi </param>
+      </params>
+    </offer>
+    <offer sku="EZ9R34225" available="true">
+      <model>Выключатель дифференциального тока SE EASY9 2P 25А 30мА</model>
+      <brand>Schneider Electric</brand>
+      <categoryId>accessories</categoryId>
+      <price>15703</price>
+      <currencyId>KZT</currencyId>
+      <description>Выключатель дифференциального тока SE EASY9 2P 25А 30мА от Schneider Electric. Цена: 11460 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="46"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">EZ9R34225</param>
+        <param name="Бренд">Schneider Electric</param>
+      </params>
+    </offer>
+    <offer sku="BHB876/00" available="true">
+      <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
+      <brand>Philips</brand>
+      <categoryId>accessories</categoryId>
+      <price>102990</price>
+      <currencyId>KZT</currencyId>
+      <description>Автоматические щипцы для завивки Philips Style Care BHB876/00 от Philips. Цена: 102990 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">BHB876/00</param>
+        <param name="Бренд">Philips</param>
+      </params>
+    </offer>
+    <offer sku="62916" available="true">
+      <model>Труба гладкая жёсткая ПВХ DKC 62916 16 мм</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>237</price>
+      <currencyId>KZT</currencyId>
+      <description>Труба гладкая жёсткая ПВХ DKC 62916 16 мм от ДКС. Цена: 197 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">62916</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="MJZXB03WCHW" available="true">
+      <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>1490</price>
+      <currencyId>KZT</currencyId>
+      <description>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack) от Xiaomi. Цена: 1300 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MJZXB03WCHW</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="XMDS05YM" available="true">
+      <model>Док-станция Xiaomi 5-in-1 Type-C Hub</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>16990</price>
+      <currencyId>KZT</currencyId>
+      <description>Док-станция Xiaomi 5-in-1 Type-C Hub от Xiaomi. Цена: 14000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XMDS05YM</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="258091" available="true">
+      <model>Реле времени CHINT NTE8-480B 0.5-8мин 1НО AC 230В</model>
+      <brand>CHINT</brand>
+      <categoryId>accessories</categoryId>
+      <price>7610</price>
+      <currencyId>KZT</currencyId>
+      <description>Реле времени CHINT NTE8-480B 0.5-8мин 1НО AC 230В от CHINT. Цена: 6469 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">258091</param>
+        <param name="Бренд">CHINT</param>
+      </params>
+    </offer>
+    <offer sku="DH-IPC-HFW1839TC-A-IL" available="true">
+      <model>IP видеокамера Dahua DH-IPC-HFW1839TC-A-IL</model>
+      <brand>Dahua</brand>
+      <categoryId>accessories</categoryId>
+      <price>55238</price>
+      <currencyId>KZT</currencyId>
+      <description>IP видеокамера Dahua DH-IPC-HFW1839TC-A-IL от Dahua. Цена: 38666 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DH-IPC-HFW1839TC-A-IL</param>
+        <param name="Бренд">Dahua</param>
+      </params>
+    </offer>
+    <offer sku="6536C022AA" available="true">
+      <model>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5</model>
+      <brand>Canon</brand>
+      <categoryId>accessories</categoryId>
+      <price>2396990</price>
+      <currencyId>KZT</currencyId>
+      <description>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5 от Canon. Цена: 1917093 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6536C022AA</param>
+        <param name="Бренд">Canon</param>
+      </params>
+    </offer>
+    <offer sku="TK-182" available="true">
+      <model>Комплект для чистки оптоволоконных разъемов TK-182</model>
+      <brand>Jonard Tools</brand>
+      <categoryId>accessories</categoryId>
+      <price>150000</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект для чистки оптоволоконных разъемов TK-182 от Jonard Tools. Цена: 90000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">TK-182</param>
+        <param name="Бренд">Jonard Tools</param>
+      </params>
+    </offer>
+    <offer sku="35510" available="true">
+      <model>Крышка с заземлением на лоток DKC 35510 осн.50 L2000</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>1132</price>
+      <currencyId>KZT</currencyId>
+      <description>Крышка с заземлением на лоток DKC 35510 осн.50 L2000 от ДКС. Цена: 943 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">35510</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="36470" available="true">
+      <model>Перегородка SEP DKC 36470 L2000 Н50</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>1952</price>
+      <currencyId>KZT</currencyId>
+      <description>Перегородка SEP DKC 36470 L2000 Н50 от ДКС. Цена: 1626 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">36470</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="4X77A81438" available="true">
+      <model>Модуль памяти Lenovo ThinkSystem 32GB TruDDR5 4800 MHz (1Rx4) 10x4 RDIMM-A</model>
+      <brand>Lenovo</brand>
+      <categoryId>accessories</categoryId>
+      <price>166052</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль памяти Lenovo ThinkSystem 32GB TruDDR5 4800 MHz (1Rx4) 10x4 RDIMM-A от Lenovo. Цена: 138377 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">4X77A81438</param>
+        <param name="Бренд">Lenovo</param>
+      </params>
+    </offer>
+    <offer sku="088090" available="true">
+      <model>Коробка монтажная нерегулируемая 65-90 mm 8-12 модулей Legrand 088090 Серый</model>
+      <brand>Legrand</brand>
+      <categoryId>accessories</categoryId>
+      <price>55174</price>
+      <currencyId>KZT</currencyId>
+      <description>Коробка монтажная нерегулируемая 65-90 mm 8-12 модулей Legrand 088090 Серый от Legrand. Цена: 40863 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">088090</param>
+        <param name="Бренд">Legrand</param>
+      </params>
+    </offer>
+    <offer sku="XMTSJ01FD" available="true">
+      <model>Тостер Xiaomi Toaster Черный</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>21990</price>
+      <currencyId>KZT</currencyId>
+      <description>Тостер Xiaomi Toaster Черный от Xiaomi. Цена: 15424 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XMTSJ01FD</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CME003-EU" available="true">
+      <model>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>65990</price>
+      <currencyId>KZT</currencyId>
+      <description>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый от Xiaomi. Цена: 46618 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CME003-EU</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CP.AG.00000806.07" available="true">
+      <model>Сельскохозяйственный дрон DJI Agras T50</model>
+      <brand>DJI</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Сельскохозяйственный дрон DJI Agras T50 от DJI. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CP.AG.00000806.07</param>
+        <param name="Бренд">DJI</param>
+      </params>
+    </offer>
+    <offer sku="CP.RN.00000203.01" available="true">
+      <model>Зарядная станция DJI WB37 Battery Charging Hub USB-C</model>
+      <brand>DJI</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Зарядная станция DJI WB37 Battery Charging Hub USB-C от DJI. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CP.RN.00000203.01</param>
+        <param name="Бренд">DJI</param>
+      </params>
+    </offer>
+    <offer sku="CP.EN.00000445.04" available="true">
+      <model>Квадрокоптер DJI Mavic 3 Multispectral (Universal edition)</model>
+      <brand>DJI</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Квадрокоптер DJI Mavic 3 Multispectral (Universal edition) от DJI. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CP.EN.00000445.04</param>
+        <param name="Бренд">DJI</param>
+      </params>
+    </offer>
+    <offer sku="4XB7A90874" available="true">
+      <model>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5" Multi Vendor 960GB RI v2</model>
+      <brand>Lenovo</brand>
+      <categoryId>accessories</categoryId>
+      <price>165090</price>
+      <currencyId>KZT</currencyId>
+      <description>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5" Multi Vendor 960GB RI v2 от Lenovo. Цена: 137575 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">4XB7A90874</param>
+        <param name="Бренд">Lenovo</param>
+      </params>
+    </offer>
+    <offer sku="NC2254" available="true">
+      <model>Полоса 25х4 мм DKC NC2254 горячеоцинкованная сталь</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>2209</price>
+      <currencyId>KZT</currencyId>
+      <description>Полоса 25х4 мм DKC NC2254 горячеоцинкованная сталь от ДКС. Цена: 1546 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">NC2254</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="КТ-168" available="true">
+      <model>Электрическая плита для розжига углей для кальяна Kitfort КТ-168</model>
+      <brand>Kitfort</brand>
+      <categoryId>accessories</categoryId>
+      <price>16090</price>
+      <currencyId>KZT</currencyId>
+      <description>Электрическая плита для розжига углей для кальяна Kitfort КТ-168 от Kitfort. Цена: 16090 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">КТ-168</param>
+        <param name="Бренд">Kitfort</param>
+      </params>
+    </offer>
+    <offer sku="4X97A88521" available="true">
+      <model>Комплект кабелей Lenovo ThinkSystem SR630 V3 M.2 NVMe 2-Bay RAID Cable Kit</model>
+      <brand>Lenovo</brand>
+      <categoryId>accessories</categoryId>
+      <price>35731</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект кабелей Lenovo ThinkSystem SR630 V3 M.2 NVMe 2-Bay RAID Cable Kit от Lenovo. Цена: 29776 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">4X97A88521</param>
+        <param name="Бренд">Lenovo</param>
+      </params>
+    </offer>
+    <offer sku="4F17A14487" available="true">
+      <model>Вентилятор (Кулер) для корпуса Lenovo ThinkSystem SR630 V2/SR645 Performance</model>
+      <brand>Lenovo</brand>
+      <categoryId>accessories</categoryId>
+      <price>27786</price>
+      <currencyId>KZT</currencyId>
+      <description>Вентилятор (Кулер) для корпуса Lenovo ThinkSystem SR630 V2/SR645 Performance от Lenovo. Цена: 23155 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">4F17A14487</param>
+        <param name="Бренд">Lenovo</param>
+      </params>
+    </offer>
+    <offer sku="LI8060" available="true">
+      <model>Лестничный лоток 80х600 плюс DKC LI8060 L 3000</model>
+      <brand>ДКС</brand>
+      <categoryId>accessories</categoryId>
+      <price>11768</price>
+      <currencyId>KZT</currencyId>
+      <description>Лестничный лоток 80х600 плюс DKC LI8060 L 3000 от ДКС. Цена: 9806 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">LI8060</param>
+        <param name="Бренд">ДКС</param>
+      </params>
+    </offer>
+    <offer sku="XG DLS-M240x135W" available="true">
+      <model>Экран XG DLS-M240x135W (94"х53"), Ø - 108", 16:9</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>54680</price>
+      <currencyId>KZT</currencyId>
+      <description>Экран XG DLS-M240x135W (94"х53"), Ø - 108", 16:9 от XG. Цена: 31550 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XG DLS-M240x135W</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="LR01-96" available="true">
+      <model>Крышка-экран LARA LR01-96</model>
+      <brand>LARA</brand>
+      <categoryId>accessories</categoryId>
+      <price>990</price>
+      <currencyId>KZT</currencyId>
+      <description>Крышка-экран LARA LR01-96 от LARA. Цена: 638 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">LR01-96</param>
+        <param name="Бренд">LARA</param>
+      </params>
+    </offer>
+    <offer sku="CET101058" available="true">
+      <model>Фотобарабан CET iR1600 (CET101058)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>4581</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET iR1600 (CET101058) от CET. Цена: 4034 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET101058</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="XMFG-M451" available="true">
+      <model>Перкуссионный массажер Xiaomi Massage Gun 2 Черный</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>45990</price>
+      <currencyId>KZT</currencyId>
+      <description>Перкуссионный массажер Xiaomi Massage Gun 2 Черный от Xiaomi. Цена: 32434 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XMFG-M451</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CET101030" available="true">
+      <model>Фотобарабан CET C7020/7030 (CET101030)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>17517</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET C7020/7030 (CET101030) от CET. Цена: 15424 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET101030</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET9005N" available="true">
+      <model>Фотобарабан CET 502/602 (CET9005N)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>26885</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET 502/602 (CET9005N) от CET. Цена: 23673 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET9005N</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="MSYSJ03-EU" available="true">
+      <model>Диспенсер для воды Xiaomi Instant Hot Water Dispenser Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>39990</price>
+      <currencyId>KZT</currencyId>
+      <description>Диспенсер для воды Xiaomi Instant Hot Water Dispenser Белый от Xiaomi. Цена: 32869 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MSYSJ03-EU</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="CET6415" available="true">
+      <model>Фотобарабан CET DK-130 (CET6415)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>13674</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET DK-130 (CET6415) от CET. Цена: 12040 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET6415</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET5231" available="true">
+      <model>Фотобарабан CET DP1520/DP1820 (CET5231)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>5208</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET DP1520/DP1820 (CET5231) от CET. Цена: 4586 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET5231</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET6232" available="true">
+      <model>Фотобарабан CET MPC2503 (CET6232)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>18671</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET MPC2503 (CET6232) от CET. Цена: 16441 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET6232</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET1833N" available="true">
+      <model>Фотобарабан CET AR-M160 (CET1833N)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>8940</price>
+      <currencyId>KZT</currencyId>
+      <description>Фотобарабан CET AR-M160 (CET1833N) от CET. Цена: 7872 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET1833N</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="3421C001" available="true">
+      <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
+      <brand>Canon</brand>
+      <categoryId>accessories</categoryId>
+      <price>13580</price>
+      <currencyId>KZT</currencyId>
+      <description>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001) от Canon. Цена: 11543 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">3421C001</param>
+        <param name="Бренд">Canon</param>
+      </params>
+    </offer>
+    <offer sku="I4 (V1)" available="true">
+      <model>Аппарат для сварки оптических волокон i4</model>
+      <brand>INNO Instrument</brand>
+      <categoryId>accessories</categoryId>
+      <price>1125000</price>
+      <currencyId>KZT</currencyId>
+      <description>Аппарат для сварки оптических волокон i4 от INNO Instrument. Цена: 750000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">I4 (V1)</param>
+        <param name="Бренд">INNO Instrument</param>
+      </params>
+    </offer>
+    <offer sku="CET471101" available="true">
+      <model>Драм-юнит CET C-EXV63 (CET471101)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>58908</price>
+      <currencyId>KZT</currencyId>
+      <description>Драм-юнит CET C-EXV63 (CET471101) от CET. Цена: 53569 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET471101</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET471045P" available="true">
+      <model>Драм-юнит CET DR-316K (CET471045P)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>70847</price>
+      <currencyId>KZT</currencyId>
+      <description>Драм-юнит CET DR-316K (CET471045P) от CET. Цена: 64426 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET471045P</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET471037" available="true">
+      <model>Драм-юнит CET 113R00780 (CET471037)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>68018</price>
+      <currencyId>KZT</currencyId>
+      <description>Драм-юнит CET 113R00780 (CET471037) от CET. Цена: 61853 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET471037</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET5060N" available="true">
+      <model>Комплект роликов захвата/отделения бумаги CET IR6055 (CET5060N)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>8632</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект роликов захвата/отделения бумаги CET IR6055 (CET5060N) от CET. Цена: 7601 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET5060N</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET7908, CET7908R" available="true">
+      <model>Комплект роликов захвата бумаги CET WC5325 (CET7908, CET7908R)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>4106</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект роликов захвата бумаги CET WC5325 (CET7908, CET7908R) от CET. Цена: 3616 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET7908, CET7908R</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET361021" available="true">
+      <model>Резинка сепаратора CET P3020 (CET361021)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>1558</price>
+      <currencyId>KZT</currencyId>
+      <description>Резинка сепаратора CET P3020 (CET361021) от CET. Цена: 1372 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET361021</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET151009450" available="true">
+      <model>Девелопер CET CE08-D (CET151009450)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>24425</price>
+      <currencyId>KZT</currencyId>
+      <description>Девелопер CET CE08-D (CET151009450) от CET. Цена: 23066 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET151009450</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET2439" available="true">
+      <model>Резиновый вал CET M602 (CET2439)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>9755</price>
+      <currencyId>KZT</currencyId>
+      <description>Резиновый вал CET M602 (CET2439) от CET. Цена: 8589 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET2439</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET5121" available="true">
+      <model>Резиновый вал+бушинги CET IR6055 (CET5121)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>32088</price>
+      <currencyId>KZT</currencyId>
+      <description>Резиновый вал+бушинги CET IR6055 (CET5121) от CET. Цена: 28254 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET5121</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET2288" available="true">
+      <model>Термоплёнка CET IR-2016 (CET2288)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>4435</price>
+      <currencyId>KZT</currencyId>
+      <description>Термоплёнка CET IR-2016 (CET2288) от CET. Цена: 3905 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET2288</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET181019" available="true">
+      <model>Тефлоновый вал CET M6700 (CET181019)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>5788</price>
+      <currencyId>KZT</currencyId>
+      <description>Тефлоновый вал CET M6700 (CET181019) от CET. Цена: 5097 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET181019</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="CET391016" available="true">
+      <model>Чип CET C-EXV49 Drum (CET391016)</model>
+      <brand>CET</brand>
+      <categoryId>accessories</categoryId>
+      <price>1423</price>
+      <currencyId>KZT</currencyId>
+      <description>Чип CET C-EXV49 Drum (CET391016) от CET. Цена: 1253 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CET391016</param>
+        <param name="Бренд">CET</param>
+      </params>
+    </offer>
+    <offer sku="125MIC" available="true">
+      <model>Пленка для ламинирования Deluxe A4 125мик 100шт</model>
+      <brand>Deluxe</brand>
+      <categoryId>accessories</categoryId>
+      <price>4800</price>
+      <currencyId>KZT</currencyId>
+      <description>Пленка для ламинирования Deluxe A4 125мик 100шт от Deluxe. Цена: 3500 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">125MIC</param>
+        <param name="Бренд">Deluxe</param>
+      </params>
+    </offer>
+    <offer sku="12310457" available="true">
+      <model>Асинхронный электродвигатель WEG 12310457 W20 100L 3 кВт 2P B3T 220-460 В 50 Гц</model>
+      <brand>WEG</brand>
+      <categoryId>accessories</categoryId>
+      <price>124277</price>
+      <currencyId>KZT</currencyId>
+      <description>Асинхронный электродвигатель WEG 12310457 W20 100L 3 кВт 2P B3T 220-460 В 50 Гц от WEG. Цена: 103564 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">12310457</param>
+        <param name="Бренд">WEG</param>
+      </params>
+    </offer>
+    <offer sku="NH-AA2300ARBP2" available="true">
+      <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>4467</price>
+      <currencyId>KZT</currencyId>
+      <description>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере от Camelion. Цена: 2040 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">NH-AA2300ARBP2</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="A27-BP1" available="true">
+      <model>Батарейка CAMELION Alkaline A27-BP1</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>390</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Alkaline A27-BP1 от Camelion. Цена: 245 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">A27-BP1</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="ALTA 9  DP-ICAP-AT9" available="true">
+      <model>Кулер для процессора Deepcool ALTA 9</model>
+      <brand>Deepcool</brand>
+      <categoryId>accessories</categoryId>
+      <price>3103</price>
+      <currencyId>KZT</currencyId>
+      <description>Кулер для процессора Deepcool ALTA 9 от Deepcool. Цена: 1819 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ALTA 9  DP-ICAP-AT9</param>
+        <param name="Бренд">Deepcool</param>
+      </params>
+    </offer>
+    <offer sku="G300-Grease" available="true">
+      <model>Термосмазка G300-Grease</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>4290</price>
+      <currencyId>KZT</currencyId>
+      <description>Термосмазка G300-Grease от Europrint. Цена: 3575 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="278"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">G300-Grease</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="21661" available="true">
+      <model>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>2100</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Duplex 2.0мм 1 м от АЗОП. Цена: 1400 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">21661</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="16886" available="true">
+      <model>Патч Корд Оптоволоконный SC/UPC-LC/UPC MM OM2 50/125 Duplex 3.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>2250</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SC/UPC-LC/UPC MM OM2 50/125 Duplex 3.0мм 1 м от АЗОП. Цена: 1500 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16886</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="APC030502CCA" available="true">
+      <model>Кабель сетевой A&amp;P APC030502CCA UTP PVC</model>
+      <brand>A&amp;P</brand>
+      <categoryId>cables</categoryId>
+      <price>24296</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель сетевой A&amp;P APC030502CCA UTP PVC от A&amp;P. Цена: 15265 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">APC030502CCA</param>
+        <param name="Бренд">A&amp;P</param>
+      </params>
+    </offer>
+    <offer sku="65021" available="true">
+      <model>Коробка установочная ТYCO 65021</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>642</price>
+      <currencyId>KZT</currencyId>
+      <description>Коробка установочная ТYCO 65021 от Ruvinil. Цена: 494 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">65021</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="10175" available="true">
+      <model>Аксессуар соединительный ТYCO 10175</model>
+      <brand>Ruvinil</brand>
+      <categoryId>accessories</categoryId>
+      <price>38</price>
+      <currencyId>KZT</currencyId>
+      <description>Аксессуар соединительный ТYCO 10175 от Ruvinil. Цена: 31 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">10175</param>
+        <param name="Бренд">Ruvinil</param>
+      </params>
+    </offer>
+    <offer sku="7293" available="true">
+      <model>Вал проявки Europrint P3100 (для картриджа 106R01379)</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>479</price>
+      <currencyId>KZT</currencyId>
+      <description>Вал проявки Europrint P3100 (для картриджа 106R01379) от Europrint. Цена: 400 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">7293</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="18097" available="true">
+      <model>Пигтейл Оптический SC/UPC MM OM2 50/125 0.9 мм 1.5 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>accessories</categoryId>
+      <price>539</price>
+      <currencyId>KZT</currencyId>
+      <description>Пигтейл Оптический SC/UPC MM OM2 50/125 0.9 мм 1.5 м от АЗОП. Цена: 490 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">18097</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="АО-1902 UPC" available="true">
+      <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>375</price>
+      <currencyId>KZT</currencyId>
+      <description>Быстрый коннектор SC А-Оптик AO-1902 UPC от А-Оптик. Цена: 250 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="532"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">АО-1902 UPC</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="6772" available="true">
+      <model>Бушинги резинового вала Europrint HP 1100</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>142</price>
+      <currencyId>KZT</currencyId>
+      <description>Бушинги резинового вала Europrint HP 1100 от Europrint. Цена: 119 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6772</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="GR16-1379T" available="true">
+      <model>Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в.</model>
+      <brand>Trip-lite</brand>
+      <categoryId>accessories</categoryId>
+      <price>4900</price>
+      <currencyId>KZT</currencyId>
+      <description>Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в. от Trip-lite. Цена: 1722 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">GR16-1379T</param>
+        <param name="Бренд">Trip-lite</param>
+      </params>
+    </offer>
+    <offer sku="R14P-BP2B" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R14P-BP2B 2шт. в блистере</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>781</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R14P-BP2B 2шт. в блистере от Camelion. Цена: 443 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R14P-BP2B</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="CR1620-BP1" available="true">
+      <model>Батарейка CAMELION Lithium CR1620-BP1</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>257</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Lithium CR1620-BP1 от Camelion. Цена: 150 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CR1620-BP1</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="Schuko to 4xC13" available="true">
+      <model>Переходник SVC Schuko на 4хС13</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>5339</price>
+      <currencyId>KZT</currencyId>
+      <description>Переходник SVC Schuko на 4хС13 от SVC. Цена: 4470 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Schuko to 4xC13</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="SR43-BP1(0%Hg)" available="true">
+      <model>Батарейка CAMELION Silver Oxide SR43-BP1(0%Hg)</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>223</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Silver Oxide SR43-BP1(0%Hg) от Camelion. Цена: 112 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SR43-BP1(0%Hg)</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="Kimtech-kimwipes" available="true">
+      <model>Салфетки безворсовые Kimtech-kimwipes для очистки волоконно-оптических коннекторов</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>3000</price>
+      <currencyId>KZT</currencyId>
+      <description>Салфетки безворсовые Kimtech-kimwipes для очистки волоконно-оптических коннекторов от А-Оптик. Цена: 2000 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Kimtech-kimwipes</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="AS-7108ULS" available="true">
+      <model>KVM консоль SHIP AS-7108ULS</model>
+      <brand>Ship</brand>
+      <categoryId>accessories</categoryId>
+      <price>442800</price>
+      <currencyId>KZT</currencyId>
+      <description>KVM консоль SHIP AS-7108ULS от Ship. Цена: 369000 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AS-7108ULS</param>
+        <param name="Бренд">Ship</param>
+      </params>
+    </offer>
+    <offer sku="External bypass for 1KVA" available="true">
+      <model>Внешний Байпас модуль для 1кВА</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>33279</price>
+      <currencyId>KZT</currencyId>
+      <description>Внешний Байпас модуль для 1кВА от SVC. Цена: 27732 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">External bypass for 1KVA</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="2076" available="true">
+      <model>Рюкзак Xiaomi Casual Daypack Темно-Синий</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>4990</price>
+      <currencyId>KZT</currencyId>
+      <description>Рюкзак Xiaomi Casual Daypack Темно-Синий от Xiaomi. Цена: 3476 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">2076</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="XM-770OUB" available="true">
+      <model>Компьютерная мышь XG XM-770OUB</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>640</price>
+      <currencyId>KZT</currencyId>
+      <description>Компьютерная мышь XG XM-770OUB от XG. Цена: 500 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XM-770OUB</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="DLNB-01G17.3" available="true">
+      <model>Сумка для ноутбука Deluxe Astana 17.3" (DLNB-01G17.3)</model>
+      <brand>Deluxe</brand>
+      <categoryId>accessories</categoryId>
+      <price>4990</price>
+      <currencyId>KZT</currencyId>
+      <description>Сумка для ноутбука Deluxe Astana 17.3" (DLNB-01G17.3) от Deluxe. Цена: 3690 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DLNB-01G17.3</param>
+        <param name="Бренд">Deluxe</param>
+      </params>
+    </offer>
+    <offer sku="6F22-SP1B" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty 6F22-SP1B</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>670</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty 6F22-SP1B от Camelion. Цена: 215 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">6F22-SP1B</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="Shadow 400W" available="true">
+      <model>Блок питания XG Shadow 400W</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>7447</price>
+      <currencyId>KZT</currencyId>
+      <description>Блок питания XG Shadow 400W от XG. Цена: 5000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Shadow 400W</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="M160 Silent" available="true">
+      <model>Компьютерная мышь Rapoo M160 Silent</model>
+      <brand>Rapoo</brand>
+      <categoryId>accessories</categoryId>
+      <price>4590</price>
+      <currencyId>KZT</currencyId>
+      <description>Компьютерная мышь Rapoo M160 Silent от Rapoo. Цена: 3150 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="43"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">M160 Silent</param>
+        <param name="Бренд">Rapoo</param>
+      </params>
+    </offer>
+    <offer sku="3025V_NI" available="true">
+      <model>Монохромное МФУ Xerox WorkCentre 3025NI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>129990</price>
+      <currencyId>KZT</currencyId>
+      <description>Монохромное МФУ Xerox WorkCentre 3025NI от Xerox. Цена: 100000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">3025V_NI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="B1025V_B" available="true">
+      <model>Монохромное МФУ Xerox B1025DN</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>370588</price>
+      <currencyId>KZT</currencyId>
+      <description>Монохромное МФУ Xerox B1025DN от Xerox. Цена: 315000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">B1025V_B</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="QS-9989" available="true">
+      <model>Кабель оптоволоконный ИКнг(А)-HF-М4П-А4-0.4 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>240</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИКнг(А)-HF-М4П-А4-0.4 кН от Интегра. Цена: 160 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">QS-9989</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="2006" available="true">
+      <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
+      <brand>Poholy</brand>
+      <categoryId>accessories</categoryId>
+      <price>27813</price>
+      <currencyId>KZT</currencyId>
+      <description>Набор инструментов Poholy NO.2006 для прокладки информационных сетей от Poholy. Цена: 24462 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">2006</param>
+        <param name="Бренд">Poholy</param>
+      </params>
+    </offer>
+    <offer sku="DLGP-86" available="true">
+      <model>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86</model>
+      <brand>Deluxe</brand>
+      <categoryId>accessories</categoryId>
+      <price>820</price>
+      <currencyId>KZT</currencyId>
+      <description>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86 от Deluxe. Цена: 229 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="122"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DLGP-86</param>
+        <param name="Бренд">Deluxe</param>
+      </params>
+    </offer>
+    <offer sku="DL.04G2K.KAM" available="true">
+      <model>Модуль памяти Apacer DL.04G2K.KAM</model>
+      <brand>Apacer</brand>
+      <categoryId>accessories</categoryId>
+      <price>7528</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль памяти Apacer DL.04G2K.KAM от Apacer. Цена: 4428 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">DL.04G2K.KAM</param>
+        <param name="Бренд">Apacer</param>
+      </params>
+    </offer>
+    <offer sku="XW-79" available="true">
+      <model>Веб-Камера XG XW-79</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>5390</price>
+      <currencyId>KZT</currencyId>
+      <description>Веб-Камера XG XW-79 от XG. Цена: 3990 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XW-79</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="AVR-600-L" available="true">
+      <model>Стабилизатор SVC AVR-600-L</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>10990</price>
+      <currencyId>KZT</currencyId>
+      <description>Стабилизатор SVC AVR-600-L от SVC. Цена: 8388 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">AVR-600-L</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="R6P-SP2B" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>278</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке от Camelion. Цена: 155 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R6P-SP2B</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="R03P-SP2B" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>357</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке от Camelion. Цена: 118 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R03P-SP2B</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="RPCM 1532 (32A)" available="true">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <categoryId>accessories</categoryId>
+      <price>1</price>
+      <currencyId>KZT</currencyId>
+      <description>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A) от Rcntec. Цена: 1 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RPCM 1532 (32A)</param>
+        <param name="Бренд">Rcntec</param>
+      </params>
+    </offer>
+    <offer sku="KD-723" available="true">
+      <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
+      <brand>IHealth</brand>
+      <categoryId>accessories</categoryId>
+      <price>15990</price>
+      <currencyId>KZT</currencyId>
+      <description>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE от IHealth. Цена: 12006 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">KD-723</param>
+        <param name="Бренд">IHealth</param>
+      </params>
+    </offer>
+    <offer sku="PLC 1х2 SC/APC 1,5m SM" available="true">
+      <model>Сплиттер оптоволоконный PLC А-Оптик 1х2 SC/APC 1,5m SM</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>1800</price>
+      <currencyId>KZT</currencyId>
+      <description>Сплиттер оптоволоконный PLC А-Оптик 1х2 SC/APC 1,5m SM от А-Оптик. Цена: 1000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">PLC 1х2 SC/APC 1,5m SM</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="ИК/Т-Т-А2-6.0" available="true">
+      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>270</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН от Интегра. Цена: 180 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИК/Т-Т-А2-6.0</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="R20P-SP2B" available="true">
+      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <categoryId>accessories</categoryId>
+      <price>1004</price>
+      <currencyId>KZT</currencyId>
+      <description>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке от Camelion. Цена: 525 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">R20P-SP2B</param>
+        <param name="Бренд">Camelion</param>
+      </params>
+    </offer>
+    <offer sku="XC-370PS-2" available="true">
+      <model>Компьютерный корпус XG XC-370PS-2 с Б/П</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>20623</price>
+      <currencyId>KZT</currencyId>
+      <description>Компьютерный корпус XG XC-370PS-2 с Б/П от XG. Цена: 11770 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XC-370PS-2</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="АО-2403 19&amp;quot; (1U) FDF 24" available="true">
+      <model>Оптический кросс А-Оптик АО-2403</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>22500</price>
+      <currencyId>KZT</currencyId>
+      <description>Оптический кросс А-Оптик АО-2403 от А-Оптик. Цена: 15000 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">АО-2403 19&amp;quot; (1U) FDF 24</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="XG-MC02" available="true">
+      <model>Чехол для телефона XG XG-MC02 для Redmi 10C Minecraft</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>350</price>
+      <currencyId>KZT</currencyId>
+      <description>Чехол для телефона XG XG-MC02 для Redmi 10C Minecraft от XG. Цена: 230 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XG-MC02</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="SC/UPC SM 9/125 0.9 мм 1.5 м" available="true">
+      <model>Пигтейл Оптический SC/UPC SM 9/125 0.9 мм 1.5 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>accessories</categoryId>
+      <price>462</price>
+      <currencyId>KZT</currencyId>
+      <description>Пигтейл Оптический SC/UPC SM 9/125 0.9 мм 1.5 м от АЗОП. Цена: 420 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SC/UPC SM 9/125 0.9 мм 1.5 м</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="RTL-800-LCD" available="true">
+      <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>79020</price>
+      <currencyId>KZT</currencyId>
+      <description>Источник бесперебойного питания SVC RTL-800-LCD от SVC. Цена: 68484 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">RTL-800-LCD</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="C315V_DNI" available="true">
+      <model>Цветное МФУ Xerox C315DNI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>548835</price>
+      <currencyId>KZT</currencyId>
+      <description>Цветное МФУ Xerox C315DNI от Xerox. Цена: 466498 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C315V_DNI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="B230V_DNI" available="true">
+      <model>Монохромный принтер Xerox B230DNI</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>114990</price>
+      <currencyId>KZT</currencyId>
+      <description>Монохромный принтер Xerox B230DNI от Xerox. Цена: 92000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">B230V_DNI</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="C7101V_S" available="true">
+      <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_S) Напольная конфигурация с тумбой</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>3458081</price>
+      <currencyId>KZT</currencyId>
+      <description>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_S) Напольная конфигурация с тумбой от Xerox. Цена: 2939296 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C7101V_S</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="Рефлектометр оптический VIEW50" available="true">
+      <model>Рефлектометр оптический INNO Instrument VIEW500</model>
+      <brand>INNO Instrument</brand>
+      <categoryId>accessories</categoryId>
+      <price>3375000</price>
+      <currencyId>KZT</currencyId>
+      <description>Рефлектометр оптический INNO Instrument VIEW500 от INNO Instrument. Цена: 1900000 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">Рефлектометр оптический VIEW50</param>
+        <param name="Бренд">INNO Instrument</param>
+      </params>
+    </offer>
+    <offer sku="ИК-М5П-А4-2.7" available="true">
+      <model>Кабель оптоволоконный ИК-М5П-А4-2.7кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>315</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИК-М5П-А4-2.7кН от Интегра. Цена: 210 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3393"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИК-М5П-А4-2.7</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+    <offer sku="MJJSQ05DY" available="true">
+      <model>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Белый</model>
+      <brand>Xiaomi</brand>
+      <categoryId>accessories</categoryId>
+      <price>26990</price>
+      <currencyId>KZT</currencyId>
+      <description>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Белый от Xiaomi. Цена: 22233 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">MJJSQ05DY</param>
+        <param name="Бренд">Xiaomi</param>
+      </params>
+    </offer>
+    <offer sku="F4-3200C16D-8GVKB" available="true">
+      <model>Комплект модулей памяти G.SKILL RipjawsV F4-3200C16D-8GVKB DDR4 8GB (Kit 2x4GB) 3000MHz</model>
+      <brand>G.SKILL</brand>
+      <categoryId>accessories</categoryId>
+      <price>18650</price>
+      <currencyId>KZT</currencyId>
+      <description>Комплект модулей памяти G.SKILL RipjawsV F4-3200C16D-8GVKB DDR4 8GB (Kit 2x4GB) 3000MHz от G.SKILL. Цена: 13783 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">F4-3200C16D-8GVKB</param>
+        <param name="Бренд">G.SKILL</param>
+      </params>
+    </offer>
+    <offer sku="ODWAC-23 (C201)" available="true">
+      <model>Анкерный зажим натяжной А-Оптик, АО-ODWAC-23 (C201)</model>
+      <brand>А-Оптик</brand>
+      <categoryId>accessories</categoryId>
+      <price>180</price>
+      <currencyId>KZT</currencyId>
+      <description>Анкерный зажим натяжной А-Оптик, АО-ODWAC-23 (C201) от А-Оптик. Цена: 100 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ODWAC-23 (C201)</param>
+        <param name="Бренд">А-Оптик</param>
+      </params>
+    </offer>
+    <offer sku="XG101" available="true">
+      <model>Персональный компьютер XG Basic XG101 Win Pro 11</model>
+      <brand>XG</brand>
+      <categoryId>accessories</categoryId>
+      <price>158970</price>
+      <currencyId>KZT</currencyId>
+      <description>Персональный компьютер XG Basic XG101 Win Pro 11 от XG. Цена: 106404 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">XG101</param>
+        <param name="Бренд">XG</param>
+      </params>
+    </offer>
+    <offer sku="497K23470" available="true">
+      <model>Часть к МФУ Модуль для беспроводного подключ. Xerox 497K23470 Для VersaLink B7125/30/35 C7120/25/30</model>
+      <brand>Xerox</brand>
+      <categoryId>accessories</categoryId>
+      <price>81696</price>
+      <currencyId>KZT</currencyId>
+      <description>Часть к МФУ Модуль для беспроводного подключ. Xerox 497K23470 Для VersaLink B7125/30/35 C7120/25/30 от Xerox. Цена: 69440 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">497K23470</param>
+        <param name="Бренд">Xerox</param>
+      </params>
+    </offer>
+    <offer sku="OBJEP92AIQI" available="true">
+      <model>Конструктор ONEBOT Building Block Off-Road Vehicle- Explorer 1600+ OBJEP92AIQI</model>
+      <brand>ONEBOT</brand>
+      <categoryId>accessories</categoryId>
+      <price>31900</price>
+      <currencyId>KZT</currencyId>
+      <description>Конструктор ONEBOT Building Block Off-Road Vehicle- Explorer 1600+ OBJEP92AIQI от ONEBOT. Цена: 25940 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="55"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">OBJEP92AIQI</param>
+        <param name="Бренд">ONEBOT</param>
+      </params>
+    </offer>
+    <offer sku="E1009" available="true">
+      <model>Наушники 1MORE Piston Fit In-Ear Headphones E1009 Серый</model>
+      <brand>1MORE</brand>
+      <categoryId>accessories</categoryId>
+      <price>2990</price>
+      <currencyId>KZT</currencyId>
+      <description>Наушники 1MORE Piston Fit In-Ear Headphones E1009 Серый от 1MORE. Цена: 2293 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">E1009</param>
+        <param name="Бренд">1MORE</param>
+      </params>
+    </offer>
+    <offer sku="SP150H" available="true">
+      <model>Картридж Europrint EPC-SP150H</model>
+      <brand>Europrint</brand>
+      <categoryId>accessories</categoryId>
+      <price>5883</price>
+      <currencyId>KZT</currencyId>
+      <description>Картридж Europrint EPC-SP150H от Europrint. Цена: 5116 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="24"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">SP150H</param>
+        <param name="Бренд">Europrint</param>
+      </params>
+    </offer>
+    <offer sku="CJ-EKPQ04" available="true">
+      <model>Автоматический штопор Circle Joy Mini Electric Wine Opener Черный</model>
+      <brand>No name</brand>
+      <categoryId>accessories</categoryId>
+      <price>7590</price>
+      <currencyId>KZT</currencyId>
+      <description>Автоматический штопор Circle Joy Mini Electric Wine Opener Черный от No name. Цена: 6479 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">CJ-EKPQ04</param>
+        <param name="Бренд">No name</param>
+      </params>
+    </offer>
+    <offer sku="HR-90HK" available="true">
+      <model>Атмосферный водогенератор HR-90HK</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>934422</price>
+      <currencyId>KZT</currencyId>
+      <description>Атмосферный водогенератор HR-90HK от SVC. Цена: 871285 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">HR-90HK</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="16973" available="true">
+      <model>Абонентский FTTH Патч Корд SС/APC-SC/APC SM 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1350</price>
+      <currencyId>KZT</currencyId>
+      <description>Абонентский FTTH Патч Корд SС/APC-SC/APC SM 1 м от АЗОП. Цена: 900 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">16973</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="51P68AA" available="true">
+      <model>Зарядное устройство HyperX ChargePlay Duo PS5 51P68AA</model>
+      <brand>HyperX</brand>
+      <categoryId>accessories</categoryId>
+      <price>19990</price>
+      <currencyId>KZT</currencyId>
+      <description>Зарядное устройство HyperX ChargePlay Duo PS5 51P68AA от HyperX. Цена: 19990 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">51P68AA</param>
+        <param name="Бренд">HyperX</param>
+      </params>
+    </offer>
+    <offer sku="21517" available="true">
+      <model>Патч Корд Оптоволоконный SС/UPC-LC/UPC SM 9/125 Simplex 2.0мм 1 м</model>
+      <brand>АЗОП</brand>
+      <categoryId>cables</categoryId>
+      <price>1125</price>
+      <currencyId>KZT</currencyId>
+      <description>Патч Корд Оптоволоконный SС/UPC-LC/UPC SM 9/125 Simplex 2.0мм 1 м от АЗОП. Цена: 750 тенге</description>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">21517</param>
+        <param name="Бренд">АЗОП</param>
+      </params>
+    </offer>
+    <offer sku="C35-7W-E27-3000K" available="true">
+      <model>Эл. лампа светодиодная SVC LED C35-7W-E27-3000K, Тёплый</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>260</price>
+      <currencyId>KZT</currencyId>
+      <description>Эл. лампа светодиодная SVC LED C35-7W-E27-3000K, Тёплый от SVC. Цена: 260 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">C35-7W-E27-3000K</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="JCDR-7W-GU5.3-4200K" available="true">
+      <model>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-4200K, Нейтральный</model>
+      <brand>SVC</brand>
+      <categoryId>accessories</categoryId>
+      <price>265</price>
+      <currencyId>KZT</currencyId>
+      <description>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-4200K, Нейтральный от SVC. Цена: 265 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">JCDR-7W-GU5.3-4200K</param>
+        <param name="Бренд">SVC</param>
+      </params>
+    </offer>
+    <offer sku="ИКАЛс-М4П-А8-3 кН" available="true">
+      <model>Кабель оптоволоконный ИКАЛс-М4П-А8-3 кН</model>
+      <brand>Интегра</brand>
+      <categoryId>cables</categoryId>
+      <price>280</price>
+      <currencyId>KZT</currencyId>
+      <description>Кабель оптоволоконный ИКАЛс-М4П-А8-3 кН от Интегра. Цена: 215 тенге</description>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <params>
+        <param name="Артикул">ИКАЛс-М4П-А8-3 кН</param>
+        <param name="Бренд">Интегра</param>
+      </params>
+    </offer>
+  </offers>
+</kaspi_catalog>
