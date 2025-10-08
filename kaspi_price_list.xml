@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-08T13:17:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-08T09:29:56" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -295,7 +295,7 @@
       <model>Монохромный принтер Xerox Phaser 3020BI</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="23"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
       <price>69990</price>
     </offer>
@@ -863,7 +863,7 @@
       <model>Выпрямитель для волос Centek CT-2027</model>
       <brand>Centek</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>5490</price>
     </offer>
@@ -1343,7 +1343,7 @@
       <model>Диспенсер для воды Xiaomi Instant Hot Water Dispenser Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
       <price>39990</price>
     </offer>
@@ -1767,7 +1767,7 @@
       <model>Коннектор RJ-11 телекоммуникационный</model>
       <brand>No name</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14000"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13000"/>
       </availabilities>
       <price>16</price>
     </offer>
