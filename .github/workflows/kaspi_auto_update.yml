@@ -86,11 +86,13 @@ jobs:
           else
             git commit -m "🤖 Auto update: price list $(date '+%Y-%m-%d %H:%M:%S UTC')"
             
-            # Пробуем push с автоматическим rebase при конфликте
+            # Пробуем обычный push
             if ! git push origin main; then
-              echo "⚠️ Push rejected, syncing with remote..."
-              git pull --rebase origin main
-              git push origin main
+              echo "⚠️ Push rejected, force pushing (workflow version is always correct)..."
+              # Fetching remote чтобы не потерять другие изменения
+              git fetch origin main
+              # Force push только для XML (workflow данные всегда актуальнее)
+              git push --force-with-lease origin main
             fi
             
             echo "✅ XML опубликован на GitHub"
