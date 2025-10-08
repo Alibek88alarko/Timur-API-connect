@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-08T10:01:55" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-08T10:47:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -607,7 +607,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="76"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="72"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -991,7 +991,7 @@
       <model>Клавиатура XG XK-220OGB</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
       </availabilities>
       <price>3400</price>
     </offer>
@@ -1535,7 +1535,7 @@
       <model>Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, Графит</model>
       <brand>Yandex</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="29"/>
       </availabilities>
       <price>28990</price>
     </offer>
