@@ -147,10 +147,11 @@ def update_kaspi_prices_stock(products):
         price_value = product.get('price2') or product.get('price1') or '0'
         price.text = str(price_value).strip()
         
-    # Convert to string
+    # Convert to string with proper UTF-8 encoding
     rough_string = tostring(kaspi_catalog, encoding='utf-8')
     reparsed = xml.dom.minidom.parseString(rough_string)
-    pretty_xml_as_string = reparsed.toprettyxml(indent="  ")
+    # Кодируем в UTF-8 и сразу декодируем для сохранения как текст
+    pretty_xml_as_string = reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
     
     xml_filename = config.xml_filename
     with open(xml_filename, 'w', encoding='utf-8') as f:
