@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Система для автоматической загрузки товаров в Kaspi.kz с учетом лимитов
+ВАЖНО: Использует обновлённые функции из Script.py с правильными параметрами User-Agent и датами
 """
 import time
 import datetime
@@ -67,8 +68,8 @@ class KaspiAutoUploader:
             
             logging.info(f"📦 Получено {len(products)} товаров")
             
-            # Генерируем и загружаем XML
-            result = update_kaspi_prices_stock()
+            # Генерируем и загружаем XML (ИСПРАВЛЕНО: передаём параметр products)
+            result = update_kaspi_prices_stock(products)
             
             if result:
                 self.last_upload_time = datetime.datetime.now()

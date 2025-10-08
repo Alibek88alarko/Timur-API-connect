@@ -190,16 +190,24 @@ def process_kaspi_orders():
     Обрабатывает заказы с Kaspi.kz и обновляет остатки в вашем магазине.
     """
     logging.info('Начало обработки заказов с Kaspi.kz')
-    # Параметры для фильтрации заказов
+    
+    # ОБЯЗАТЕЛЬНО: Даты для фильтра (максимум 14 дней!)
+    import time
+    timestamp_now = int(time.time() * 1000)
+    timestamp_past = timestamp_now - (config.kaspi_date_range_days * 24 * 60 * 60 * 1000)
+    
+    # Параметры для фильтрации заказов (ВСЕ обязательные!)
     params = {
+        'page[number]': 0,  # Номер страницы (ОБЯЗАТЕЛЬНО)
+        'page[size]': config.kaspi_page_size,  # Размер страницы (ОБЯЗАТЕЛЬНО)
+        'filter[orders][creationDate][$ge]': str(timestamp_past),  # Дата от (ОБЯЗАТЕЛЬНО!)
+        'filter[orders][creationDate][$le]': str(timestamp_now),   # Дата до (ОБЯЗАТЕЛЬНО!)
         'filter[orders][status]': 'APPROVED_BY_BANK',  # Только подтвержденные заказы
-        'page[number]': 0,  # Номер страницы
-        'page[size]': 20    # Размер страницы (количество заказов)
     }
     
     try:
-        # Выполняем запрос на получение заказов
-        response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
+        # Выполняем запрос на получение заказов (правильный endpoint)
+        response = requests.get(config.kaspi_orders_url, headers=KASPI_HEADERS, params=params, timeout=config.request_timeout)
         logging.info(f'Статус ответа от Kaspi API: {response.status_code}')
         
         if response.status_code != 200:
@@ -235,8 +243,8 @@ def process_kaspi_orders():
                 }
             }
         }
-        # Отправляем запрос для принятия заказа
-        response = requests.post(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, json=accept_order_payload)
+        # Отправляем запрос для принятия заказа (правильный endpoint)
+        response = requests.post(config.kaspi_orders_url, headers=KASPI_HEADERS, json=accept_order_payload, timeout=config.request_timeout)
         if response.status_code == 200:  # Если запрос успешный
             logging.info(f"Заказ {order_code} принят")
         else:
@@ -296,6 +304,11 @@ def test_kaspi_orders():
     """
     logging.info('=== ТЕСТ: Проверка заказов с разными статусами ===')
     
+    # ОБЯЗАТЕЛЬНО: Даты для фильтра
+    import time
+    timestamp_now = int(time.time() * 1000)
+    timestamp_past = timestamp_now - (config.kaspi_date_range_days * 24 * 60 * 60 * 1000)
+    
     # Список возможных статусов для тестирования
     statuses_to_test = [
         'APPROVED_BY_BANK',
@@ -307,13 +320,15 @@ def test_kaspi_orders():
     
     for status in statuses_to_test:
         params = {
-            'filter[orders][status]': status,
             'page[number]': 0,
-            'page[size]': 5
+            'page[size]': 5,
+            'filter[orders][creationDate][$ge]': str(timestamp_past),  # ОБЯЗАТЕЛЬНО!
+            'filter[orders][creationDate][$le]': str(timestamp_now),   # ОБЯЗАТЕЛЬНО!
+            'filter[orders][status]': status,
         }
         
         try:
-            response = requests.get(f"{config.kaspi_api_url}/orders", headers=KASPI_HEADERS, params=params)
+            response = requests.get(config.kaspi_orders_url, headers=KASPI_HEADERS, params=params, timeout=config.request_timeout)
             logging.info(f'Статус {status}: HTTP {response.status_code}')
             
             if response.status_code == 200:
