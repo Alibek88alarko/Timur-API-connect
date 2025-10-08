@@ -77,9 +77,6 @@ jobs:
           git config --global user.name "Kaspi Auto Bot"
           git config --global user.email "bot@kaspi-auto.com"
           
-          # Подтягиваем последние изменения (на случай конфликта)
-          git pull --rebase origin main || true
-          
           # Добавляем файл
           git add kaspi_price_list.xml
           
@@ -88,7 +85,14 @@ jobs:
             echo "ℹ️ Нет изменений в прайс-листе"
           else
             git commit -m "🤖 Auto update: price list $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            git push
+            
+            # Пробуем push с автоматическим rebase при конфликте
+            if ! git push origin main; then
+              echo "⚠️ Push rejected, syncing with remote..."
+              git pull --rebase origin main
+              git push origin main
+            fi
+            
             echo "✅ XML опубликован на GitHub"
           fi
       
