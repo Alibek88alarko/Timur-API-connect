@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-10T12:02:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-10T14:01:51" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -475,6 +475,14 @@
       </availabilities>
       <price>24000</price>
     </offer>
+    <offer sku="Cube 4MP">
+      <model>Wi-Fi видеокамера Imou Cube 4MP</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>27500</price>
+    </offer>
     <offer sku="NH-AAA900ARBP2">
       <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AAA900ARBP2 2 шт. в блистере</model>
       <brand>Camelion</brand>
@@ -530,6 +538,14 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>704</price>
+    </offer>
+    <offer sku="Bullet 2C 4MP">
+      <model>Wi-Fi видеокамера Imou Bullet 2C 4MP</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>23000</price>
     </offer>
     <offer sku="C7101V_D">
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
@@ -659,6 +675,14 @@
       </availabilities>
       <price>698</price>
     </offer>
+    <offer sku="Ranger 2 Imou">
+      <model>Wi-Fi видеокамера Ranger 2 Imou</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
+      </availabilities>
+      <price>18000</price>
+    </offer>
     <offer sku="667424 (497ABF)">
       <model>Пылесос для оргтехники SCS-67424 (497ABF)</model>
       <brand>Scs</brand>
@@ -787,6 +811,14 @@
       </availabilities>
       <price>9990</price>
     </offer>
+    <offer sku="Cruiser 4G">
+      <model>Видеокамера Imou Cruiser 4G</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
+      </availabilities>
+      <price>46790</price>
+    </offer>
     <offer sku="929003284802">
       <model>Светильник Philips 59441 MESON 080 3.5W 4000K WH recessed LED</model>
       <brand>Philips</brand>
@@ -818,6 +850,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>3901</price>
+    </offer>
+    <offer sku="K1S-H(S)-W">
+      <model>Умный замок Imou K1S-H(S)-W</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+      </availabilities>
+      <price>69990</price>
     </offer>
     <offer sku="911401890982">
       <model>Однофазный прожектор Philips ST033T LED25/840 30W 220-240V I WB BK GM</model>
@@ -867,6 +907,14 @@
       </availabilities>
       <price>5490</price>
     </offer>
+    <offer sku="Ranger RC 3MP">
+      <model>Wi-Fi видеокамера Imou Ranger RC 3MP</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <price>22590</price>
+    </offer>
     <offer sku="B112-ZS">
       <model>Основная щётка для робота-пылесоса Xiaomi Robot Vacuum E10</model>
       <brand>Xiaomi</brand>
@@ -914,6 +962,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>34508</price>
+    </offer>
+    <offer sku="Cruiser Dual 6MP">
+      <model>Wi-Fi видеокамера Imou Cruiser Dual 6MP</model>
+      <brand>Imou</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+      </availabilities>
+      <price>50400</price>
     </offer>
     <offer sku="911401876385">
       <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
@@ -1363,6 +1419,14 @@
       </availabilities>
       <price>8339</price>
     </offer>
+    <offer sku="DH-C2K-P">
+      <model>Wi-Fi видеокамера Dahua DH-C2K-P</model>
+      <brand>Dahua</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>31200</price>
+    </offer>
     <offer sku="3421C001">
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
@@ -1511,7 +1575,7 @@
       <model>Ноутбук Tecno MEGABOOK T16 Pro 16&quot; WQXGA Ultra 7-155H 16GB 1TB Win 11</model>
       <brand>TECNO</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>499990</price>
     </offer>
@@ -1938,70 +2002,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>5390</price>
-    </offer>
-    <offer sku="AVR-600-L">
-      <model>Стабилизатор SVC AVR-600-L</model>
-      <brand>SVC</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>10990</price>
-    </offer>
-    <offer sku="R6P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>278</price>
-    </offer>
-    <offer sku="R03P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>357</price>
-    </offer>
-    <offer sku="RPCM 1532 (32A)">
-      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
-      <brand>Rcntec</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1</price>
-    </offer>
-    <offer sku="KD-723">
-      <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
-      <brand>IHealth</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>15990</price>
-    </offer>
-    <offer sku="PLC 1х2 SC/APC 1,5m SM">
-      <model>Сплиттер оптоволоконный PLC А-Оптик 1х2 SC/APC 1,5m SM</model>
-      <brand>А-Оптик</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>1800</price>
-    </offer>
-    <offer sku="ИК/Т-Т-А2-6.0">
-      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
-      <brand>Интегра</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>270</price>
-    </offer>
-    <offer sku="R20P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1004</price>
     </offer>
   </offers>
 </kaspi_catalog>
