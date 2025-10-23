@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-23T04:02:03" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-23T06:02:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -127,7 +127,7 @@
       <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="65"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="64"/>
       </availabilities>
       <price>277</price>
     </offer>
@@ -167,7 +167,7 @@
       <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
       <brand>АЗОП</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
       <price>2100</price>
     </offer>
@@ -559,7 +559,7 @@
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>44990</price>
     </offer>
@@ -1159,7 +1159,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="132"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="122"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1663,7 +1663,7 @@
       <model>ТВ Станция Яндекс Бейсик QLED 43&quot;</model>
       <brand>Yandex</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
       <price>219990</price>
     </offer>
@@ -1839,7 +1839,7 @@
       <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="318"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="268"/>
       </availabilities>
       <price>375</price>
     </offer>
