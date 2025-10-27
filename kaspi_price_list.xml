@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-26T22:02:03" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-27T00:05:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -771,14 +771,6 @@
       </availabilities>
       <price>6490</price>
     </offer>
-    <offer sku="ZP1">
-      <model>Датчик движения Imou ZP1</model>
-      <brand>Imou</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>11000</price>
-    </offer>
     <offer sku="ZE1">
       <model>Тревожная кнопка Imou ZE1</model>
       <brand>Imou</brand>
@@ -954,14 +946,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>34508</price>
-    </offer>
-    <offer sku="Cruiser Dual 6MP">
-      <model>Wi-Fi видеокамера Imou Cruiser Dual 6MP</model>
-      <brand>Imou</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>50400</price>
     </offer>
     <offer sku="911401876385">
       <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
@@ -1571,14 +1555,6 @@
       </availabilities>
       <price>5310</price>
     </offer>
-    <offer sku="T16MA">
-      <model>Ноутбук Tecno MEGABOOK T16 Pro 16&quot; WQXGA Ultra 7-155H 16GB 1TB Win 11</model>
-      <brand>TECNO</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>499990</price>
-    </offer>
     <offer sku="YNDX-00028GRY">
       <model>Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, Графит</model>
       <brand>Yandex</brand>
@@ -2002,6 +1978,30 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>27813</price>
+    </offer>
+    <offer sku="DLGP-86">
+      <model>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86</model>
+      <brand>Deluxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="120"/>
+      </availabilities>
+      <price>820</price>
+    </offer>
+    <offer sku="DL.04G2K.KAM">
+      <model>Модуль памяти Apacer DL.04G2K.KAM</model>
+      <brand>Apacer</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>5900</price>
+    </offer>
+    <offer sku="XW-79">
+      <model>Веб-Камера XG XW-79</model>
+      <brand>XG</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>5390</price>
     </offer>
   </offers>
 </kaspi_catalog>
