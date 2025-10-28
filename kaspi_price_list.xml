@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-28T08:02:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-28T10:02:10" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -505,7 +505,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>465</price>
+      <price>516</price>
     </offer>
     <offer sku="WB Used for MLT-101">
       <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
@@ -1561,7 +1561,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>28990</price>
+      <price>31990</price>
     </offer>
     <offer sku="12310457">
       <model>Асинхронный электродвигатель WEG 12310457 W20 100L 3 кВт 2P B3T 220-460 В 50 Гц</model>
@@ -1671,7 +1671,7 @@
       <model>Ракельный нож СЕТ C-EXV49 (CET281063)</model>
       <brand>CET</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>4808</price>
     </offer>
@@ -1751,7 +1751,7 @@
       <model>Термосмазка G300-Grease</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="245"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="250"/>
       </availabilities>
       <price>4290</price>
     </offer>
