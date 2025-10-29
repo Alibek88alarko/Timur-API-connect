@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-29T06:02:53" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-29T08:02:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -559,7 +559,7 @@
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>44990</price>
     </offer>
@@ -783,7 +783,7 @@
       <model>Электробритва Xiaomi Electric Shaver S101 Синий</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
       <price>9990</price>
     </offer>
@@ -1159,7 +1159,7 @@
       <model>Внешний SSD диск XG XGED256-R 256GB Черный</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="38"/>
       </availabilities>
       <price>22350</price>
     </offer>
@@ -1751,7 +1751,7 @@
       <model>Термосмазка G300-Grease</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="250"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="247"/>
       </availabilities>
       <price>4290</price>
     </offer>
@@ -1935,7 +1935,7 @@
       <model>Блок питания XG Shadow 400W</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>7447</price>
     </offer>
