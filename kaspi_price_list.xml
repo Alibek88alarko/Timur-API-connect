@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-30T02:31:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-30T04:02:11" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -307,7 +307,7 @@
       </availabilities>
       <price>102990</price>
     </offer>
-    <offer sku="ИКБ-Т-А4-2.7">
+    <offer sku="QBT-1648">
       <model>Кабель оптоволоконный ИКБ-Т-А4-2.7 кН</model>
       <brand>Интегра</brand>
       <availabilities>
@@ -559,7 +559,7 @@
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>44990</price>
     </offer>
@@ -1959,7 +1959,7 @@
       <model>Монохромное МФУ Xerox B1025DN</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>370588</price>
     </offer>
