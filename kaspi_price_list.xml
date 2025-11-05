@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-05T20:02:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-05T22:01:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
     <offer sku="F2 to F1">
       <model>Переходник F2-&gt;F1</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -13,7 +13,7 @@
     </offer>
     <offer sku="XK-100UB">
       <model>Клавиатура XG XK-100UB</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -21,7 +21,7 @@
     </offer>
     <offer sku="Air Clean">
       <model>Сжатый воздух Delux Air Clean</model>
-      <brand>Deluxe</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -29,7 +29,7 @@
     </offer>
     <offer sku="16821">
       <model>Патч Корд Оптоволоконный ST/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -37,7 +37,7 @@
     </offer>
     <offer sku="21513">
       <model>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Simplex 2.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -45,7 +45,7 @@
     </offer>
     <offer sku="16839">
       <model>Патч Корд Оптоволоконный SC/APC-LC/UPC SM 9/125 Duplex 3.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -53,7 +53,7 @@
     </offer>
     <offer sku="16815">
       <model>Патч Корд Оптоволоконный SC/APC-ST/UPC SM 9/125 Simplex 3.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -61,7 +61,7 @@
     </offer>
     <offer sku="SC/APC SM 9/125 0.9 мм 1.5 м">
       <model>Пигтейл Оптический SC/APC SM 9/125 0.9 мм 1.5 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -69,7 +69,7 @@
     </offer>
     <offer sku="16903">
       <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC MM OM4 50/125 Duplex 3.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -77,7 +77,7 @@
     </offer>
     <offer sku="CK-11508 DP-ICAS-CK11508">
       <model>Кулер для процессора Intel Deepcool CK-11508</model>
-      <brand>Deepcool</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -85,7 +85,7 @@
     </offer>
     <offer sku="XD-1100OUB">
       <model>Комплект Клавиатура + Мышь XG XD-1100OUB</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -93,7 +93,7 @@
     </offer>
     <offer sku="АО-1426">
       <model>Оптическая розетка А-Оптик АО-1426</model>
-      <brand>А-Оптик</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -101,7 +101,7 @@
     </offer>
     <offer sku="DLC-LPT">
       <model>Удлинитель Deluxe DLC-LPT</model>
-      <brand>Deluxe</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -109,7 +109,7 @@
     </offer>
     <offer sku="T-1640E">
       <model>Тонер-туба Europrint Toshiba T-1640E</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="31"/>
       </availabilities>
@@ -117,7 +117,7 @@
     </offer>
     <offer sku="6770">
       <model>Бушинги резинового вала Europrint HP 1200</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
@@ -125,7 +125,7 @@
     </offer>
     <offer sku="RC1-2038-000">
       <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="64"/>
       </availabilities>
@@ -133,7 +133,7 @@
     </offer>
     <offer sku="6188">
       <model>Картридж Europrint EPC-C4129X</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -141,7 +141,7 @@
     </offer>
     <offer sku="V-600-L">
       <model>Источник бесперебойного питания SVC V-600-L</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -149,7 +149,7 @@
     </offer>
     <offer sku="RTO-1.5K-LCD">
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -157,7 +157,7 @@
     </offer>
     <offer sku="GR16-1379T">
       <model>Сетевой фильтр Trip-lite GR16-1379T 1.5 м. 220 в.</model>
-      <brand>Trip-lite</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -165,7 +165,7 @@
     </offer>
     <offer sku="21649">
       <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -173,7 +173,7 @@
     </offer>
     <offer sku="R6P-SP4G">
       <model>Батарейка CAMELION Super Heavy Duty R6P-SP4G 4 шт. в плёнке</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -181,7 +181,7 @@
     </offer>
     <offer sku="R14P-SP2G">
       <model>Батарейка CAMELION Super Heavy Duty R14P-SP2G 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -189,7 +189,7 @@
     </offer>
     <offer sku="R20P-SP2G">
       <model>Батарейка CAMELION Super Heavy Duty R20P-SP2G 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -197,7 +197,7 @@
     </offer>
     <offer sku="CR2330-BP1">
       <model>Батарейка CAMELION Lithium CR2330-BP1</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -325,7 +325,7 @@
     </offer>
     <offer sku="21601">
       <model>Труба гофрированная ПНД РУВИНИЛ 21601 16мм безгалогенная</model>
-      <brand>Ruvinil</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -333,7 +333,7 @@
     </offer>
     <offer sku="К01116">
       <model>Крепёж-клипса для трубы РУВИНИЛ К01116 16 мм</model>
-      <brand>Ruvinil</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -341,7 +341,7 @@
     </offer>
     <offer sku="11258">
       <model>Крышка лотка North Aurora КЛ 100-0.55</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="69"/>
       </availabilities>
@@ -349,7 +349,7 @@
     </offer>
     <offer sku="ОВ8">
       <model>Опорная поверхность North Aurora ОВ8</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -365,7 +365,7 @@
     </offer>
     <offer sku="SAC562DN-CK">
       <model>Вызывная панель Competition SAC562DN-CK</model>
-      <brand>Competition</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
@@ -437,7 +437,7 @@
     </offer>
     <offer sku="R03P-SP4G">
       <model>Батарейка CAMELION Super Heavy Duty R03P-SP4G 4 шт. в плёнке</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -445,7 +445,7 @@
     </offer>
     <offer sku="C230V_DNI">
       <model>Цветной принтер Xerox C230DNI</model>
-      <brand>Xerox</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -453,7 +453,7 @@
     </offer>
     <offer sku="A23-BP1">
       <model>Батарейка CAMELION Alkaline A23-BP1</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -461,7 +461,7 @@
     </offer>
     <offer sku="F-M1">
       <model>Оптический кросс SHIP F-M1</model>
-      <brand>Ship</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -477,7 +477,7 @@
     </offer>
     <offer sku="NH-AAA900ARBP2">
       <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AAA900ARBP2 2 шт. в блистере</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -485,7 +485,7 @@
     </offer>
     <offer sku="97B">
       <model>Набор иструментов Poholy NO.97B для прокладки электрических или автомобильных сетей</model>
-      <brand>Poholy</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -501,7 +501,7 @@
     </offer>
     <offer sku="WB Used for MLT-101">
       <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="190"/>
       </availabilities>
@@ -525,7 +525,7 @@
     </offer>
     <offer sku="C7101V_D">
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
-      <brand>Xerox</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -533,7 +533,7 @@
     </offer>
     <offer sku="LFQ03KL">
       <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -541,7 +541,7 @@
     </offer>
     <offer sku="GFLQ-C2-1*16-PLC-G657A1-SC/APC">
       <model>Делитель оптический планарный PLC-M-1x16 в корпусе</model>
-      <brand>А-Оптик</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -549,7 +549,7 @@
     </offer>
     <offer sku="AC-M18-SC">
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -557,7 +557,7 @@
     </offer>
     <offer sku="AFEP7TFM01">
       <model>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -565,7 +565,7 @@
     </offer>
     <offer sku="XG100">
       <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -573,7 +573,7 @@
     </offer>
     <offer sku="OBTK300CH">
       <model>Конструктор ONEBOT Building Block Off-Road Vehicle-Tank 300 580+ OBTK300CH</model>
-      <brand>ONEBOT</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="121"/>
       </availabilities>
@@ -581,7 +581,7 @@
     </offer>
     <offer sku="MJJSQ06DY">
       <model>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Lite Белый</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -589,7 +589,7 @@
     </offer>
     <offer sku="N-SP1100HC">
       <model>Картридж Europrint EPC-SP110E</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -613,7 +613,7 @@
     </offer>
     <offer sku="G-MB-BLACK">
       <model>Держатель провода мыши Glorious Mouse Bungee Black (G-MB-BLACK)</model>
-      <brand>Glorious</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
@@ -621,7 +621,7 @@
     </offer>
     <offer sku="G-L">
       <model>Коврик для компьютерной мыши Glorious L 330x280x2 (G-L)</model>
-      <brand>Glorious</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -645,7 +645,7 @@
     </offer>
     <offer sku="18099">
       <model>Пигтейл Оптический LC/UPC MM OM2 50/125 0.9 мм 1.5 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -661,7 +661,7 @@
     </offer>
     <offer sku="4g">
       <model>Термопаста X-Game в шприце 4 г</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -669,7 +669,7 @@
     </offer>
     <offer sku="66X82AA">
       <model>Кронштейн без основания для мониторов HyperX Armada Gaming Mount Addon 66X82AA</model>
-      <brand>HyperX</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
@@ -677,7 +677,7 @@
     </offer>
     <offer sku="C35-7W-E27-4200K">
       <model>Эл. лампа светодиодная SVC LED C35-7W-E27-4200K, Нейтральный</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -685,7 +685,7 @@
     </offer>
     <offer sku="C35-7W-E14-4200K">
       <model>Эл. лампа светодиодная SVC LED C35-7W-E14-4200K, Нейтральный</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
@@ -693,7 +693,7 @@
     </offer>
     <offer sku="JCDR-7W-GU5.3-3000K">
       <model>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-3000K, Тёплый</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -701,7 +701,7 @@
     </offer>
     <offer sku="CSE-825TQC-R802LPB">
       <model>Серверное шасси Supermicro CSE-825TQC-R802LPB</model>
-      <brand>Supermicro</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -709,7 +709,7 @@
     </offer>
     <offer sku="DHI-VTA2302A">
       <model>Вызывная панель Dahua DHI-VTA2302A</model>
-      <brand>Dahua</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -717,7 +717,7 @@
     </offer>
     <offer sku="QS-9019">
       <model>Кабель оптоволоконный ИКАЛс-М4П-А4-3 кН</model>
-      <brand>Интегра</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -733,7 +733,7 @@
     </offer>
     <offer sku="UTP RJ-9">
       <model>Коннектор RJ-9 телекоммуникационный</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14000"/>
       </availabilities>
@@ -781,7 +781,7 @@
     </offer>
     <offer sku="Cruiser 4G">
       <model>Видеокамера Imou Cruiser 4G</model>
-      <brand>Imou</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
@@ -789,7 +789,7 @@
     </offer>
     <offer sku="929003284802">
       <model>Светильник Philips 59441 MESON 080 3.5W 4000K WH recessed LED</model>
-      <brand>Philips</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -805,7 +805,7 @@
     </offer>
     <offer sku="GLO-ACC-P75-RK-B">
       <model>Поворотная ручка Glorious GMMK Pro Rotary Knob Black (GLO-ACC-P75-RK-B)</model>
-      <brand>Glorious</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
@@ -821,7 +821,7 @@
     </offer>
     <offer sku="K1S-H(S)-W">
       <model>Умный замок Imou K1S-H(S)-W</model>
-      <brand>Imou</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
@@ -845,7 +845,7 @@
     </offer>
     <offer sku="911401833382">
       <model>Линейный подвесной светильник Philips RC095V LED26S/840 PSU W07L120 BK GM G2</model>
-      <brand>Philips</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -853,7 +853,7 @@
     </offer>
     <offer sku="M2250AS1">
       <model>Сменный браслет для Xiaomi Smart Band 8 Aqua Blue</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -909,7 +909,7 @@
     </offer>
     <offer sku="КТ-2305">
       <model>Блендер-пароварка Kitfort КТ-2305</model>
-      <brand>Kitfort</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
@@ -949,7 +949,7 @@
     </offer>
     <offer sku="ИКД3-0А1-1.0">
       <model>Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН</model>
-      <brand>Интегра</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -957,7 +957,7 @@
     </offer>
     <offer sku="URTM028">
       <model>Мануальная дорожка для ходьбы Urevo Spacewalk E3S Черный</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
       </availabilities>
@@ -973,7 +973,7 @@
     </offer>
     <offer sku="T11">
       <model>Настольный очиститель воды Dreame Counter Top Water Purifier T11</model>
-      <brand>Dreame</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -989,7 +989,7 @@
     </offer>
     <offer sku="088020">
       <model>Суппорты для горизонтальной установки Legrand 088020 8-12 модулей</model>
-      <brand>Legrand</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -997,7 +997,7 @@
     </offer>
     <offer sku="XK-220OGB">
       <model>Клавиатура XG XK-220OGB</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1005,7 +1005,7 @@
     </offer>
     <offer sku="FOSC-400A4-24F">
       <model>Муфта оптическая А-Оптик FOSC-400A4-24F</model>
-      <brand>А-Оптик</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1021,7 +1021,7 @@
     </offer>
     <offer sku="ES-1000-LCD">
       <model>Инвертор SVC ES-1000-LCD</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1029,7 +1029,7 @@
     </offer>
     <offer sku="37501R">
       <model>Никелированная пластина для заземления DKC 37501R PTCE</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1037,7 +1037,7 @@
     </offer>
     <offer sku="BPL2930">
       <model>П-образный профиль PSL DKC BPL2930 L3000 толщ.1,5 мм</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1045,7 +1045,7 @@
     </offer>
     <offer sku="BSF2901">
       <model>Крепление к потолку SSM DKC BSF2901</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1053,7 +1053,7 @@
     </offer>
     <offer sku="FC5005">
       <model>Проволочный лоток 50х50 DKC FC5005 L3000</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1061,7 +1061,7 @@
     </offer>
     <offer sku="BHR7919EU">
       <model>Рисоварка Xiaomi Smart Multifunctional Rice Cooker</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1069,7 +1069,7 @@
     </offer>
     <offer sku="CM-10115 (140 g)">
       <model>Тонер Comet CM-101-15 (140 гр.)</model>
-      <brand>Comet</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1077,7 +1077,7 @@
     </offer>
     <offer sku="GSC-ACC-KBASBB-01">
       <model>Подставка для клавиатуры и мышки Thermaltake GR500 Черный</model>
-      <brand>Thermaltake</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1085,7 +1085,7 @@
     </offer>
     <offer sku="ZMNFJ01YMEU">
       <model>Настольный обогреватель Xiaomi Desktop Heater Белый</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1093,7 +1093,7 @@
     </offer>
     <offer sku="R5ST0331">
       <model>Корпус навесной ST c м/п DKC 300x300х150 мм IP66</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
@@ -1101,7 +1101,7 @@
     </offer>
     <offer sku="M2351W1">
       <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
-      <brand>Redmi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1109,7 +1109,7 @@
     </offer>
     <offer sku="BHB876/00">
       <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
-      <brand>Philips</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
@@ -1117,7 +1117,7 @@
     </offer>
     <offer sku="62916">
       <model>Труба гладкая жёсткая ПВХ DKC 62916 16 мм</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1125,7 +1125,7 @@
     </offer>
     <offer sku="MJZXB03WCHW">
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="118"/>
       </availabilities>
@@ -1133,7 +1133,7 @@
     </offer>
     <offer sku="XMDS05YM">
       <model>Док-станция Xiaomi 5-in-1 Type-C Hub</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1141,7 +1141,7 @@
     </offer>
     <offer sku="258091">
       <model>Реле времени CHINT NTE8-480B 0.5-8мин 1НО AC 230В</model>
-      <brand>CHINT</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -1149,7 +1149,7 @@
     </offer>
     <offer sku="XGED256-R">
       <model>Внешний SSD диск XG XGED256-R 256GB Черный</model>
-      <brand>XG</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
@@ -1157,7 +1157,7 @@
     </offer>
     <offer sku="DH-IPC-HFW1839TC-A-IL">
       <model>IP видеокамера Dahua DH-IPC-HFW1839TC-A-IL</model>
-      <brand>Dahua</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1165,7 +1165,7 @@
     </offer>
     <offer sku="6536C022AA">
       <model>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5</model>
-      <brand>Canon</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1173,7 +1173,7 @@
     </offer>
     <offer sku="TK-182">
       <model>Комплект для чистки оптоволоконных разъемов TK-182</model>
-      <brand>Jonard Tools</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1181,7 +1181,7 @@
     </offer>
     <offer sku="XMTYY03FMG">
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
-      <brand>Xiaomi</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
@@ -1189,7 +1189,7 @@
     </offer>
     <offer sku="XB5AW31B5">
       <model>Кнопка SE XB5AW31B5 22мм 24В с подсветкой белая</model>
-      <brand>Schneider Electric</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1197,7 +1197,7 @@
     </offer>
     <offer sku="35510">
       <model>Крышка с заземлением на лоток DKC 35510 осн.50 L2000</model>
-      <brand>ДКС</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1237,7 +1237,7 @@
     </offer>
     <offer sku="CP.AG.00000806.07">
       <model>Сельскохозяйственный дрон DJI Agras T50</model>
-      <brand>DJI</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -1245,7 +1245,7 @@
     </offer>
     <offer sku="CP.RN.00000203.01">
       <model>Зарядная станция DJI WB37 Battery Charging Hub USB-C</model>
-      <brand>DJI</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1541,7 +1541,7 @@
     </offer>
     <offer sku="125MIC">
       <model>Пленка для ламинирования Deluxe A4 125мик 100шт</model>
-      <brand>Deluxe</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1741,7 +1741,7 @@
     </offer>
     <offer sku="NH-AA2300ARBP2">
       <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1749,7 +1749,7 @@
     </offer>
     <offer sku="A27-BP1">
       <model>Батарейка CAMELION Alkaline A27-BP1</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1757,7 +1757,7 @@
     </offer>
     <offer sku="ALTA 9  DP-ICAP-AT9">
       <model>Кулер для процессора Deepcool ALTA 9</model>
-      <brand>Deepcool</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1765,7 +1765,7 @@
     </offer>
     <offer sku="G300-Grease">
       <model>Термосмазка G300-Grease</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="245"/>
       </availabilities>
@@ -1773,7 +1773,7 @@
     </offer>
     <offer sku="21661">
       <model>Патч Корд Оптоволоконный SC/UPC-SC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1781,7 +1781,7 @@
     </offer>
     <offer sku="16886">
       <model>Патч Корд Оптоволоконный SC/UPC-LC/UPC MM OM2 50/125 Duplex 3.0мм 1 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1789,7 +1789,7 @@
     </offer>
     <offer sku="APC030502CCA">
       <model>Кабель сетевой A&amp;P APC030502CCA UTP PVC</model>
-      <brand>A&amp;P</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1797,7 +1797,7 @@
     </offer>
     <offer sku="65021">
       <model>Коробка установочная ТYCO 65021</model>
-      <brand>Ruvinil</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
@@ -1813,7 +1813,7 @@
     </offer>
     <offer sku="7293">
       <model>Вал проявки Europrint P3100 (для картриджа 106R01379)</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1821,7 +1821,7 @@
     </offer>
     <offer sku="18097">
       <model>Пигтейл Оптический SC/UPC MM OM2 50/125 0.9 мм 1.5 м</model>
-      <brand>АЗОП</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1829,7 +1829,7 @@
     </offer>
     <offer sku="UTP RJ-11">
       <model>Коннектор RJ-11 телекоммуникационный</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12000"/>
       </availabilities>
@@ -1837,7 +1837,7 @@
     </offer>
     <offer sku="АО-1902 UPC">
       <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
-      <brand>А-Оптик</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="125"/>
       </availabilities>
@@ -1845,7 +1845,7 @@
     </offer>
     <offer sku="6772">
       <model>Бушинги резинового вала Europrint HP 1100</model>
-      <brand>Europrint</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
@@ -1853,7 +1853,7 @@
     </offer>
     <offer sku="GR16-1379T">
       <model>Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в.</model>
-      <brand>Trip-lite</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1861,7 +1861,7 @@
     </offer>
     <offer sku="R14P-BP2B">
       <model>Батарейка CAMELION Super Heavy Duty R14P-BP2B 2шт. в блистере</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1869,7 +1869,7 @@
     </offer>
     <offer sku="CR1620-BP1">
       <model>Батарейка CAMELION Lithium CR1620-BP1</model>
-      <brand>Camelion</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1981,7 +1981,7 @@
     </offer>
     <offer sku="2006">
       <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
-      <brand>Poholy</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1989,7 +1989,7 @@
     </offer>
     <offer sku="DLGP-86">
       <model>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86</model>
-      <brand>Deluxe</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="120"/>
       </availabilities>
