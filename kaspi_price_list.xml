@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-05T18:02:50" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-05T20:02:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -373,7 +373,7 @@
     </offer>
     <offer sku="14323">
       <model>Movement Sensor PST-IR401</model>
-      <brand>No name</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -517,7 +517,7 @@
     </offer>
     <offer sku="МС4">
       <model>Коннектор для солнечных панелей SVC МС4</model>
-      <brand>SVC</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -653,7 +653,7 @@
     </offer>
     <offer sku="667424 (497ABF)">
       <model>Пылесос для оргтехники SCS-67424 (497ABF)</model>
-      <brand>Scs</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1805,7 +1805,7 @@
     </offer>
     <offer sku="10175">
       <model>Аксессуар соединительный ТYCO 10175</model>
-      <brand>Ruvinil</brand>
+      <brand>Unknown</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
