@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T02:31:00" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T04:04:58" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
     <offer sku="F2 to F1">
       <model>Переходник F2-&gt;F1</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -213,7 +213,7 @@
     </offer>
     <offer sku="DVD-291">
       <model>Настенный кронштейн Brateck DVD-291 для DVD, 360х250 мм.</model>
-      <brand>Unknown</brand>
+      <brand>Brateck</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -357,7 +357,7 @@
     </offer>
     <offer sku="Р3-Ц-15">
       <model>Металлорукав РУВИНИЛ Р3-Ц-15</model>
-      <brand>Unknown</brand>
+      <brand>Ruvinil</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -549,7 +549,7 @@
     </offer>
     <offer sku="AC-M18-SC">
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
-      <brand>Unknown</brand>
+      <brand>Xiaomi</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -597,9 +597,9 @@
     </offer>
     <offer sku="DA807">
       <model>Внутренняя SNMP карта DA807</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="116"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="114"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -933,7 +933,7 @@
     </offer>
     <offer sku="911401876385">
       <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1109,9 +1109,9 @@
     </offer>
     <offer sku="BHB876/00">
       <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
       <price>102990</price>
     </offer>
@@ -1301,7 +1301,7 @@
     </offer>
     <offer sku="A9C20833">
       <model>Контактор модульный SE A9C20833 iCT25A 3НО 220/240В АС 50ГЦ</model>
-      <brand>Unknown</brand>
+      <brand>Schneider Electric</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1861,7 +1861,7 @@
     </offer>
     <offer sku="R14P-BP2B">
       <model>Батарейка CAMELION Super Heavy Duty R14P-BP2B 2шт. в блистере</model>
-      <brand>Unknown</brand>
+      <brand>Camelion</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1869,7 +1869,7 @@
     </offer>
     <offer sku="CR1620-BP1">
       <model>Батарейка CAMELION Lithium CR1620-BP1</model>
-      <brand>Unknown</brand>
+      <brand>Camelion</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1925,7 +1925,7 @@
     </offer>
     <offer sku="XM-770OUB">
       <model>Компьютерная мышь XG XM-770OUB</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1949,7 +1949,7 @@
     </offer>
     <offer sku="Shadow 400W">
       <model>Блок питания XG Shadow 400W</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
