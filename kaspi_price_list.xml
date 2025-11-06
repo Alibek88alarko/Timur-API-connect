@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T20:01:53" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T22:02:05" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -221,7 +221,7 @@
     </offer>
     <offer sku="23820">
       <model>Картридж Europrint EPC-60F5H00</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
       </availabilities>
@@ -229,7 +229,7 @@
     </offer>
     <offer sku="ОКЛ-4(G.652.D)-Т/С 2,7 кН">
       <model>Кабель оптоволоконный ОКЛ-4(G.652.D)-Т/С 2,7 кН</model>
-      <brand>Unknown</brand>
+      <brand>СКО</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -261,7 +261,7 @@
     </offer>
     <offer sku="RPCM 1502 (16A)">
       <model>Модуль удаленного управления питанием RCNTEC RPCM 1502 (16A)</model>
-      <brand>Unknown</brand>
+      <brand>Rcntec</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -269,7 +269,7 @@
     </offer>
     <offer sku="28024">
       <model>Тонер-картридж Europrint EPC-TK1130</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
@@ -293,7 +293,7 @@
     </offer>
     <offer sku="3020V_BI">
       <model>Монохромный принтер Xerox Phaser 3020BI</model>
-      <brand>Unknown</brand>
+      <brand>Xerox</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -725,7 +725,7 @@
     </offer>
     <offer sku="LSWM1STK">
       <model>Пассивный кабель H3C LSWM1STK</model>
-      <brand>Unknown</brand>
+      <brand>H3C</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -741,7 +741,7 @@
     </offer>
     <offer sku="E1009">
       <model>Наушники 1MORE Piston Fit In-Ear Headphones E1009 Серебристый</model>
-      <brand>Unknown</brand>
+      <brand>1MORE</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -829,7 +829,7 @@
     </offer>
     <offer sku="911401890982">
       <model>Однофазный прожектор Philips ST033T LED25/840 30W 220-240V I WB BK GM</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -837,7 +837,7 @@
     </offer>
     <offer sku="911401735852">
       <model>Cветильник Philips WT045C LED12/NW PSU CFW L1054</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -861,7 +861,7 @@
     </offer>
     <offer sku="CT-2385">
       <model>Отпариватель Centek CT-2385 Фиолетовый</model>
-      <brand>Unknown</brand>
+      <brand>Centek</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
@@ -877,7 +877,7 @@
     </offer>
     <offer sku="Ranger RC 3MP">
       <model>Wi-Fi видеокамера Imou Ranger RC 3MP</model>
-      <brand>Unknown</brand>
+      <brand>Imou</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
       </availabilities>
@@ -885,7 +885,7 @@
     </offer>
     <offer sku="B112-ZS">
       <model>Основная щётка для робота-пылесоса Xiaomi Robot Vacuum E10</model>
-      <brand>Unknown</brand>
+      <brand>Xiaomi</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
@@ -893,7 +893,7 @@
     </offer>
     <offer sku="097N02470">
       <model>Модуль для беспроводного подключения Xerox 097N02470</model>
-      <brand>Unknown</brand>
+      <brand>Xerox</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -901,7 +901,7 @@
     </offer>
     <offer sku="QWLDZ001">
       <model>Дрель-шуруповерт HOTO 12V Brushless Drill</model>
-      <brand>Unknown</brand>
+      <brand>HOTO</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -917,7 +917,7 @@
     </offer>
     <offer sku="DS-KP6000-HE1">
       <model>IP телефон Hikvision DS-KP6000-HE1</model>
-      <brand>Unknown</brand>
+      <brand>Hikvision</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -925,7 +925,7 @@
     </offer>
     <offer sku="HMAG68EXNEA">
       <model>Модуль памяти Hynix HMAG68EXNEA DDR4-3200 1Rx8 ECC UDIMM 8GB 3200MHz</model>
-      <brand>Unknown</brand>
+      <brand>No name</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
@@ -965,7 +965,7 @@
     </offer>
     <offer sku="MLLA7160">
       <model>Косилка-робот Dreame Roboticmower A1</model>
-      <brand>Unknown</brand>
+      <brand>Dreame</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
@@ -981,7 +981,7 @@
     </offer>
     <offer sku="067161">
       <model>Розетка Celiane 067161 2К+З нем.ст. винт.зажимы механизм</model>
-      <brand>Unknown</brand>
+      <brand>Legrand</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1205,7 +1205,7 @@
     </offer>
     <offer sku="36470">
       <model>Перегородка SEP DKC 36470 L2000 Н50</model>
-      <brand>Unknown</brand>
+      <brand>ДКС</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1213,7 +1213,7 @@
     </offer>
     <offer sku="4X77A81438">
       <model>Модуль памяти Lenovo ThinkSystem 32GB TruDDR5 4800 MHz (1Rx4) 10x4 RDIMM-A</model>
-      <brand>Unknown</brand>
+      <brand>Lenovo</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
@@ -1333,7 +1333,7 @@
     </offer>
     <offer sku="CET101058">
       <model>Фотобарабан CET iR1600 (CET101058)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1349,7 +1349,7 @@
     </offer>
     <offer sku="CET101030">
       <model>Фотобарабан CET C7020/7030 (CET101030)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1357,7 +1357,7 @@
     </offer>
     <offer sku="CET9005N">
       <model>Фотобарабан CET 502/602 (CET9005N)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1365,7 +1365,7 @@
     </offer>
     <offer sku="MSYSJ03-EU">
       <model>Диспенсер для воды Xiaomi Instant Hot Water Dispenser Белый</model>
-      <brand>Unknown</brand>
+      <brand>Xiaomi</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1373,7 +1373,7 @@
     </offer>
     <offer sku="CET6415">
       <model>Фотобарабан CET DK-130 (CET6415)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1381,7 +1381,7 @@
     </offer>
     <offer sku="CET5231">
       <model>Фотобарабан CET DP1520/DP1820 (CET5231)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1389,7 +1389,7 @@
     </offer>
     <offer sku="CET6232">
       <model>Фотобарабан CET MPC2503 (CET6232)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1397,7 +1397,7 @@
     </offer>
     <offer sku="CET1833N">
       <model>Фотобарабан CET AR-M160 (CET1833N)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1405,7 +1405,7 @@
     </offer>
     <offer sku="DH-C2K-P">
       <model>Wi-Fi видеокамера Dahua DH-C2K-P</model>
-      <brand>Unknown</brand>
+      <brand>Dahua</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1413,7 +1413,7 @@
     </offer>
     <offer sku="3421C001">
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
-      <brand>Unknown</brand>
+      <brand>Canon</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1421,7 +1421,7 @@
     </offer>
     <offer sku="I4 (V1)">
       <model>Аппарат для сварки оптических волокон i4</model>
-      <brand>Unknown</brand>
+      <brand>INNO Instrument</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1429,7 +1429,7 @@
     </offer>
     <offer sku="CET471101">
       <model>Драм-юнит CET C-EXV63 (CET471101)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1437,7 +1437,7 @@
     </offer>
     <offer sku="CET471045P">
       <model>Драм-юнит CET DR-316K (CET471045P)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1445,7 +1445,7 @@
     </offer>
     <offer sku="CET471037">
       <model>Драм-юнит CET 113R00780 (CET471037)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
@@ -1453,7 +1453,7 @@
     </offer>
     <offer sku="CET5060N">
       <model>Комплект роликов захвата/отделения бумаги CET IR6055 (CET5060N)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1461,7 +1461,7 @@
     </offer>
     <offer sku="CET7908, CET7908R">
       <model>Комплект роликов захвата бумаги CET WC5325 (CET7908, CET7908R)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
@@ -1469,7 +1469,7 @@
     </offer>
     <offer sku="CET361021">
       <model>Резинка сепаратора CET P3020 (CET361021)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1477,7 +1477,7 @@
     </offer>
     <offer sku="CET151009450">
       <model>Девелопер CET CE08-D (CET151009450)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1485,7 +1485,7 @@
     </offer>
     <offer sku="CET2439">
       <model>Резиновый вал CET M602 (CET2439)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1493,7 +1493,7 @@
     </offer>
     <offer sku="CET5121">
       <model>Резиновый вал+бушинги CET IR6055 (CET5121)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1501,7 +1501,7 @@
     </offer>
     <offer sku="CET2288">
       <model>Термоплёнка CET IR-2016 (CET2288)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1509,7 +1509,7 @@
     </offer>
     <offer sku="CET181019">
       <model>Тефлоновый вал CET M6700 (CET181019)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1517,7 +1517,7 @@
     </offer>
     <offer sku="CET391016">
       <model>Чип CET C-EXV49 Drum (CET391016)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1525,7 +1525,7 @@
     </offer>
     <offer sku="CET4378">
       <model>Резиновый вал CET FS1028 (CET4378)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1533,7 +1533,7 @@
     </offer>
     <offer sku="CET211045">
       <model>Резиновый вал CET M7100 (CET211045)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1549,7 +1549,7 @@
     </offer>
     <offer sku="911401813587">
       <model>Прожектор Philips BVP156 G2 LED8/CW 10Вт 800Lm 6500K IP65</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1565,7 +1565,7 @@
     </offer>
     <offer sku="12310457">
       <model>Асинхронный электродвигатель WEG 12310457 W20 100L 3 кВт 2P B3T 220-460 В 50 Гц</model>
-      <brand>Unknown</brand>
+      <brand>WEG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
@@ -1581,7 +1581,7 @@
     </offer>
     <offer sku="E-Bike-S">
       <model>Электровелосипед Joieem E-Bike-S 26 Matt Sky Blue</model>
-      <brand>Unknown</brand>
+      <brand>Joieem</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
@@ -1589,7 +1589,7 @@
     </offer>
     <offer sku="ER-8-XG">
       <model>Маршрутизатор Ubiquiti ER-8-XG</model>
-      <brand>Unknown</brand>
+      <brand>Ubiquiti</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1613,7 +1613,7 @@
     </offer>
     <offer sku="A9E18321">
       <model>Световой индикатор SE A9E18321 ilL зеленый 230В</model>
-      <brand>Unknown</brand>
+      <brand>Schneider Electric</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
@@ -1629,7 +1629,7 @@
     </offer>
     <offer sku="67054Ч">
       <model>Коробка распаячная ТYCO 67054Ч без гермовводов черная</model>
-      <brand>Unknown</brand>
+      <brand>Ruvinil</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1645,7 +1645,7 @@
     </offer>
     <offer sku="CET5180N">
       <model>Комплект восстановления драм-юнита CET C-EXV37 (CET5180N)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1661,7 +1661,7 @@
     </offer>
     <offer sku="CET3123">
       <model>Термоэлемент СЕТ 1160 (CET3123)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1669,7 +1669,7 @@
     </offer>
     <offer sku="CET281103">
       <model>Ракельный нож СЕТ DR312-Blade (CET281103)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1677,7 +1677,7 @@
     </offer>
     <offer sku="CET281063">
       <model>Ракельный нож СЕТ C-EXV49 (CET281063)</model>
-      <brand>Unknown</brand>
+      <brand>CET</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1877,7 +1877,7 @@
     </offer>
     <offer sku="Schuko to 4xC13">
       <model>Переходник SVC Schuko на 4хС13</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1885,7 +1885,7 @@
     </offer>
     <offer sku="SR43-BP1(0%Hg)">
       <model>Батарейка CAMELION Silver Oxide SR43-BP1(0%Hg)</model>
-      <brand>Unknown</brand>
+      <brand>Camelion</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1901,7 +1901,7 @@
     </offer>
     <offer sku="AS-7108ULS">
       <model>KVM консоль SHIP AS-7108ULS</model>
-      <brand>Unknown</brand>
+      <brand>Ship</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
