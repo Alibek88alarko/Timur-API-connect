@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T10:01:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T12:02:51" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -141,7 +141,7 @@
     </offer>
     <offer sku="V-600-L">
       <model>Источник бесперебойного питания SVC V-600-L</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -165,7 +165,7 @@
     </offer>
     <offer sku="21649">
       <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC SM 9/125 Duplex 2.0мм 1 м</model>
-      <brand>Unknown</brand>
+      <brand>АЗОП</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -205,7 +205,7 @@
     </offer>
     <offer sku="XD-7700GB">
       <model>Комплект Клавиатура + Мышь XG XD-7700GB</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -245,7 +245,7 @@
     </offer>
     <offer sku="ODWAC-22 (C201)">
       <model>Анкерный зажим натяжной А-Оптик, АО-ODWAC-22 (C201)</model>
-      <brand>Unknown</brand>
+      <brand>А-Оптик</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -357,7 +357,7 @@
     </offer>
     <offer sku="Р3-Ц-15">
       <model>Металлорукав РУВИНИЛ Р3-Ц-15</model>
-      <brand>Unknown</brand>
+      <brand>Ruvinil</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -461,7 +461,7 @@
     </offer>
     <offer sku="F-M1">
       <model>Оптический кросс SHIP F-M1</model>
-      <brand>Unknown</brand>
+      <brand>Ship</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -559,13 +559,13 @@
       <model>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
       <price>16990</price>
     </offer>
     <offer sku="XG100">
       <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -623,7 +623,7 @@
       <model>Коврик для компьютерной мыши Glorious L 330x280x2 (G-L)</model>
       <brand>Glorious</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
       <price>3190</price>
     </offer>
@@ -933,7 +933,7 @@
     </offer>
     <offer sku="911401876385">
       <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1109,7 +1109,7 @@
     </offer>
     <offer sku="BHB876/00">
       <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
-      <brand>Unknown</brand>
+      <brand>Philips</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
@@ -1127,7 +1127,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="118"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="113"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1157,7 +1157,7 @@
     </offer>
     <offer sku="DH-IPC-HFW1839TC-A-IL">
       <model>IP видеокамера Dahua DH-IPC-HFW1839TC-A-IL</model>
-      <brand>Unknown</brand>
+      <brand>Dahua</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1245,7 +1245,7 @@
     </offer>
     <offer sku="CP.RN.00000203.01">
       <model>Зарядная станция DJI WB37 Battery Charging Hub USB-C</model>
-      <brand>Unknown</brand>
+      <brand>DJI</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1325,7 +1325,7 @@
     </offer>
     <offer sku="DHI-ASGG120F">
       <model>Турникет Dahua DHI-ASGG120F</model>
-      <brand>Unknown</brand>
+      <brand>Dahua</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1557,9 +1557,9 @@
     </offer>
     <offer sku="YNDX-00028GRY">
       <model>Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, Графит</model>
-      <brand>Unknown</brand>
+      <brand>Yandex</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
       </availabilities>
       <price>28990</price>
     </offer>
@@ -1605,7 +1605,7 @@
     </offer>
     <offer sku="23.8&amp;quot; XG Quantum X5">
       <model>Моноблок 23.8&quot; XG Quantum X5</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1637,7 +1637,7 @@
     </offer>
     <offer sku="1308-1300R0065">
       <model>Контроллер подсветки Gamemax V4.0 ARGB+PWM HUB BK (12В)</model>
-      <brand>Unknown</brand>
+      <brand>Gamemax</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
