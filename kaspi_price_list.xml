@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-06T22:02:05" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-07T00:04:56" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -109,7 +109,7 @@
     </offer>
     <offer sku="T-1640E">
       <model>Тонер-туба Europrint Toshiba T-1640E</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="31"/>
       </availabilities>
@@ -117,7 +117,7 @@
     </offer>
     <offer sku="6770">
       <model>Бушинги резинового вала Europrint HP 1200</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
@@ -125,7 +125,7 @@
     </offer>
     <offer sku="RC1-2038-000">
       <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="64"/>
       </availabilities>
@@ -133,7 +133,7 @@
     </offer>
     <offer sku="6188">
       <model>Картридж Europrint EPC-C4129X</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -373,7 +373,7 @@
     </offer>
     <offer sku="14323">
       <model>Movement Sensor PST-IR401</model>
-      <brand>Unknown</brand>
+      <brand>No name</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -501,7 +501,7 @@
     </offer>
     <offer sku="WB Used for MLT-101">
       <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="190"/>
       </availabilities>
@@ -517,7 +517,7 @@
     </offer>
     <offer sku="МС4">
       <model>Коннектор для солнечных панелей SVC МС4</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -541,7 +541,7 @@
     </offer>
     <offer sku="GFLQ-C2-1*16-PLC-G657A1-SC/APC">
       <model>Делитель оптический планарный PLC-M-1x16 в корпусе</model>
-      <brand>Unknown</brand>
+      <brand>А-Оптик</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -573,7 +573,7 @@
     </offer>
     <offer sku="OBTK300CH">
       <model>Конструктор ONEBOT Building Block Off-Road Vehicle-Tank 300 580+ OBTK300CH</model>
-      <brand>Unknown</brand>
+      <brand>ONEBOT</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="121"/>
       </availabilities>
@@ -653,7 +653,7 @@
     </offer>
     <offer sku="667424 (497ABF)">
       <model>Пылесос для оргтехники SCS-67424 (497ABF)</model>
-      <brand>Unknown</brand>
+      <brand>Scs</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -661,7 +661,7 @@
     </offer>
     <offer sku="4g">
       <model>Термопаста X-Game в шприце 4 г</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -669,7 +669,7 @@
     </offer>
     <offer sku="66X82AA">
       <model>Кронштейн без основания для мониторов HyperX Armada Gaming Mount Addon 66X82AA</model>
-      <brand>Unknown</brand>
+      <brand>HyperX</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
@@ -677,7 +677,7 @@
     </offer>
     <offer sku="C35-7W-E27-4200K">
       <model>Эл. лампа светодиодная SVC LED C35-7W-E27-4200K, Нейтральный</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -685,7 +685,7 @@
     </offer>
     <offer sku="C35-7W-E14-4200K">
       <model>Эл. лампа светодиодная SVC LED C35-7W-E14-4200K, Нейтральный</model>
-      <brand>Unknown</brand>
+      <brand>SVC</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
@@ -717,7 +717,7 @@
     </offer>
     <offer sku="QS-9019">
       <model>Кабель оптоволоконный ИКАЛс-М4П-А4-3 кН</model>
-      <brand>Unknown</brand>
+      <brand>Интегра</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1117,7 +1117,7 @@
     </offer>
     <offer sku="62916">
       <model>Труба гладкая жёсткая ПВХ DKC 62916 16 мм</model>
-      <brand>Unknown</brand>
+      <brand>ДКС</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1141,7 +1141,7 @@
     </offer>
     <offer sku="258091">
       <model>Реле времени CHINT NTE8-480B 0.5-8мин 1НО AC 230В</model>
-      <brand>Unknown</brand>
+      <brand>CHINT</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -1149,7 +1149,7 @@
     </offer>
     <offer sku="XGED256-R">
       <model>Внешний SSD диск XG XGED256-R 256GB Черный</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
@@ -1165,7 +1165,7 @@
     </offer>
     <offer sku="6536C022AA">
       <model>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5</model>
-      <brand>Unknown</brand>
+      <brand>Canon</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1173,7 +1173,7 @@
     </offer>
     <offer sku="TK-182">
       <model>Комплект для чистки оптоволоконных разъемов TK-182</model>
-      <brand>Unknown</brand>
+      <brand>Jonard Tools</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1181,7 +1181,7 @@
     </offer>
     <offer sku="XMTYY03FMG">
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
-      <brand>Unknown</brand>
+      <brand>Xiaomi</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
@@ -1189,7 +1189,7 @@
     </offer>
     <offer sku="XB5AW31B5">
       <model>Кнопка SE XB5AW31B5 22мм 24В с подсветкой белая</model>
-      <brand>Unknown</brand>
+      <brand>Schneider Electric</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1197,7 +1197,7 @@
     </offer>
     <offer sku="35510">
       <model>Крышка с заземлением на лоток DKC 35510 осн.50 L2000</model>
-      <brand>Unknown</brand>
+      <brand>ДКС</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1237,7 +1237,7 @@
     </offer>
     <offer sku="CP.AG.00000806.07">
       <model>Сельскохозяйственный дрон DJI Agras T50</model>
-      <brand>Unknown</brand>
+      <brand>DJI</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
@@ -1253,7 +1253,7 @@
     </offer>
     <offer sku="4XB7A90874">
       <model>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5&quot; Multi Vendor 960GB RI v2</model>
-      <brand>Unknown</brand>
+      <brand>Lenovo</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1261,7 +1261,7 @@
     </offer>
     <offer sku="NC2254">
       <model>Полоса 25х4 мм DKC NC2254 горячеоцинкованная сталь</model>
-      <brand>Unknown</brand>
+      <brand>ДКС</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1269,7 +1269,7 @@
     </offer>
     <offer sku="КТ-168">
       <model>Электрическая плита для розжига углей для кальяна Kitfort КТ-168</model>
-      <brand>Unknown</brand>
+      <brand>Kitfort</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
@@ -1277,7 +1277,7 @@
     </offer>
     <offer sku="4X97A88521">
       <model>Комплект кабелей Lenovo ThinkSystem SR630 V3 M.2 NVMe 2-Bay RAID Cable Kit</model>
-      <brand>Unknown</brand>
+      <brand>Lenovo</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
@@ -1285,7 +1285,7 @@
     </offer>
     <offer sku="4F17A14487">
       <model>Вентилятор (Кулер) для корпуса Lenovo ThinkSystem SR630 V2/SR645 Performance</model>
-      <brand>Unknown</brand>
+      <brand>Lenovo</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
@@ -1293,7 +1293,7 @@
     </offer>
     <offer sku="LI8060">
       <model>Лестничный лоток 80х600 плюс DKC LI8060 L 3000</model>
-      <brand>Unknown</brand>
+      <brand>ДКС</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1309,7 +1309,7 @@
     </offer>
     <offer sku="XG DLS-M240x135W">
       <model>Экран XG DLS-M240x135W (94&quot;х53&quot;), Ø - 108&quot;, 16:9</model>
-      <brand>Unknown</brand>
+      <brand>XG</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
@@ -1317,7 +1317,7 @@
     </offer>
     <offer sku="17798">
       <model>Каркасный бассейн Avenli 17798</model>
-      <brand>Unknown</brand>
+      <brand>Avenli</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
@@ -1797,7 +1797,7 @@
     </offer>
     <offer sku="65021">
       <model>Коробка установочная ТYCO 65021</model>
-      <brand>Unknown</brand>
+      <brand>Ruvinil</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
@@ -1805,7 +1805,7 @@
     </offer>
     <offer sku="10175">
       <model>Аксессуар соединительный ТYCO 10175</model>
-      <brand>Unknown</brand>
+      <brand>Ruvinil</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
@@ -1813,7 +1813,7 @@
     </offer>
     <offer sku="7293">
       <model>Вал проявки Europrint P3100 (для картриджа 106R01379)</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
@@ -1845,7 +1845,7 @@
     </offer>
     <offer sku="6772">
       <model>Бушинги резинового вала Europrint HP 1100</model>
-      <brand>Unknown</brand>
+      <brand>Europrint</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
