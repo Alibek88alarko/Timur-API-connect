@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-11T04:04:19" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-11T06:02:44" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1567,7 +1567,7 @@
       <model>Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, Графит</model>
       <brand>Yandex</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="17"/>
       </availabilities>
       <price>28990</price>
     </offer>
@@ -1607,7 +1607,7 @@
       <model>Планшет TECNO MEGAPAD 10 T1001 4G LTE 4GB RAM 128GB ROM Dark Gray</model>
       <brand>TECNO</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="36"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
       </availabilities>
       <price>89990</price>
     </offer>
