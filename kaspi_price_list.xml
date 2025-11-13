@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-13T04:05:15" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-13T06:02:41" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -908,12 +908,12 @@
       <price>43990</price>
     </offer>
     <offer sku="23117RA68G">
-      <model>Мобильный телефон Redmi Note 13 Pro 12GB RAM 512GB ROM Midnight Black</model>
+      <model>Мобильный телефон Redmi Note 13 Pro 8GB RAM 256GB ROM Forest Green</model>
       <brand>Redmi</brand>
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>189990</price>
+      <price>149990</price>
     </offer>
     <offer sku="КТ-2305">
       <model>Блендер-пароварка Kitfort КТ-2305</model>
@@ -1231,7 +1231,7 @@
       <model>Тостер Xiaomi Toaster Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>21990</price>
     </offer>
@@ -1663,7 +1663,7 @@
       <model>ТВ Станция Яндекс Бейсик QLED 43&quot;</model>
       <brand>Yandex</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
       <price>219990</price>
     </offer>
