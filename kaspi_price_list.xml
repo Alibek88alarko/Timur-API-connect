@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-14T04:03:44" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-14T06:02:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -591,7 +591,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="114"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="112"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -679,7 +679,7 @@
       <model>Эл. лампа светодиодная SVC LED C35-7W-E14-4200K, Нейтральный</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
       </availabilities>
       <price>260</price>
     </offer>
@@ -871,7 +871,7 @@
       <model>Выпрямитель для волос Centek CT-2027</model>
       <brand>Centek</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
       <price>5490</price>
     </offer>
@@ -1743,7 +1743,7 @@
       <model>Трипод для селфи Xiaomi Selfie Stick Tripod Mini Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="23"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
       <price>9990</price>
     </offer>
@@ -1855,7 +1855,7 @@
       <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="124"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="123"/>
       </availabilities>
       <price>375</price>
     </offer>
