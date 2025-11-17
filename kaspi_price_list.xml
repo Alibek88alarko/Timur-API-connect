@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-17T10:02:00" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-17T12:02:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -591,7 +591,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="108"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="112"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -783,7 +783,7 @@
       <model>Видеокамера Imou Cruiser 4G</model>
       <brand>Imou</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>46790</price>
     </offer>
@@ -1585,7 +1585,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
-      <price>260990</price>
+      <price>303990</price>
     </offer>
     <offer sku="E-Bike-S">
       <model>Электровелосипед Joieem E-Bike-S 26 Matt Sky Blue</model>
@@ -1751,7 +1751,7 @@
       <model>Трипод для селфи Xiaomi Selfie Stick Tripod Mini Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>9990</price>
     </offer>
@@ -1863,7 +1863,7 @@
       <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="112"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="111"/>
       </availabilities>
       <price>375</price>
     </offer>
