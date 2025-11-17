@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-17T16:02:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-17T20:02:43" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
       </availabilities>
       <price>2390376</price>
     </offer>
@@ -665,7 +665,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
-      <price>26059</price>
+      <price>66990</price>
     </offer>
     <offer sku="C35-7W-E27-4200K">
       <model>Эл. лампа светодиодная SVC LED C35-7W-E27-4200K, Нейтральный</model>
@@ -1127,7 +1127,7 @@
       <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
       <brand>Philips</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>102990</price>
     </offer>
@@ -1143,7 +1143,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="110"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="102"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1631,7 +1631,7 @@
       <model>Световой индикатор SE A9E18321 ilL зеленый 230В</model>
       <brand>Schneider Electric</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
       <price>7056</price>
     </offer>
