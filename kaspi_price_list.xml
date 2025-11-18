@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-18T04:02:53" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-18T06:02:17" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>2390376</price>
     </offer>
@@ -906,14 +906,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>43990</price>
-    </offer>
-    <offer sku="23117RA68G">
-      <model>Мобильный телефон Redmi Note 13 Pro 8GB RAM 256GB ROM Forest Green</model>
-      <brand>Redmi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>149990</price>
     </offer>
     <offer sku="КТ-2305">
       <model>Блендер-пароварка Kitfort КТ-2305</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>240</price>
+    </offer>
+    <offer sku="2006">
+      <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
+      <brand>Poholy</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>27813</price>
     </offer>
   </offers>
 </kaspi_catalog>
