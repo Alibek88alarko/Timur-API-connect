@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-20T02:29:56" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-20T04:02:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1291,14 +1291,6 @@
       </availabilities>
       <price>14709</price>
     </offer>
-    <offer sku="A9C20833">
-      <model>Контактор модульный SE A9C20833 iCT25A 3НО 220/240В АС 50ГЦ</model>
-      <brand>Schneider Electric</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
-      </availabilities>
-      <price>37400</price>
-    </offer>
     <offer sku="XG DLS-M240x135W">
       <model>Экран XG DLS-M240x135W (94&quot;х53&quot;), Ø - 108&quot;, 16:9</model>
       <brand>XG</brand>
@@ -1567,7 +1559,7 @@
       <model>Стабилизатор SVC-3-10кВА</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>303990</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="119"/>
       </availabilities>
       <price>820</price>
+    </offer>
+    <offer sku="DL.04G2K.KAM">
+      <model>Модуль памяти Apacer DL.04G2K.KAM</model>
+      <brand>Apacer</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>8485</price>
     </offer>
   </offers>
 </kaspi_catalog>
