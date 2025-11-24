@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-24T04:11:01" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-24T06:02:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -487,7 +487,7 @@
       <model>Металлорукав РУВИНИЛ Р3-Ц-ПВХ-15</model>
       <brand>Ruvinil</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>516</price>
     </offer>
@@ -1113,7 +1113,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>102990</price>
+      <price>89990</price>
     </offer>
     <offer sku="62916">
       <model>Труба гладкая жёсткая ПВХ DKC 62916 16 мм</model>
@@ -1543,7 +1543,7 @@
       <model>Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, Графит</model>
       <brand>Yandex</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>28990</price>
     </offer>
