@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-04T06:02:32" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-04T08:02:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -271,7 +271,7 @@
       <model>Тонер-картридж Europrint EPC-TK1130</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
       <price>1531</price>
     </offer>
@@ -591,7 +591,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -775,7 +775,7 @@
       <model>Видеокамера Imou Cruiser 4G</model>
       <brand>Imou</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>46790</price>
     </offer>
@@ -1175,7 +1175,7 @@
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>109990</price>
     </offer>
@@ -1239,7 +1239,7 @@
       <model>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5&quot; Multi Vendor 960GB RI v2</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>165090</price>
     </offer>
@@ -1255,7 +1255,7 @@
       <model>Электрическая плита для розжига углей для кальяна Kitfort КТ-168</model>
       <brand>Kitfort</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>16090</price>
     </offer>
