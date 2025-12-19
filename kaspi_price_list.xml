@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19T02:33:08" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-19T04:11:32" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -503,7 +503,7 @@
       <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
       </availabilities>
       <price>13990</price>
     </offer>
@@ -711,7 +711,7 @@
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="29"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
       </availabilities>
       <price>6490</price>
     </offer>
