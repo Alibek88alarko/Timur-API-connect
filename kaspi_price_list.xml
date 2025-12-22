@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-22T10:02:28" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-22T12:02:58" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -495,7 +495,7 @@
       <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
       </availabilities>
       <price>13990</price>
     </offer>
@@ -527,7 +527,7 @@
       <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
       </availabilities>
       <price>115900</price>
     </offer>
@@ -1127,7 +1127,7 @@
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>109990</price>
     </offer>
@@ -1159,7 +1159,7 @@
       <model>Тостер Xiaomi Toaster Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
       </availabilities>
       <price>21990</price>
     </offer>
@@ -1287,7 +1287,7 @@
       <model>Перкуссионный массажер Xiaomi Massage Gun 2 Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
       <price>45990</price>
     </offer>
@@ -1551,7 +1551,7 @@
       <model>Планшет TECNO MEGAPAD 10 T1001 4G LTE 4GB RAM 128GB ROM Dark Gray</model>
       <brand>TECNO</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>89990</price>
     </offer>
