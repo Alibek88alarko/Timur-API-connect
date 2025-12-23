@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-23T04:13:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-23T06:02:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -487,7 +487,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
       <price>2381305</price>
     </offer>
@@ -1103,7 +1103,7 @@
       <model>IP видеокамера Dahua DH-IPC-HFW1839TC-A-IL</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="34"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>68590</price>
     </offer>
@@ -1127,7 +1127,7 @@
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>109990</price>
     </offer>
@@ -1159,7 +1159,7 @@
       <model>Тостер Xiaomi Toaster Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
       <price>21990</price>
     </offer>
@@ -1191,7 +1191,7 @@
       <model>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5&quot; Multi Vendor 960GB RI v2</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>165090</price>
     </offer>
@@ -1234,14 +1234,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>14709</price>
-    </offer>
-    <offer sku="55037261">
-      <model>Стилус Huawei M-Pencil (3-го поколения) CD54-S White</model>
-      <brand>Huawei</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>34890</price>
     </offer>
     <offer sku="XG DLS-M240x135W">
       <model>Экран XG DLS-M240x135W (94&quot;х53&quot;), Ø - 108&quot;, 16:9</model>
@@ -1287,7 +1279,7 @@
       <model>Перкуссионный массажер Xiaomi Massage Gun 2 Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>45990</price>
     </offer>
@@ -1551,7 +1543,7 @@
       <model>Планшет TECNO MEGAPAD 10 T1001 4G LTE 4GB RAM 128GB ROM Dark Gray</model>
       <brand>TECNO</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>89990</price>
     </offer>
@@ -1791,7 +1783,7 @@
       <model>Коннектор RJ-11 телекоммуникационный</model>
       <brand>No name</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10000"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9000"/>
       </availabilities>
       <price>16</price>
     </offer>
@@ -1799,7 +1791,7 @@
       <model>Быстрый коннектор SC А-Оптик AO-1902 UPC</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="105"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="65"/>
       </availabilities>
       <price>375</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>357</price>
+    </offer>
+    <offer sku="RPCM 1532 (32A)">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
