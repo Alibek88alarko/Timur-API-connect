@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-06T04:15:10" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-06T06:02:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -49,7 +49,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>2100</price>
+      <price>1988</price>
     </offer>
     <offer sku="16815">
       <model>Патч Корд Оптоволоконный SC/APC-ST/UPC SM 9/125 Simplex 3.0мм 1 м</model>
@@ -513,7 +513,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>44990</price>
+      <price>47990</price>
     </offer>
     <offer sku="AFEP7TFM01">
       <model>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый</model>
@@ -729,7 +729,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>9990</price>
+      <price>11990</price>
     </offer>
     <offer sku="Cruiser 4G">
       <model>Видеокамера Imou Cruiser 4G</model>
@@ -881,7 +881,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>60</price>
+      <price>75</price>
     </offer>
     <offer sku="URTM028">
       <model>Мануальная дорожка для ходьбы Urevo Spacewalk E3S Черный</model>
@@ -1017,7 +1017,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>20990</price>
+      <price>17990</price>
     </offer>
     <offer sku="R5ST0331">
       <model>Корпус навесной ST c м/п DKC 300x300х150 мм IP66</model>
@@ -1031,7 +1031,7 @@
       <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
       <brand>Redmi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11"/>
       </availabilities>
       <price>16490</price>
     </offer>
@@ -1999,7 +1999,7 @@
       <model>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86</model>
       <brand>Deluxe</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="114"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="113"/>
       </availabilities>
       <price>820</price>
     </offer>
