@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-08T18:02:19" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-08T20:02:27" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -945,7 +945,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>3029</price>
+      <price>3137</price>
     </offer>
     <offer sku="37501R">
       <model>Никелированная пластина для заземления DKC 37501R PTCE</model>
@@ -953,7 +953,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>797</price>
+      <price>825</price>
     </offer>
     <offer sku="BPL2930">
       <model>П-образный профиль PSL DKC BPL2930 L3000 толщ.1,5 мм</model>
@@ -961,7 +961,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>4706</price>
+      <price>4874</price>
     </offer>
     <offer sku="BSF2901">
       <model>Крепление к потолку SSM DKC BSF2901</model>
@@ -969,7 +969,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>8485</price>
+      <price>8788</price>
     </offer>
     <offer sku="FC5005">
       <model>Проволочный лоток 50х50 DKC FC5005 L3000</model>
@@ -977,7 +977,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>2803</price>
+      <price>2903</price>
     </offer>
     <offer sku="BHR7919EU">
       <model>Рисоварка Xiaomi Smart Multifunctional Rice Cooker</model>
@@ -1041,7 +1041,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>295</price>
+      <price>306</price>
     </offer>
     <offer sku="XB4BP31">
       <model>Кнопка SE XB4BP31 22мм зелёная</model>
@@ -1113,7 +1113,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>1415</price>
+      <price>1465</price>
     </offer>
     <offer sku="36470">
       <model>Перегородка SEP DKC 36470 L2000 Н50</model>
@@ -1121,7 +1121,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>2439</price>
+      <price>2526</price>
     </offer>
     <offer sku="4X77A81438">
       <model>Модуль памяти Lenovo ThinkSystem 32GB TruDDR5 4800 MHz (1Rx4) 10x4 RDIMM-A</model>
@@ -1209,7 +1209,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>14709</price>
+      <price>15234</price>
     </offer>
     <offer sku="XG DLS-M240x135W">
       <model>Экран XG DLS-M240x135W (94&quot;х53&quot;), Ø - 108&quot;, 16:9</model>
