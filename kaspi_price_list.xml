@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-11T22:01:36" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-12T00:05:56" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -714,14 +714,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>3540</price>
-    </offer>
-    <offer sku="23053RN02A">
-      <model>Мобильный телефон Redmi 12 4GB RAM 128GB ROM Midnight Black</model>
-      <brand>Redmi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>59990</price>
     </offer>
     <offer sku="S101">
       <model>Электробритва Xiaomi Electric Shaver S101 Синий</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="113"/>
       </availabilities>
       <price>820</price>
+    </offer>
+    <offer sku="21601">
+      <model>Труба гофрированная ПНД РУВИНИЛ 21601 16мм безгалогенная</model>
+      <brand>Ruvinil</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>150</price>
     </offer>
   </offers>
 </kaspi_catalog>
