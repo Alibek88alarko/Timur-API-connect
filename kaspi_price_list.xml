@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-13T00:04:44" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-13T02:35:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -51,7 +51,7 @@
       </availabilities>
       <price>1200</price>
     </offer>
-    <offer sku="SC/APC SM 9/125 0.9 мм 1.5 м">
+    <offer sku="SC/APC SM 9/125 0.9 мм 1.">
       <model>Пигтейл Оптический SC/APC SM 9/125 0.9 мм 1.5 м</model>
       <brand>АЗОП</brand>
       <availabilities>
