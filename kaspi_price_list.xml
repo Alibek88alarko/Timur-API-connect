@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-13T02:35:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-13T04:15:15" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -771,14 +771,6 @@
       </availabilities>
       <price>69990</price>
     </offer>
-    <offer sku="911401890982">
-      <model>Однофазный прожектор Philips ST033T LED25/840 30W 220-240V I WB BK GM</model>
-      <brand>Philips</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>12593</price>
-    </offer>
     <offer sku="911401735852">
       <model>Cветильник Philips WT045C LED12/NW PSU CFW L1054</model>
       <brand>Philips</brand>
@@ -1170,14 +1162,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
       </availabilities>
       <price>1</price>
-    </offer>
-    <offer sku="4XB7A90874">
-      <model>Твердотельный накопитель SSD Lenovo ThinkSystem 2.5&quot; Multi Vendor 960GB RI v2</model>
-      <brand>Lenovo</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>165090</price>
     </offer>
     <offer sku="NC2254">
       <model>Полоса 25х4 мм DKC NC2254 горячеоцинкованная сталь</model>
@@ -2002,6 +1986,22 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="113"/>
       </availabilities>
       <price>820</price>
+    </offer>
+    <offer sku="21601">
+      <model>Труба гофрированная ПНД РУВИНИЛ 21601 16мм безгалогенная</model>
+      <brand>Ruvinil</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>150</price>
+    </offer>
+    <offer sku="DL.04G2K.KAM">
+      <model>Модуль памяти Apacer DL.04G2K.KAM</model>
+      <brand>Apacer</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>8485</price>
     </offer>
   </offers>
 </kaspi_catalog>
