@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-15T04:15:58" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-15T06:02:36" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
       </availabilities>
       <price>115900</price>
     </offer>
@@ -775,7 +775,7 @@
       <model>Cветильник Philips WT045C LED12/NW PSU CFW L1054</model>
       <brand>Philips</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="46"/>
       </availabilities>
       <price>5968</price>
     </offer>
@@ -1119,7 +1119,7 @@
       <model>Модуль памяти Lenovo ThinkSystem 32GB TruDDR5 4800 MHz (1Rx4) 10x4 RDIMM-A</model>
       <brand>Lenovo</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
       <price>227901</price>
     </offer>
