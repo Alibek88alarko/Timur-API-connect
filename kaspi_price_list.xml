@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-14T22:01:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-15T00:05:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1337,7 +1337,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>47676</price>
+      <price>53405</price>
     </offer>
     <offer sku="CET471045P">
       <model>Драм-юнит CET DR-316K (CET471045P)</model>
@@ -1345,7 +1345,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>66081</price>
+      <price>73796</price>
     </offer>
     <offer sku="CET5060N">
       <model>Комплект роликов захвата/отделения бумаги CET IR6055 (CET5060N)</model>
@@ -1353,7 +1353,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>8632</price>
+      <price>8977</price>
     </offer>
     <offer sku="CET7908, CET7908R">
       <model>Комплект роликов захвата бумаги CET WC5325 (CET7908, CET7908R)</model>
@@ -1361,7 +1361,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>3831</price>
+      <price>3984</price>
     </offer>
     <offer sku="CET361021">
       <model>Резинка сепаратора CET P3020 (CET361021)</model>
@@ -1369,7 +1369,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>1454</price>
+      <price>1512</price>
     </offer>
     <offer sku="CET151009450">
       <model>Девелопер CET CE08-D (CET151009450)</model>
@@ -1377,7 +1377,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>22782</price>
+      <price>23692</price>
     </offer>
     <offer sku="CET2439">
       <model>Резиновый вал CET M602 (CET2439)</model>
@@ -1385,7 +1385,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>9098</price>
+      <price>9462</price>
     </offer>
     <offer sku="CET5121">
       <model>Резиновый вал+бушинги CET IR6055 (CET5121)</model>
@@ -1393,7 +1393,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>29929</price>
+      <price>31126</price>
     </offer>
     <offer sku="CET2288">
       <model>Термоплёнка CET IR-2016 (CET2288)</model>
@@ -1401,7 +1401,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>4136</price>
+      <price>4302</price>
     </offer>
     <offer sku="CET181019">
       <model>Тефлоновый вал CET M6700 (CET181019)</model>
@@ -1409,7 +1409,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>5399</price>
+      <price>5614</price>
     </offer>
     <offer sku="CET391016">
       <model>Чип CET C-EXV49 Drum (CET391016)</model>
@@ -1417,7 +1417,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>1328</price>
+      <price>1382</price>
     </offer>
     <offer sku="CET4378">
       <model>Резиновый вал CET FS1028 (CET4378)</model>
@@ -1425,7 +1425,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>10267</price>
+      <price>12623</price>
     </offer>
     <offer sku="CET211045">
       <model>Резиновый вал CET M7100 (CET211045)</model>
@@ -1433,7 +1433,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
-      <price>11831</price>
+      <price>12304</price>
     </offer>
     <offer sku="125MIC">
       <model>Пленка для ламинирования Deluxe A4 125мик 100шт</model>
@@ -1457,7 +1457,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>31990</price>
+      <price>33990</price>
     </offer>
     <offer sku="12310457">
       <model>Асинхронный электродвигатель WEG 12310457 W20 100L 3 кВт 2P B3T 220-460 В 50 Гц</model>
