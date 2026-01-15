@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-15T00:05:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-15T02:36:48" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1043,14 +1043,6 @@
       </availabilities>
       <price>306</price>
     </offer>
-    <offer sku="XB4BP31">
-      <model>Кнопка SE XB4BP31 22мм зелёная</model>
-      <brand>Schneider Electric</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="24"/>
-      </availabilities>
-      <price>11398</price>
-    </offer>
     <offer sku="MJZXB03WCHW">
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
@@ -1241,7 +1233,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>4273</price>
+      <price>5453</price>
     </offer>
     <offer sku="XMFG-M451">
       <model>Перкуссионный массажер Xiaomi Massage Gun 2 Черный</model>
@@ -1257,7 +1249,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
-      <price>16339</price>
+      <price>16993</price>
     </offer>
     <offer sku="CET9005N">
       <model>Фотобарабан CET 502/602 (CET9005N)</model>
@@ -1265,7 +1257,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>25076</price>
+      <price>26079</price>
     </offer>
     <offer sku="MSYSJ03-EU">
       <model>Диспенсер для воды Xiaomi Instant Hot Water Dispenser Белый</model>
@@ -1281,7 +1273,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>11748</price>
+      <price>12218</price>
     </offer>
     <offer sku="CET5231">
       <model>Фотобарабан CET DP1520/DP1820 (CET5231)</model>
@@ -1289,7 +1281,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>4217</price>
+      <price>6169</price>
     </offer>
     <offer sku="CET6232">
       <model>Фотобарабан CET MPC2503 (CET6232)</model>
@@ -1297,7 +1289,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>17415</price>
+      <price>18111</price>
     </offer>
     <offer sku="CET1833N">
       <model>Фотобарабан CET AR-M160 (CET1833N)</model>
@@ -1305,7 +1297,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>8339</price>
+      <price>8673</price>
     </offer>
     <offer sku="DH-C2K-P">
       <model>Wi-Fi видеокамера Dahua DH-C2K-P</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>150</price>
+    </offer>
+    <offer sku="DL.04G2K.KAM">
+      <model>Модуль памяти Apacer DL.04G2K.KAM</model>
+      <brand>Apacer</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>8485</price>
     </offer>
   </offers>
 </kaspi_catalog>
