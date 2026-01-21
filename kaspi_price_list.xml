@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-21T08:02:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-21T10:03:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -231,7 +231,7 @@
       <model>Анкерный зажим натяжной А-Оптик, АО-ODWAC-22 (C201)</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>225</price>
     </offer>
@@ -1457,7 +1457,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
       </availabilities>
-      <price>35617</price>
+      <price>43579</price>
     </offer>
     <offer sku="LC1D09FD">
       <model>Контактор SE LC1D09FD 3Р 9А НО+НЗ 110V</model>
@@ -1479,7 +1479,7 @@
       <model>Стабилизатор SVC-3-10кВА</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
       <price>303990</price>
     </offer>
