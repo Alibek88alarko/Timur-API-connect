@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-26T06:03:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-26T08:02:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -255,7 +255,7 @@
       <model>Тонер-картридж Europrint EPC-TK1130</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
       <price>1531</price>
     </offer>
@@ -487,7 +487,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
       <price>2400892</price>
     </offer>
@@ -1111,7 +1111,7 @@
       <model>Тостер Xiaomi Toaster Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>21990</price>
     </offer>
@@ -1119,7 +1119,7 @@
       <model>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>56990</price>
     </offer>
@@ -1209,7 +1209,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>382490</price>
+      <price>406480</price>
     </offer>
     <offer sku="CET101058">
       <model>Фотобарабан CET iR1600 (CET101058)</model>
