@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-26T04:24:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-26T06:03:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -265,7 +265,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>774</price>
+      <price>900</price>
     </offer>
     <offer sku="DP-GH01-ARGB">
       <model>Держатель видеокарты DeepCool GH-01 A-RGB</model>
@@ -1039,7 +1039,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="34"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1683,14 +1683,6 @@
       </availabilities>
       <price>810</price>
     </offer>
-    <offer sku="Corebook X 14&amp;quot; i3">
-      <model>Ноутбук Chuwi Corebook X 14&quot; QHD+ i3-1220P 16GB 512GB Win 11</model>
-      <brand>CHUWI</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>219990</price>
-    </offer>
     <offer sku="DS1202">
       <model>Герметик огнестойкий DKC картридж 300 мл</model>
       <brand>ДКС</brand>
@@ -1897,7 +1889,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>640</price>
+      <price>900</price>
     </offer>
     <offer sku="DLNB-01G17.3">
       <model>Сумка для ноутбука Deluxe Astana 17.3&quot; (DLNB-01G17.3)</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>357</price>
+    </offer>
+    <offer sku="RPCM 1532 (32A)">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
