@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-30T04:29:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-01-30T06:11:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -127,7 +127,7 @@
       <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="64"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="61"/>
       </availabilities>
       <price>277</price>
     </offer>
@@ -881,7 +881,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
-      <price>55573</price>
+      <price>77143</price>
     </offer>
     <offer sku="XK-220OGB">
       <model>Клавиатура XG XK-220OGB</model>
@@ -1031,7 +1031,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="32"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1119,7 +1119,7 @@
       <model>Сельскохозяйственный дрон DJI Agras T50</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>1</price>
     </offer>
@@ -1127,7 +1127,7 @@
       <model>Зарядная станция DJI WB37 Battery Charging Hub USB-C</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="32"/>
       </availabilities>
       <price>1</price>
     </offer>
@@ -1295,7 +1295,7 @@
       <model>Аппарат для сварки оптических волокон i4</model>
       <brand>INNO Instrument</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>1125000</price>
     </offer>
@@ -1663,7 +1663,7 @@
       <model>Поворотная видеокамера Dahua DH-IPC-PT2449C1-S-PV-PRO</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
       <price>90890</price>
     </offer>
