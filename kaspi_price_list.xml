@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T20:06:06" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T22:02:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -210,6 +210,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>10689</price>
+    </offer>
+    <offer sku="AS-7108ULS">
+      <model>KVM консоль SHIP AS-7108ULS</model>
+      <brand>Ship</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>519340</price>
     </offer>
     <offer sku="ОКЛ-4(G.652.D)-Т/С 2,7 кН">
       <model>Кабель оптоволоконный ОКЛ-4(G.652.D)-Т/С 2,7 кН</model>
@@ -691,22 +699,6 @@
       </availabilities>
       <price>11990</price>
     </offer>
-    <offer sku="929002968437">
-      <model>Лампа Philips Ecohome LED Candle 5W 500lm E14 827B35NDFR</model>
-      <brand>Philips</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>660</price>
-    </offer>
-    <offer sku="929002298617">
-      <model>Лампа Philips Ecohome LED Bulb 7W 500lm E27 830 RCA</model>
-      <brand>Philips</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>564</price>
-    </offer>
     <offer sku="Cruiser 4G">
       <model>Видеокамера Imou Cruiser 4G</model>
       <brand>Imou</brand>
@@ -754,14 +746,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
       <price>69990</price>
-    </offer>
-    <offer sku="911401735852">
-      <model>Cветильник Philips WT045C LED12/NW PSU CFW L1054</model>
-      <brand>Philips</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="43"/>
-      </availabilities>
-      <price>5968</price>
     </offer>
     <offer sku="911401833382">
       <model>Линейный подвесной светильник Philips RC095V LED26S/840 PSU W07L120 BK GM G2</model>
@@ -811,6 +795,14 @@
       </availabilities>
       <price>54159</price>
     </offer>
+    <offer sku="DVB4352GL">
+      <model>Усилитель Wi-Fi сигнала Xiaomi Mi Wi-Fi Range Extender Pro CE</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>5990</price>
+    </offer>
     <offer sku="КТ-2305">
       <model>Блендер-пароварка Kitfort КТ-2305</model>
       <brand>Kitfort</brand>
@@ -834,14 +826,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>9990</price>
-    </offer>
-    <offer sku="911401876385">
-      <model>Потолочный светильник Philips RC065B G5 34S/840 PSU W60L60 NOC CFW CL</model>
-      <brand>Philips</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>14690</price>
     </offer>
     <offer sku="5733C003AA">
       <model>Видеокамера Canon XA60 Professional UHD 4K Camcorder</model>
@@ -1867,14 +1851,6 @@
       </availabilities>
       <price>3000</price>
     </offer>
-    <offer sku="AS-7108ULS">
-      <model>KVM консоль SHIP AS-7108ULS</model>
-      <brand>Ship</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>519340</price>
-    </offer>
     <offer sku="External bypass for 1KVA">
       <model>Внешний Байпас модуль для 1кВА</model>
       <brand>SVC</brand>
@@ -2002,6 +1978,30 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>357</price>
+    </offer>
+    <offer sku="RPCM 1532 (32A)">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
+    </offer>
+    <offer sku="DLS-M305W">
+      <model>Экран Deluxe DLS-M305W (120&quot;х120&quot;), Ø - 170&quot;, Раб. поверхность 297х297 см., 1:1</model>
+      <brand>Deluxe</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>86423</price>
+    </offer>
+    <offer sku="KD-723">
+      <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
+      <brand>IHealth</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
+      </availabilities>
+      <price>15990</price>
     </offer>
   </offers>
 </kaspi_catalog>
