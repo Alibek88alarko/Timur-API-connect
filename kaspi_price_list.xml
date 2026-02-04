@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T04:30:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T06:12:39" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -25,7 +25,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>3345</price>
+      <price>3550</price>
     </offer>
     <offer sku="16821">
       <model>Патч Корд Оптоволоконный ST/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м</model>
@@ -463,7 +463,7 @@
       <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="38"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
       </availabilities>
       <price>145</price>
     </offer>
@@ -506,14 +506,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>47990</price>
-    </offer>
-    <offer sku="AFEP7TFM01">
-      <model>Воздушный фильтр для очистителя воздуха Xiaomi Smart Air Purifier 4 Compact Filter Белый</model>
-      <brand>Xiaomi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>16990</price>
     </offer>
     <offer sku="XG100">
       <model>Персональный компьютер XG Basic XG100 Win Pro 11</model>
@@ -1127,7 +1119,7 @@
       <model>Сельскохозяйственный дрон DJI Agras T50</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
       <price>1</price>
     </offer>
@@ -1135,7 +1127,7 @@
       <model>Зарядная станция DJI WB37 Battery Charging Hub USB-C</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="32"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
       </availabilities>
       <price>1</price>
     </offer>
@@ -1487,7 +1479,7 @@
       <model>Бумага Xerox Business</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>2170</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>278</price>
+    </offer>
+    <offer sku="R03P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>357</price>
     </offer>
   </offers>
 </kaspi_catalog>
