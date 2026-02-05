@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-05T10:12:18" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-05T12:06:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1619,6 +1619,14 @@
       </availabilities>
       <price>99990</price>
     </offer>
+    <offer sku="50A Perfect Binder">
+      <model>Термоклеевая переплётная машина Sysform Perfect Binder 50A</model>
+      <brand>Sysform</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <price>1223116</price>
+    </offer>
     <offer sku="B00052803811-00">
       <model>Док-станция Baseus UltraJoy Series 7-Port Grey (B00052803811-00)</model>
       <brand>Baseus</brand>
@@ -1913,7 +1921,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>22361</price>
+      <price>18791</price>
     </offer>
     <offer sku="XW-79">
       <model>Веб-Камера XG XW-79</model>
@@ -1994,14 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>1004</price>
-    </offer>
-    <offer sku="XC-370PS-2">
-      <model>Компьютерный корпус XG XC-370PS-2 с Б/П</model>
-      <brand>XG</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>20623</price>
     </offer>
   </offers>
 </kaspi_catalog>
