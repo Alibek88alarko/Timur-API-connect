@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T20:04:32" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T22:01:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -425,7 +425,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>239813</price>
+      <price>236051</price>
     </offer>
     <offer sku="A23-BP1">
       <model>Батарейка CAMELION Alkaline A23-BP1</model>
@@ -497,7 +497,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
-      <price>2400892</price>
+      <price>2363231</price>
     </offer>
     <offer sku="LFQ03KL">
       <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
@@ -562,6 +562,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>64474</price>
+    </offer>
+    <offer sku="7857">
+      <model>Скрепки металлические оцинкованные ErichKrause®, 50мм (коробка 100 скрепок)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <price>287</price>
     </offer>
     <offer sku="ZJB4143GL">
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
@@ -1994,14 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
       </availabilities>
       <price>15990</price>
-    </offer>
-    <offer sku="PLC  1х4 SC/APC-SC/APC 1.">
-      <model>Сплиттер оптоволоконный PLC А-Оптик 1х4 SC/APC 1,5m SM</model>
-      <brand>А-Оптик</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>3300</price>
     </offer>
   </offers>
 </kaspi_catalog>
