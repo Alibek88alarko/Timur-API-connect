@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T06:14:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T08:08:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -119,7 +119,7 @@
       <model>Тонер-туба Europrint Toshiba T-1640E</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>5350</price>
     </offer>
@@ -967,7 +967,7 @@
       <model>Автоматические щипцы для завивки Philips Style Care BHB876/00</model>
       <brand>Philips</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
       </availabilities>
       <price>115990</price>
     </offer>
@@ -1231,7 +1231,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
       <price>22000</price>
     </offer>
@@ -1439,7 +1439,7 @@
       <model>Моноблок 23.8&quot; XG Quantum X5</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
       <price>139100</price>
     </offer>
@@ -1463,7 +1463,7 @@
       <model>Коробка распаячная ТYCO 67054Ч без гермовводов черная</model>
       <brand>Ruvinil</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="44"/>
       </availabilities>
       <price>3273</price>
     </offer>
