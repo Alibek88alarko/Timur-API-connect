@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T08:08:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-06T10:11:27" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -463,7 +463,7 @@
       <model>Металлорукав РУВИНИЛ Р3-Ц-ПВХ-15</model>
       <brand>Ruvinil</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="100"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>772</price>
     </offer>
@@ -535,7 +535,7 @@
       <model>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Lite Белый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>19990</price>
     </offer>
@@ -695,7 +695,7 @@
       <model>Видеокамера Imou Cruiser 4G</model>
       <brand>Imou</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>46790</price>
     </offer>
@@ -1231,7 +1231,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>22000</price>
     </offer>
