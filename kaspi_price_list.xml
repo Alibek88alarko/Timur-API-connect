@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-20T22:02:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-21T00:07:24" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1019,14 +1019,6 @@
       </availabilities>
       <price>69670</price>
     </offer>
-    <offer sku="P6005ASS16">
-      <model>Уплотнительное кольцо для фильтр-насоса Bestway P6005ASS16</model>
-      <brand>Bestway</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="152"/>
-      </availabilities>
-      <price>160</price>
-    </offer>
     <offer sku="6536C022AA">
       <model>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5</model>
       <brand>Canon</brand>
@@ -2002,6 +1994,14 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>86423</price>
+    </offer>
+    <offer sku="KD-723">
+      <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
+      <brand>IHealth</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
+      </availabilities>
+      <price>15990</price>
     </offer>
   </offers>
 </kaspi_catalog>
