@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-25T06:19:58" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-25T08:10:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -495,7 +495,7 @@
       <model>Wi-Fi видеокамера Imou Bullet 2E</model>
       <brand>Imou</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>17000</price>
     </offer>
@@ -575,7 +575,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="194"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="192"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -599,7 +599,7 @@
       <model>Держатель провода мыши Glorious Mouse Bungee Black (G-MB-BLACK)</model>
       <brand>Glorious</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
       <price>6690</price>
     </offer>
@@ -1623,7 +1623,7 @@
       <model>Поворотная видеокамера Dahua DH-IPC-PT2449C1-S-PV-PRO</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="36"/>
       </availabilities>
       <price>90890</price>
     </offer>
