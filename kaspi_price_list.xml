@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-26T20:07:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-26T22:04:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1635,6 +1635,14 @@
       </availabilities>
       <price>13990</price>
     </offer>
+    <offer sku="Corebook Plus 16&amp;quot;R5">
+      <model>Ноутбук Chuwi Corebook Plus 16&quot; FHD Ryzen 5-7430U 16GB 512GB Win 11</model>
+      <brand>CHUWI</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>239990</price>
+    </offer>
     <offer sku="50A Perfect Binder">
       <model>Термоклеевая переплётная машина Sysform Perfect Binder 50A</model>
       <brand>Sysform</brand>
@@ -1994,14 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>357</price>
-    </offer>
-    <offer sku="RPCM 1532 (32A)">
-      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
-      <brand>Rcntec</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
