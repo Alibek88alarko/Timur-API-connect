@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-13T02:53:05" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-13T04:30:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -367,7 +367,7 @@
       <model>Внешний привод Verbatim CD/DVD 98938 Slim USB Чёрный</model>
       <brand>Verbatim</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="84"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="85"/>
       </availabilities>
       <price>21200</price>
     </offer>
@@ -599,7 +599,7 @@
       <model>Термопаста X-Game в шприце 4 г</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="272"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="262"/>
       </availabilities>
       <price>1500</price>
     </offer>
@@ -665,7 +665,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
       </availabilities>
-      <price>57570</price>
+      <price>34800</price>
     </offer>
     <offer sku="AV12-6/S">
       <model>Аккумуляторная батарея SVC AV12-6/S 6В 12 Ач</model>
@@ -1191,7 +1191,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>22000</price>
     </offer>
@@ -1783,7 +1783,7 @@
       <model>Источник бесперебойного питания SVC V-650-L</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>21990</price>
     </offer>
