@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-17T04:33:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-17T06:18:23" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -367,7 +367,7 @@
       <model>Внешний привод Verbatim CD/DVD 98938 Slim USB Чёрный</model>
       <brand>Verbatim</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="82"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="81"/>
       </availabilities>
       <price>21200</price>
     </offer>
@@ -551,7 +551,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="181"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="180"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -1591,12 +1591,12 @@
       <model>Док-станция Baseus UltraJoy Series 7-Port Grey (B00052803811-00)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>18990</price>
     </offer>
     <offer sku="LHM-BK-12M-2-A3">
-      <model>Антивирус Dr.Web Security Space для мобильных устройств 12М 2 МУ новая лицензия</model>
+      <model>Электронная лицензия (ESD ключ) Dr.Web Security Space для мобильных устройств 12М 2 МУ новая</model>
       <brand>Dr.Web</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
