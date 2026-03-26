@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-26T06:20:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-26T08:13:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -639,7 +639,7 @@
       <model>Коннектор RJ-9 телекоммуникационный</model>
       <brand>No name</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10000"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11000"/>
       </availabilities>
       <price>17</price>
     </offer>
@@ -647,7 +647,7 @@
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="41"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="48"/>
       </availabilities>
       <price>5490</price>
     </offer>
@@ -1751,7 +1751,7 @@
       <model>Коннектор RJ-11 телекоммуникационный</model>
       <brand>No name</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2000"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3000"/>
       </availabilities>
       <price>16</price>
     </offer>
