@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-27T10:13:31" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-27T12:10:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -367,7 +367,7 @@
       <model>Внешний привод Verbatim CD/DVD 98938 Slim USB Чёрный</model>
       <brand>Verbatim</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="69"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="67"/>
       </availabilities>
       <price>21200</price>
     </offer>
@@ -543,7 +543,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="173"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="172"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -831,7 +831,7 @@
       <model>Реле мультифункциональное SE RM35TF30 контроля фаз</model>
       <brand>Schneider Electric</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="29"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
       </availabilities>
       <price>37140</price>
     </offer>
@@ -887,7 +887,7 @@
       <model>Проволочный лоток 50х50 DKC FC5005 L3000</model>
       <brand>ДКС</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>2903</price>
     </offer>
@@ -959,7 +959,7 @@
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
       <price>1490</price>
     </offer>
@@ -1639,7 +1639,7 @@
       <model>Геймпад Ajazz GP100 White</model>
       <brand>AJAZZ</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>22990</price>
     </offer>
