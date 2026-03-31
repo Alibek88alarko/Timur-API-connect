@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-31T04:45:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-31T06:24:11" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -487,7 +487,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_D) Настольная конфигурация</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>2292617</price>
     </offer>
@@ -783,7 +783,7 @@
       <model>Мануальная дорожка для ходьбы Urevo Spacewalk E3S Черный</model>
       <brand>No name</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>143490</price>
     </offer>
@@ -823,7 +823,7 @@
       <model>Муфта оптическая А-Оптик FOSC-400A4-24F</model>
       <brand>А-Оптик</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
       </availabilities>
       <price>15000</price>
     </offer>
@@ -953,7 +953,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
-      <price>467200</price>
+      <price>445927</price>
     </offer>
     <offer sku="MJZXB03WCHW">
       <model>Гелевая ручка Xiaomi High-capacity Gel Pen (5-pack)</model>
@@ -1033,7 +1033,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>56990</price>
+      <price>57990</price>
     </offer>
     <offer sku="NC2254">
       <model>Полоса 25х4 мм DKC NC2254 горячеоцинкованная сталь</model>
