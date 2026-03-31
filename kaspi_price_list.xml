@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-31T02:59:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-31T04:45:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -529,7 +529,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>19990</price>
+      <price>20990</price>
     </offer>
     <offer sku="N-SP1100HC">
       <model>Картридж Europrint EPC-SP110E</model>
@@ -951,7 +951,7 @@
       <model>Твердотельный накопитель SSD ADATA XPG GAMMIX S70 BLADE 8 ТБ M.2</model>
       <brand>ADATA</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>467200</price>
     </offer>
@@ -1025,7 +1025,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>21990</price>
+      <price>17990</price>
     </offer>
     <offer sku="CME003-EU">
       <model>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый</model>
@@ -1527,7 +1527,7 @@
       <model>IP видеокамера Dahua DH-IPC-B1E20-A</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>18820</price>
     </offer>
@@ -1727,7 +1727,7 @@
       <model>Кабель сетевой A&amp;P APC030502CCA UTP PVC</model>
       <brand>A&amp;P</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="50"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
       </availabilities>
       <price>24296</price>
     </offer>
