@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-01T02:59:35" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-01T04:54:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -119,7 +119,7 @@
       <model>Бушинги резинового вала Europrint HP 1200</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
       </availabilities>
       <price>142</price>
     </offer>
@@ -129,7 +129,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="60"/>
       </availabilities>
-      <price>277</price>
+      <price>201</price>
     </offer>
     <offer sku="V-600-L">
       <model>Источник бесперебойного питания SVC V-600-L</model>
@@ -551,7 +551,7 @@
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="50"/>
       </availabilities>
       <price>4990</price>
     </offer>
@@ -617,7 +617,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>300</price>
+      <price>1</price>
     </offer>
     <offer sku="LSWM1STK">
       <model>Пассивный кабель H3C LSWM1STK</model>
@@ -695,7 +695,7 @@
       <model>Картридж Europrint EPC-PC211EV</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="50"/>
       </availabilities>
       <price>3602</price>
     </offer>
@@ -1863,7 +1863,7 @@
       <model>Рюкзак Xiaomi Casual Daypack Темно-Синий</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="48"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
       </availabilities>
       <price>4990</price>
     </offer>
