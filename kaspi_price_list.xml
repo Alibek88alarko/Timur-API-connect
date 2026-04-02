@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-02T04:42:19" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-02T06:21:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -347,14 +347,6 @@
       </availabilities>
       <price>5000</price>
     </offer>
-    <offer sku="SSXCQ01XY">
-      <model>Беспроводной вертикальный мини-пылесос Xiaomi Mi Vacuum Cleaner mini Белый</model>
-      <brand>MI</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>22990</price>
-    </offer>
     <offer sku="AFP-620/CF-25">
       <model>Вентилятор SVC AFP-620</model>
       <brand>SVC</brand>
@@ -463,7 +455,7 @@
       <model>Ракельный нож Europrint MLT-D101 (для картриджей MLT-D101S)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="17"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>145</price>
     </offer>
@@ -639,7 +631,7 @@
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
       <price>5490</price>
     </offer>
@@ -695,7 +687,7 @@
       <model>Картридж Europrint EPC-PC211EV</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="42"/>
       </availabilities>
       <price>3602</price>
     </offer>
@@ -967,7 +959,7 @@
       <model>Реле времени CHINT NTE8-480B 0.5-8мин 1НО AC 230В</model>
       <brand>CHINT</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>7610</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>3300</price>
+    </offer>
+    <offer sku="ИК/Т-Т-А2-6.0">
+      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
+      <brand>Интегра</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>270</price>
     </offer>
   </offers>
 </kaspi_catalog>
