@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-22T10:26:51" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-22T12:15:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -807,7 +807,7 @@
       <model>Сетевой видеорегистратор Dahua DHI-NVR4232-4KS3</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
       <price>168310</price>
     </offer>
@@ -847,7 +847,7 @@
       <model>Напольный канал DKC 01032 50х12 мм CSP-F, серый</model>
       <brand>ДКС</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>3137</price>
     </offer>
@@ -879,7 +879,7 @@
       <model>Проволочный лоток 50х50 DKC FC5005 L3000</model>
       <brand>ДКС</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>2903</price>
     </offer>
@@ -1063,7 +1063,7 @@
       <model>Экран XG DLS-M240x135W (94&quot;х53&quot;), Ø - 108&quot;, 16:9</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>54680</price>
     </offer>
@@ -1287,7 +1287,7 @@
       <model>Абонентский терминал Huawei Nova Y63 GFY-LX1 4GB RAM 128GB ROM Black</model>
       <brand>Huawei</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>69890</price>
     </offer>
@@ -1911,7 +1911,7 @@
       <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
       <brand>Poholy</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="48"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
       </availabilities>
       <price>27813</price>
     </offer>
