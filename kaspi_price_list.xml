@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-22T04:53:54" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-22T06:32:39" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="159"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="156"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -527,7 +527,7 @@
       <model>Пакет клейких лент ErichKrause® Crystal, 12ммх33м (4 ленты)</model>
       <brand>ErichKrause</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
       </availabilities>
       <price>1111</price>
     </offer>
@@ -647,7 +647,7 @@
       <model>Внешний SSD диск ADATA 2TB SE760 Серый</model>
       <brand>ADATA</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>168750</price>
     </offer>
@@ -847,7 +847,7 @@
       <model>Напольный канал DKC 01032 50х12 мм CSP-F, серый</model>
       <brand>ДКС</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="32"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
       </availabilities>
       <price>3137</price>
     </offer>
@@ -1327,7 +1327,7 @@
       <model>Стабилизатор SVC-3-10кВА</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
       </availabilities>
       <price>269990</price>
     </offer>
@@ -1583,7 +1583,7 @@
       <model>Ноутбук Chuwi Corebook Plus 16&quot; FHD Ryzen 5-7430U 16GB 512GB Win 11</model>
       <brand>CHUWI</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>239990</price>
     </offer>
