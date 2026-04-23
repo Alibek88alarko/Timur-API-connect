@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-23T10:28:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-23T12:16:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="145"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="155"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -807,7 +807,7 @@
       <model>Сетевой видеорегистратор Dahua DHI-NVR4232-4KS3</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
       </availabilities>
       <price>168310</price>
     </offer>
@@ -983,7 +983,7 @@
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="31"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="29"/>
       </availabilities>
       <price>116990</price>
     </offer>
@@ -1154,14 +1154,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>31200</price>
-    </offer>
-    <offer sku="3421C001">
-      <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
-      <brand>Canon</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>22000</price>
     </offer>
     <offer sku="I4 (V1)">
       <model>Аппарат для сварки оптических волокон i4</model>
@@ -1351,7 +1343,7 @@
       <model>Трансивер Ubiquiti UACC-CM-RJ45-1G</model>
       <brand>Ubiquiti</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
       </availabilities>
       <price>17290</price>
     </offer>
@@ -1599,7 +1591,7 @@
       <model>Термоклеевая переплётная машина Sysform Perfect Binder 50A</model>
       <brand>Sysform</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>1223116</price>
     </offer>
@@ -1983,7 +1975,7 @@
       <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
       <brand>IHealth</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>15990</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>270</price>
+    </offer>
+    <offer sku="R20P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>1004</price>
     </offer>
   </offers>
 </kaspi_catalog>
