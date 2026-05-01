@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-30T22:16:06" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-01T00:20:02" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -401,7 +401,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>223355</price>
+      <price>221004</price>
     </offer>
     <offer sku="A23-BP1">
       <model>Батарейка CAMELION Alkaline A23-BP1</model>
@@ -481,7 +481,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>2236125</price>
+      <price>2212587</price>
     </offer>
     <offer sku="LFQ03KL">
       <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
@@ -923,14 +923,6 @@
       </availabilities>
       <price>59487</price>
     </offer>
-    <offer sku="AL-025">
-      <model>Стол с стульями XG Aurora garden AL-025</model>
-      <brand>XG</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>14000</price>
-    </offer>
     <offer sku="M2351W1">
       <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
       <brand>Redmi</brand>
@@ -1370,14 +1362,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>2240</price>
-    </offer>
-    <offer sku="T1001">
-      <model>Планшет TECNO MEGAPAD 10 T1001 4G LTE 4GB RAM 128GB ROM Dark Gray</model>
-      <brand>TECNO</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>89990</price>
     </offer>
     <offer sku="23.8&amp;quot; XG Quantum X5">
       <model>Моноблок 23.8&quot; XG Quantum X5</model>
@@ -2002,6 +1986,22 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>3300</price>
+    </offer>
+    <offer sku="ИК/Т-Т-А2-6.0">
+      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
+      <brand>Интегра</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>270</price>
+    </offer>
+    <offer sku="R20P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>1004</price>
     </offer>
   </offers>
 </kaspi_catalog>
