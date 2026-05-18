@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-18T07:13:54" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-18T09:03:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="111"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="112"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -911,7 +911,7 @@
       <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
       <brand>Redmi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>17990</price>
     </offer>
@@ -999,7 +999,7 @@
       <model>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
       <price>57990</price>
     </offer>
@@ -1263,7 +1263,7 @@
       <model>Абонентский терминал Huawei Nova Y63 GFY-LX1 4GB RAM 128GB ROM Black</model>
       <brand>Huawei</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="23"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="19"/>
       </availabilities>
       <price>69890</price>
     </offer>
@@ -1577,7 +1577,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>18990</price>
+      <price>14990</price>
     </offer>
     <offer sku="LHM-BK-12M-2-A3">
       <model>Электронная лицензия (ESD ключ) Dr.Web Security Space для мобильных устройств 12М 2 МУ новая</model>
@@ -1759,7 +1759,7 @@
       <model>Источник бесперебойного питания SVC V-650-L</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
       </availabilities>
       <price>21990</price>
     </offer>
@@ -1935,7 +1935,7 @@
       <model>Умный наручный тонометр iHealth PUSH Wrist Smart Blood Pressure Monitor CONNECTABLE</model>
       <brand>IHealth</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
       </availabilities>
       <price>15990</price>
     </offer>
