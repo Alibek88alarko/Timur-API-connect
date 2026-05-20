@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-19T22:24:12" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-20T00:25:51" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -578,14 +578,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>1500</price>
-    </offer>
-    <offer sku="66X82AA">
-      <model>Кронштейн без основания для мониторов HyperX Armada Gaming Mount Addon 66X82AA</model>
-      <brand>HyperX</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>66990</price>
     </offer>
     <offer sku="JCDR-7W-GU5.3-3000K">
       <model>Эл. лампа светодиодная SVC LED JCDR-7W-GU5.3-3000K, Тёплый</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="42"/>
       </availabilities>
       <price>82490</price>
+    </offer>
+    <offer sku="INNO Instrument">
+      <model>Аппарат для сварки оптических волокон INNO Instrument View6S</model>
+      <brand>INNO Instrument</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
