@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-28T05:20:57" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-28T07:11:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="107"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="104"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -1959,7 +1959,7 @@
       <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
       </availabilities>
       <price>82490</price>
     </offer>
@@ -1983,7 +1983,7 @@
       <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_S) Напольная конфигурация с тумбой</model>
       <brand>Xerox</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
       <price>3289416</price>
     </offer>
