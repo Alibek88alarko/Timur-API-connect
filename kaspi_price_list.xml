@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-01T00:25:36" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-01T03:01:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1459,14 +1459,6 @@
       </availabilities>
       <price>1382</price>
     </offer>
-    <offer sku="82200">
-      <model>Сельскохозяйственный дрон DJI Agras T25P</model>
-      <brand>DJI</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
-      </availabilities>
-      <price>0</price>
-    </offer>
     <offer sku="LH015IACCHS/EN">
       <model>LED экран Samsung &quot;All in one&quot; LH015IACCHS/EN 130&quot;</model>
       <brand>Samsung</brand>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
       </availabilities>
       <price>3371141</price>
+    </offer>
+    <offer sku="CBL-SAST-0856-1">
+      <model>Кабель интерфейсный Slimline SAS x8 to 2x Mini SAS HD Supermicro CBL-SAST-0856-1</model>
+      <brand>Supermicro</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <price>21790</price>
     </offer>
   </offers>
 </kaspi_catalog>
