@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-01T21:09:27" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-01T22:42:16" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1611,6 +1611,22 @@
       </availabilities>
       <price>1943</price>
     </offer>
+    <offer sku="BRB80F30A1F0WT">
+      <model>Встраиваемый холодильник с нижней морозильной камерой Samsung BRB80F30A1F0WT</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>654990</price>
+    </offer>
+    <offer sku="NK24C7070WB/UR">
+      <model>Вытяжка Samsung NK24C7070WB/UR</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>239990</price>
+    </offer>
     <offer sku="M2552B1">
       <model>Фитнес браслет Xiaomi Smart Band 10 Pro Lavender pink</model>
       <brand>Xiaomi</brand>
@@ -1986,22 +2002,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>114990</price>
-    </offer>
-    <offer sku="C7101V_S">
-      <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_S) Напольная конфигурация с тумбой</model>
-      <brand>Xerox</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8"/>
-      </availabilities>
-      <price>3371141</price>
-    </offer>
-    <offer sku="CBL-SAST-0856-1">
-      <model>Кабель интерфейсный Slimline SAS x8 to 2x Mini SAS HD Supermicro CBL-SAST-0856-1</model>
-      <brand>Supermicro</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
-      </availabilities>
-      <price>21790</price>
     </offer>
   </offers>
 </kaspi_catalog>
