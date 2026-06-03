@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-03T03:02:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-03T05:34:32" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -303,7 +303,7 @@
       <model>Кабель оптоволоконный ИКнг(А)-HF-М4П-А2-0.4 кН</model>
       <brand>Интегра</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2953"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2473"/>
       </availabilities>
       <price>330</price>
     </offer>
@@ -679,7 +679,7 @@
       <model>Картридж Europrint EPC-PC211EV</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="17"/>
       </availabilities>
       <price>3602</price>
     </offer>
