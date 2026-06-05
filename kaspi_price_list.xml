@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-05T09:02:41" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-05T11:02:15" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -135,7 +135,7 @@
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
       </availabilities>
       <price>96990</price>
     </offer>
@@ -530,6 +530,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
       <price>1111</price>
+    </offer>
+    <offer sku="7857">
+      <model>Скрепки металлические оцинкованные ErichKrause®, 50мм (коробка 100 скрепок)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>287</price>
     </offer>
     <offer sku="ZJB4143GL">
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
@@ -991,7 +999,7 @@
       <model>Кофемашина Xiaomi Semi-automatic Espresso Machine Серебристый</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="11"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>61990</price>
     </offer>
@@ -1503,7 +1511,7 @@
       <model>IP видеокамера Dahua DH-IPC-T1E40-A</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>23830</price>
     </offer>
@@ -1559,7 +1567,7 @@
       <model>Автомобильный пылесос Baseus AT Car Vacuum Cleaner (5000pa) Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="29"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
       </availabilities>
       <price>17990</price>
     </offer>
@@ -1983,7 +1991,7 @@
       <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
       <price>82490</price>
     </offer>
@@ -1994,14 +2002,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>1</price>
-    </offer>
-    <offer sku="B230V_DNI">
-      <model>Монохромный принтер Xerox B230DNI</model>
-      <brand>Xerox</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>114990</price>
     </offer>
   </offers>
 </kaspi_catalog>
