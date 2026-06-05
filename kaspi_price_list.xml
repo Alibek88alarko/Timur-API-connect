@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-05T03:01:23" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-05T05:27:03" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -135,7 +135,7 @@
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="24"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
       </availabilities>
       <price>96990</price>
     </offer>
@@ -519,7 +519,7 @@
       <model>Внутренняя SNMP карта DA807</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="199"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="200"/>
       </availabilities>
       <price>64474</price>
     </offer>
@@ -903,7 +903,7 @@
       <model>Смарт часы Redmi Watch 5 Active Midnight Black</model>
       <brand>Redmi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>19990</price>
     </offer>
@@ -1385,7 +1385,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>14990</price>
+      <price>12990</price>
     </offer>
     <offer sku="CET3123">
       <model>Термоэлемент СЕТ 1160 (CET3123)</model>
@@ -1591,7 +1591,7 @@
       <model>Система разбрасывания DJI Agras T70</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
       </availabilities>
       <price>1</price>
     </offer>
