@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-11T05:30:18" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-11T07:31:50" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -135,7 +135,7 @@
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
       <price>96990</price>
     </offer>
@@ -482,14 +482,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>2330278</price>
-    </offer>
-    <offer sku="LFQ03KL">
-      <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
-      <brand>Xiaomi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>13990</price>
     </offer>
     <offer sku="AC-M18-SC">
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
@@ -1295,7 +1287,7 @@
       <model>Контроллер доступа Dahua DHI-ASC2202C-S (220В)</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="48"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="22"/>
       </availabilities>
       <price>117950</price>
     </offer>
@@ -1567,7 +1559,7 @@
       <model>Автомобильный пылесос Baseus AT Car Vacuum Cleaner (5000pa) Cosmic Black</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="27"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
       <price>17990</price>
     </offer>
@@ -1591,7 +1583,7 @@
       <model>Солнечная панель SVC M-60</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="38"/>
       </availabilities>
       <price>17375</price>
     </offer>
@@ -1895,7 +1887,7 @@
       <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
       <brand>Poholy</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="36"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="37"/>
       </availabilities>
       <price>27813</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>20623</price>
+    </offer>
+    <offer sku="АО-2403 19&amp;quot; (1U) FDF 24">
+      <model>Оптический кросс А-Оптик АО-2403</model>
+      <brand>А-Оптик</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>22500</price>
     </offer>
   </offers>
 </kaspi_catalog>
