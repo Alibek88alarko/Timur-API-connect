@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-17T20:40:04" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-17T22:31:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1595,14 +1595,6 @@
       </availabilities>
       <price>1</price>
     </offer>
-    <offer sku="PM40BK0A-O">
-      <model>Фотополимерный 3D принтер Anycubic Photon Mono 4</model>
-      <brand>Anycubic</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>119090</price>
-    </offer>
     <offer sku="WC3MWH0B-O">
       <model>Полимеризационная камера Anycubic Wash &amp; Cure 3 Max</model>
       <brand>Anycubic</brand>
@@ -1610,14 +1602,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
       <price>225990</price>
-    </offer>
-    <offer sku="KB3MBK0A-O">
-      <model>Филаментный 3D принтер Anycubic Kobra 3 Max</model>
-      <brand>Anycubic</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="38"/>
-      </availabilities>
-      <price>282990</price>
     </offer>
     <offer sku="SSXAB3BG-10">
       <model>Фотополимерная смола для 3D-печати Anycubic Water-Wash ABS-Like Resin 3.0 SSXAB3BG-10 (бежевый)</model>
@@ -2002,6 +1986,22 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>593</price>
+    </offer>
+    <offer sku="RTL-800-LCD">
+      <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
+      <brand>SVC</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <price>82490</price>
+    </offer>
+    <offer sku="INNO Instrument">
+      <model>Аппарат для сварки оптических волокон INNO Instrument View6S</model>
+      <brand>INNO Instrument</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
