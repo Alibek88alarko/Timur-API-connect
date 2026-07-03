@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-02T22:54:54" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-03T01:49:10" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -331,14 +331,6 @@
       </availabilities>
       <price>493</price>
     </offer>
-    <offer sku="XMKDDYJ01HT">
-      <model>Портативный фотопринтер Mi Portable Photo Printer</model>
-      <brand>MI</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>28990</price>
-    </offer>
     <offer sku="AFP-620/CF-25">
       <model>Вентилятор SVC AFP-620</model>
       <brand>SVC</brand>
@@ -490,14 +482,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>2330278</price>
-    </offer>
-    <offer sku="LFQ03KL">
-      <model>Машинка для стрижки волос Xiaomi Hair Clipper Черный</model>
-      <brand>Xiaomi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>13990</price>
     </offer>
     <offer sku="AC-M18-SC">
       <model>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact Белый</model>
@@ -2002,6 +1986,22 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>593</price>
+    </offer>
+    <offer sku="RTL-800-LCD">
+      <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
+      <brand>SVC</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <price>82490</price>
+    </offer>
+    <offer sku="INNO Instrument">
+      <model>Аппарат для сварки оптических волокон INNO Instrument View6S</model>
+      <brand>INNO Instrument</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
