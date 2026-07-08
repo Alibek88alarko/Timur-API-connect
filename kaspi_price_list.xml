@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-08T08:05:01" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-08T11:40:29" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
-    <offer sku="F2 to F1">
-      <model>Переходник F2-&gt;F1</model>
-      <brand>SVC</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>96</price>
-    </offer>
     <offer sku="XK-100UB">
       <model>Клавиатура XG XK-100UB</model>
       <brand>XG</brand>
@@ -1583,7 +1575,7 @@
       <model>Солнечная панель SVC M-60</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="36"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="31"/>
       </availabilities>
       <price>17375</price>
     </offer>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>593</price>
+    </offer>
+    <offer sku="RTL-800-LCD">
+      <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
+      <brand>SVC</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+      </availabilities>
+      <price>82490</price>
     </offer>
   </offers>
 </kaspi_catalog>
