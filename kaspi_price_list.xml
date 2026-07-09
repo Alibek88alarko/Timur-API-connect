@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-09T09:17:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-09T12:24:18" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -39,7 +39,7 @@
       <model>Пылесос для оргтехники SCS 67422 (497AB)</model>
       <brand>Scs</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="58"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="57"/>
       </availabilities>
       <price>248418</price>
     </offer>
@@ -191,7 +191,7 @@
       <model>Комплект Клавиатура + Мышь XG XD-7700GB</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>5018</price>
     </offer>
@@ -647,7 +647,7 @@
       <model>Точка доступа маршрутизатор Grandstream GWN7062</model>
       <brand>Grandstream</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="31"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
       </availabilities>
       <price>34800</price>
     </offer>
@@ -679,7 +679,7 @@
       <model>Картридж Europrint EPC-PC211EV</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>3602</price>
     </offer>
@@ -943,7 +943,7 @@
       <model>Проектор Xiaomi Smart Projector L1 EU</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="46"/>
       </availabilities>
       <price>116990</price>
     </offer>
@@ -1319,7 +1319,7 @@
       <model>Трансивер Ubiquiti UACC-CM-RJ45-1G</model>
       <brand>Ubiquiti</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
       <price>17290</price>
     </offer>
@@ -1977,7 +1977,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>22500</price>
+      <price>19500</price>
     </offer>
     <offer sku="SC/UPC SM 9/125 0.9 мм 1.5 м">
       <model>Пигтейл Оптический SC/UPC SM 9/125 0.9 мм 1.5 м</model>
