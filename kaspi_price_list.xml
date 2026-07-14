@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-13T22:43:20" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-14T01:18:14" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1939,14 +1939,6 @@
       </availabilities>
       <price>1080</price>
     </offer>
-    <offer sku="WXKG11LM">
-      <model>Беспроводная кнопка Xiaomi AQARA Wireless Switch Mini</model>
-      <brand>Aqara</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>6090</price>
-    </offer>
     <offer sku="XC-370PS-2">
       <model>Компьютерный корпус XG XC-370PS-2 с Б/П</model>
       <brand>XG</brand>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
       </availabilities>
       <price>114990</price>
+    </offer>
+    <offer sku="C7101V_S">
+      <model>Базовый модуль МФУ Xerox VersaLink C7120/25/30 (C7101V_S) Напольная конфигурация с тумбой</model>
+      <brand>Xerox</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>3200881</price>
     </offer>
   </offers>
 </kaspi_catalog>
