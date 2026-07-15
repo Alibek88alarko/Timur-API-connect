@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-15T01:15:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-15T04:38:21" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -183,7 +183,7 @@
       <model>Комплект Клавиатура + Мышь XG XD-7700GB</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>5018</price>
     </offer>
@@ -727,7 +727,7 @@
       <model>Видеокамера Canon XA60 Professional UHD 4K Camcorder</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="40"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
       </availabilities>
       <price>736711</price>
     </offer>
@@ -1119,7 +1119,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="73"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="72"/>
       </availabilities>
       <price>21000</price>
     </offer>
@@ -1279,7 +1279,7 @@
       <model>Стабилизатор SVC-3-10кВА</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="13"/>
       </availabilities>
       <price>269990</price>
     </offer>
@@ -1645,7 +1645,7 @@
     </offer>
     <offer sku="ОПОП 1-8 &amp;quot;ВЫХОД&amp;quot;">
       <model>Оповещатель охранно-пожарный световой Рубеж ОПОП 1-8 &quot;ВЫХОД&quot;</model>
-      <brand>a1e4c274-5b4f-11f1-b780-28e424caa461</brand>
+      <brand>РУБЕЖ</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
       </availabilities>
@@ -1653,7 +1653,7 @@
     </offer>
     <offer sku="ОПОП 2-35 12В">
       <model>Оповещатель охранно-пожарный звуковой Рубеж ОПОП 2-35 12В (корпус бело/красный)</model>
-      <brand>a1e4c274-5b4f-11f1-b780-28e424caa461</brand>
+      <brand>РУБЕЖ</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
@@ -1863,7 +1863,7 @@
       <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
       <brand>Poholy</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="34"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="33"/>
       </availabilities>
       <price>27813</price>
     </offer>
@@ -1871,7 +1871,7 @@
       <model>Противозапотевающие вкладыши для GoPro Hero 4/3+/3/2 Deluxe DLGP-86</model>
       <brand>Deluxe</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="111"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="110"/>
       </availabilities>
       <price>820</price>
     </offer>
