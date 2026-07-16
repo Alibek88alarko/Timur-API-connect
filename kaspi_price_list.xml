@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-16T20:43:29" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-16T22:46:07" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1627,6 +1627,14 @@
       </availabilities>
       <price>1943</price>
     </offer>
+    <offer sku="DH-DSS-OneBox-H1/128">
+      <model>Сервер Dahua DH-DSS-OneBox-H1/128</model>
+      <brand>Dahua</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <price>1</price>
+    </offer>
     <offer sku="BRB80F30A1F0WT">
       <model>Встраиваемый холодильник с нижней морозильной камерой Samsung BRB80F30A1F0WT</model>
       <brand>Samsung</brand>
@@ -1658,14 +1666,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>239990</price>
-    </offer>
-    <offer sku="ОПОП 1-8 &amp;quot;ВЫХОД&amp;quot;">
-      <model>Оповещатель охранно-пожарный световой Рубеж ОПОП 1-8 &quot;ВЫХОД&quot;</model>
-      <brand>РУБЕЖ</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
-      </availabilities>
-      <price>3698</price>
     </offer>
     <offer sku="ОПОП 2-35 12В">
       <model>Оповещатель охранно-пожарный звуковой Рубеж ОПОП 2-35 12В (корпус бело/красный)</model>
