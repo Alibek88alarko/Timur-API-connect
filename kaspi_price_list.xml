@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-16T22:46:07" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-17T01:27:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -515,6 +515,14 @@
       </availabilities>
       <price>64474</price>
     </offer>
+    <offer sku="21828">
+      <model>Пластиковая точилка ErichKrause® Universe с контейнером, цвет корпуса ассорти (в коробке по 24 шт.)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="96"/>
+      </availabilities>
+      <price>233</price>
+    </offer>
     <offer sku="19435">
       <model>Пакет клейких лент ErichKrause® Crystal, 12ммх33м (4 ленты)</model>
       <brand>ErichKrause</brand>
@@ -522,6 +530,38 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="57"/>
       </availabilities>
       <price>1111</price>
+    </offer>
+    <offer sku="7855">
+      <model>Скрепки металлические оцинкованные ErichKrause®, 28мм (коробка 100 скрепок)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>287</price>
+    </offer>
+    <offer sku="7851">
+      <model>Кнопки металлические никелированные ErichKrause® (коробка 50 кнопок)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="110"/>
+      </availabilities>
+      <price>217</price>
+    </offer>
+    <offer sku="2711">
+      <model>Разделитель листов пластиковый ErichKrause® 20 листов, алфавитный (А-Я), A4 (коробка 20 листов)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="80"/>
+      </availabilities>
+      <price>1926</price>
+    </offer>
+    <offer sku="43040">
+      <model>Папка-картотека пластиковая ErichKrause® Classic, с 12 отделениями, A4, синий (в дисплее по 6 шт.)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>2765</price>
     </offer>
     <offer sku="ZJB4143GL">
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
@@ -618,6 +658,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8000"/>
       </availabilities>
       <price>17</price>
+    </offer>
+    <offer sku="47437">
+      <model>Пенал квадро mini ErichKrause® 210x50x50мм Neon® Green</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>1440</price>
     </offer>
     <offer sku="XWFE01MG-GL">
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
@@ -1507,14 +1555,6 @@
       </availabilities>
       <price>90920</price>
     </offer>
-    <offer sku="28000NP">
-      <model>Скиммер для бассейна Intex 28000NP</model>
-      <brand>Intex</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>9554</price>
-    </offer>
     <offer sku="E0027R04">
       <model>Портативный внешний аккумулятор Baseus EnerFill FC11 10000mAh 22.5W Black (E0027R04)</model>
       <brand>Baseus</brand>
@@ -1674,6 +1714,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
       <price>4345</price>
+    </offer>
+    <offer sku="FS-53736">
+      <model>Обложка Delta A4 Fellowes, (FS-53736), Цвет: белый, 25 шт</model>
+      <brand>Fellowes</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+      </availabilities>
+      <price>7520</price>
     </offer>
     <offer sku="NH-AA2300ARBP2">
       <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере</model>
@@ -1954,54 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>2000</price>
-    </offer>
-    <offer sku="ИК/Т-Т-А2-6.0">
-      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
-      <brand>Интегра</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>270</price>
-    </offer>
-    <offer sku="R20P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>1080</price>
-    </offer>
-    <offer sku="XC-370PS-2">
-      <model>Компьютерный корпус XG XC-370PS-2 с Б/П</model>
-      <brand>XG</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>20623</price>
-    </offer>
-    <offer sku="АО-2403 19&amp;quot; (1U) FDF 24">
-      <model>Оптический кросс А-Оптик АО-2403</model>
-      <brand>А-Оптик</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>19500</price>
-    </offer>
-    <offer sku="SC/UPC SM 9/125 0.9 мм 1.5 м">
-      <model>Пигтейл Оптический SC/UPC SM 9/125 0.9 мм 1.5 м</model>
-      <brand>АЗОП</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>593</price>
-    </offer>
-    <offer sku="RTL-800-LCD">
-      <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
-      <brand>SVC</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>82490</price>
     </offer>
   </offers>
 </kaspi_catalog>
