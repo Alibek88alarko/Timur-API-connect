@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-21T08:04:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-21T11:40:23" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -39,7 +39,7 @@
       <model>Пылесос для оргтехники SCS 67422 (497AB)</model>
       <brand>Scs</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="49"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="48"/>
       </availabilities>
       <price>248418</price>
     </offer>
@@ -783,7 +783,7 @@
       <model>Видеокамера Canon XA60 Professional UHD 4K Camcorder</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="32"/>
       </availabilities>
       <price>736711</price>
     </offer>
@@ -1169,7 +1169,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>5060</price>
+      <price>5054</price>
     </offer>
     <offer sku="3421C001">
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
@@ -1321,7 +1321,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
-      <price>54321</price>
+      <price>52904</price>
     </offer>
     <offer sku="DHI-ASC2202C-S">
       <model>Контроллер доступа Dahua DHI-ASC2202C-S (220В)</model>
@@ -1393,7 +1393,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>8612</price>
+      <price>9088</price>
     </offer>
     <offer sku="67054Ч">
       <model>Коробка распаячная ТYCO 67054Ч без гермовводов черная</model>
@@ -1599,7 +1599,7 @@
       <model>Наушники Baseus Bass BH1 Lite Off-White (A0203C02)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="15"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
       </availabilities>
       <price>14990</price>
     </offer>
