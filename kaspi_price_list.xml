@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-23T20:49:47" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-23T22:44:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1075,6 +1075,14 @@
       </availabilities>
       <price>54680</price>
     </offer>
+    <offer sku="VHU5384RU">
+      <model>Планшет Xiaomi Pad 7 Pro 12GB RAM 512GB ROM Gray</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>279990</price>
+    </offer>
     <offer sku="DHI-ASGG120F">
       <model>Турникет Dahua DHI-ASGG120F</model>
       <brand>Dahua</brand>
@@ -1994,14 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>250</price>
-    </offer>
-    <offer sku="RPCM 1532 (32A)">
-      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
-      <brand>Rcntec</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
