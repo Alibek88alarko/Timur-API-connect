@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-24T22:51:13" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-25T01:27:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -761,7 +761,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>49910</price>
+      <price>50653</price>
     </offer>
     <offer sku="КТ-2305">
       <model>Блендер-пароварка Kitfort КТ-2305</model>
@@ -1074,14 +1074,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
       </availabilities>
       <price>54680</price>
-    </offer>
-    <offer sku="VHU5384RU">
-      <model>Планшет Xiaomi Pad 7 Pro 12GB RAM 512GB ROM Gray</model>
-      <brand>Xiaomi</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>279990</price>
     </offer>
     <offer sku="DHI-ASGG120F">
       <model>Турникет Dahua DHI-ASGG120F</model>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>11990</price>
+    </offer>
+    <offer sku="R6P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>300</price>
     </offer>
   </offers>
 </kaspi_catalog>
