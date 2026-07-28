@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-28T01:24:11" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-07-28T04:52:05" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1015,7 +1015,7 @@
       <model>Тостер Xiaomi Toaster Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="30"/>
       </availabilities>
       <price>17990</price>
     </offer>
@@ -1583,7 +1583,7 @@
       <model>Портативный внешний аккумулятор Baseus EnerFill FC11 10000mAh 22.5W Black (E0027R04)</model>
       <brand>Baseus</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>14990</price>
     </offer>
@@ -1607,7 +1607,7 @@
       <model>Ноутбук ASUS Vivobook Go 15 E1504FA-BQ056 15,6&quot; FHD 60Hz AMD Ryzen 3 7320U 8GB 256GB DOS</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>229990</price>
     </offer>
@@ -1663,7 +1663,7 @@
       <model>Солнечная панель SVC M-60</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
       </availabilities>
       <price>17375</price>
     </offer>
@@ -1797,7 +1797,7 @@
     </offer>
     <offer sku="HXULTRA">
       <model>Экзоскелет физической активности Hypershell X Ultra</model>
-      <brand>68c8f8bb-107c-11f1-b776-28e424caa461</brand>
+      <brand>Hypershell</brand>
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="47"/>
       </availabilities>
