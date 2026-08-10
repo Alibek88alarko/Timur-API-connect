@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-10T08:28:57" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-10T10:26:15" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -55,7 +55,7 @@
       <model>Патч Корд Оптоволоконный LC/UPC-LC/UPC MM OM4 50/125 Duplex 3.0мм 1 м</model>
       <brand>АЗОП</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
       </availabilities>
       <price>2100</price>
     </offer>
@@ -1135,7 +1135,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="25"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
       </availabilities>
       <price>21000</price>
     </offer>
