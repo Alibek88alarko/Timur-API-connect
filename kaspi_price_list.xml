@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-09T22:05:44" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-10T00:08:21" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -555,14 +555,6 @@
       </availabilities>
       <price>1926</price>
     </offer>
-    <offer sku="43040">
-      <model>Папка-картотека пластиковая ErichKrause® Classic, с 12 отделениями, A4, синий (в дисплее по 6 шт.)</model>
-      <brand>ErichKrause</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>2765</price>
-    </offer>
     <offer sku="ZJB4143GL">
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
       <brand>Xiaomi</brand>
@@ -627,14 +619,6 @@
       </availabilities>
       <price>1</price>
     </offer>
-    <offer sku="28005">
-      <model>Вакуумный очиститель дна и стенок бассейна Intex 28005</model>
-      <brand>Intex</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>65300</price>
-    </offer>
     <offer sku="LSWM1STK">
       <model>Пассивный кабель H3C LSWM1STK</model>
       <brand>H3C</brand>
@@ -658,14 +642,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="8000"/>
       </availabilities>
       <price>17</price>
-    </offer>
-    <offer sku="47437">
-      <model>Пенал квадро mini ErichKrause® 210x50x50мм Neon® Green</model>
-      <brand>ErichKrause</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1440</price>
     </offer>
     <offer sku="XWFE01MG-GL">
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
@@ -2002,6 +1978,30 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>11990</price>
+    </offer>
+    <offer sku="R6P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>300</price>
+    </offer>
+    <offer sku="R03P-SP2B">
+      <model>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке</model>
+      <brand>Camelion</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>250</price>
+    </offer>
+    <offer sku="RPCM 1532 (32A)">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
