@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-13T06:26:15" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-13T08:27:39" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -527,7 +527,7 @@
       <model>Скрепки металлические оцинкованные ErichKrause®, 28мм (коробка 100 скрепок)</model>
       <brand>ErichKrause</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>287</price>
     </offer>
@@ -897,7 +897,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>69670</price>
+      <price>69840</price>
     </offer>
     <offer sku="6536C022AA">
       <model>Цифровой фотоаппарат CANON EOS R5 Mark II BODY V5</model>
@@ -1007,7 +1007,7 @@
       <model>Сельскохозяйственный дрон DJI Agras T70P</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>1</price>
     </offer>
@@ -1249,7 +1249,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>117950</price>
+      <price>118010</price>
     </offer>
     <offer sku="SVC-3-10кВА">
       <model>Стабилизатор SVC-3-10кВА</model>
@@ -1305,7 +1305,7 @@
       <availabilities>
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
-      <price>83600</price>
+      <price>86600</price>
     </offer>
     <offer sku="XB5AJ33">
       <model>Переключатель SE XB5AJ33 22 мм 3 позиции</model>
@@ -1457,7 +1457,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>18820</price>
+      <price>18860</price>
     </offer>
     <offer sku="DH-IPC-B1E40-A">
       <model>IP видеокамера Dahua DH-IPC-B1E40-A</model>
@@ -1465,7 +1465,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>23830</price>
+      <price>23940</price>
     </offer>
     <offer sku="DH-IPC-T1E40-A">
       <model>IP видеокамера Dahua DH-IPC-T1E40-A</model>
@@ -1473,7 +1473,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>23830</price>
+      <price>23940</price>
     </offer>
     <offer sku="DH-IPC-PT2449C1-S-PV-PRO">
       <model>Поворотная видеокамера Dahua DH-IPC-PT2449C1-S-PV-PRO</model>
@@ -1481,7 +1481,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>90920</price>
+      <price>91010</price>
     </offer>
     <offer sku="DH-IPC-HFW2649T-ZAS-IL">
       <model>IP видеокамера Dahua DH-IPC-HFW2649T-ZAS-IL</model>
@@ -1489,7 +1489,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>260000</price>
+      <price>154000</price>
     </offer>
     <offer sku="DH-IPC-HDW2649T-ZS-IL">
       <model>IP видеокамера Dahua DH-IPC-HDW2649T-ZS-IL</model>
@@ -1497,7 +1497,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
-      <price>260000</price>
+      <price>154000</price>
     </offer>
     <offer sku="E0027Q01">
       <model>Портативный внешний аккумулятор Baseus EnerFill FC21 Qpow 3 Ultra 10000mAh 45W Titanium (E0027Q01)</model>
@@ -1559,7 +1559,7 @@
       <model>Система разбрасывания DJI Agras T70</model>
       <brand>DJI</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>1</price>
     </offer>
