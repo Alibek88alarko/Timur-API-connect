@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-14T22:02:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-15T00:04:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -1675,6 +1675,14 @@
       </availabilities>
       <price>4345</price>
     </offer>
+    <offer sku="2557258">
+      <model>Бумага широкоформатная ProMEGA 80гр 420*45*50,8</model>
+      <brand>cdfe232a-7a93-11f1-b792-28e424caa461</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+      </availabilities>
+      <price>5206</price>
+    </offer>
     <offer sku="FS-53736">
       <model>Обложка Delta A4 Fellowes, (FS-53736), Цвет: белый, 25 шт</model>
       <brand>Fellowes</brand>
@@ -1994,14 +2002,6 @@
         <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>19500</price>
-    </offer>
-    <offer sku="SC/UPC SM 9/125 0.9 мм 1.5 м">
-      <model>Пигтейл Оптический SC/UPC SM 9/125 0.9 мм 1.5 м</model>
-      <brand>АЗОП</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>593</price>
     </offer>
   </offers>
 </kaspi_catalog>
