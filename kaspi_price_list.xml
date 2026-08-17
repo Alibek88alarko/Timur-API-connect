@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-17T12:03:46" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-17T14:05:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -119,7 +119,7 @@
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
       <brand>SVC</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="14"/>
       </availabilities>
       <price>96990</price>
     </offer>
@@ -615,7 +615,7 @@
       <model>ПКП Сибирский Арсенал Гранит-5</model>
       <brand>Сибирский Арсенал</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="16"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
       </availabilities>
       <price>71058</price>
     </offer>
@@ -1681,7 +1681,7 @@
       <availabilities>
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
-      <price>5206</price>
+      <price>4336</price>
     </offer>
     <offer sku="FS-53736">
       <model>Обложка Delta A4 Fellowes, (FS-53736), Цвет: белый, 25 шт</model>
