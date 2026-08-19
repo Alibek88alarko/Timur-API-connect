@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-19T00:04:12" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-19T02:23:18" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -707,6 +707,14 @@
       </availabilities>
       <price>48090</price>
     </offer>
+    <offer sku="NT01NV3000-1T0-E4X">
+      <model>Твердотельный накопитель SSD Netac NT01NV3000-1T0-E4X 1TB M.2 NVMe</model>
+      <brand>Netac</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>88493</price>
+    </offer>
     <offer sku="5733C003AA">
       <model>Видеокамера Canon XA60 Professional UHD 4K Camcorder</model>
       <brand>Canon</brand>
@@ -1258,14 +1266,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="9"/>
       </availabilities>
       <price>1400990</price>
-    </offer>
-    <offer sku="M890BT">
-      <model>Акустическая система Microlab M890BT</model>
-      <brand>Microlab</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="39"/>
-      </availabilities>
-      <price>35000</price>
     </offer>
     <offer sku="UACC-CM-RJ45-1G">
       <model>Трансивер Ubiquiti UACC-CM-RJ45-1G</model>
