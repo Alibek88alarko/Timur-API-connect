@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-20T22:04:07" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-21T00:05:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -499,6 +499,14 @@
       </availabilities>
       <price>6442</price>
     </offer>
+    <offer sku="46908">
+      <model>Альбом для рисования на клею ArtBerry® Саванна, А4, 30 листов</model>
+      <brand>No name</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>697</price>
+    </offer>
     <offer sku="FS-47101">
       <model>Шредер Fellowes Powershred P-28S (FS-47101)</model>
       <brand>Fellowes</brand>
@@ -515,6 +523,14 @@
       </availabilities>
       <price>64474</price>
     </offer>
+    <offer sku="37395">
+      <model>Пластиковая точилка ErichKrause® Smart&amp;Sharp с контейнером, ассорти (в блистере по 1 шт.)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+      </availabilities>
+      <price>495</price>
+    </offer>
     <offer sku="19435">
       <model>Пакет клейких лент ErichKrause® Crystal, 12ммх33м (4 ленты)</model>
       <brand>ErichKrause</brand>
@@ -522,6 +538,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="56"/>
       </availabilities>
       <price>1111</price>
+    </offer>
+    <offer sku="7324">
+      <model>Закладки бумажные с клеевым краем ErichKrause® Neon, 20х50 мм, 200 листов, 4 цвета</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="65"/>
+      </availabilities>
+      <price>1291</price>
     </offer>
     <offer sku="7851">
       <model>Кнопки металлические никелированные ErichKrause® (коробка 50 кнопок)</model>
@@ -538,6 +562,22 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="85"/>
       </availabilities>
       <price>1926</price>
+    </offer>
+    <offer sku="43039">
+      <model>Папка-картотека пластиковая ErichKrause® Classic, с 12 отделениями, A4, черный (в дисплее по 6 шт.)</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <price>2765</price>
+    </offer>
+    <offer sku="4560">
+      <model>Дырокол ErichKrause® Quadro, до 10 листов (в коробке по 1 шт.), ассорти</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+      </availabilities>
+      <price>1029</price>
     </offer>
     <offer sku="ZJB4143GL">
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
@@ -626,6 +666,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7000"/>
       </availabilities>
       <price>17</price>
+    </offer>
+    <offer sku="47345">
+      <model>Пенал квадро mini ErichKrause® 210x50x50мм Lilac</model>
+      <brand>ErichKrause</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+      </availabilities>
+      <price>1440</price>
     </offer>
     <offer sku="XWFE01MG-GL">
       <model>Набор фильтров для диспенсера Xiaomi Smart Pet Fountain</model>
@@ -1571,6 +1619,14 @@
       </availabilities>
       <price>1</price>
     </offer>
+    <offer sku="S3407CA-LY094">
+      <model>Ноутбук ASUS Vivobook S14 S3407CA-LY094 14&quot; FHD+ 60Hz Core Ultra 5 225H 16GB 512GB DOS</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="7"/>
+      </availabilities>
+      <price>434990</price>
+    </offer>
     <offer sku="WC3MWH0B-O">
       <model>Полимеризационная камера Anycubic Wash &amp; Cure 3 Max</model>
       <brand>Anycubic</brand>
@@ -1946,62 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>250</price>
-    </offer>
-    <offer sku="RPCM 1532 (32A)">
-      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
-      <brand>Rcntec</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>1</price>
-    </offer>
-    <offer sku="DLS-M305W">
-      <model>Экран Deluxe DLS-M305W (120&quot;х120&quot;), Ø - 170&quot;, Раб. поверхность 297х297 см., 1:1</model>
-      <brand>Deluxe</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>86423</price>
-    </offer>
-    <offer sku="PLC  1х4 SC/APC-SC/APC 1.">
-      <model>Сплиттер оптоволоконный PLC А-Оптик 1х4 SC/APC 1,5m SM</model>
-      <brand>А-Оптик</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>2000</price>
-    </offer>
-    <offer sku="DH-IPC-HFW1431S1P-0280B">
-      <model>IP видеокамера Dahua DH-IPC-HFW1431S1P-0280B</model>
-      <brand>Dahua</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>24605</price>
-    </offer>
-    <offer sku="ИК/Т-Т-А2-6.0">
-      <model>Кабель оптоволоконный ИК/Т-Т-А2-6.0 кН</model>
-      <brand>Интегра</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>270</price>
-    </offer>
-    <offer sku="R20P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>1080</price>
-    </offer>
-    <offer sku="XC-370PS-2">
-      <model>Компьютерный корпус XG XC-370PS-2 с Б/П</model>
-      <brand>XG</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>20623</price>
     </offer>
   </offers>
 </kaspi_catalog>
