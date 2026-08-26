@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-26T10:09:48" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-08-26T12:05:30" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -519,7 +519,7 @@
       <model>Пластиковая точилка ErichKrause® Smart&amp;Sharp с контейнером, ассорти (в блистере по 1 шт.)</model>
       <brand>ErichKrause</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="3"/>
       </availabilities>
       <price>495</price>
     </offer>
@@ -535,7 +535,7 @@
       <model>Закладки бумажные с клеевым краем ErichKrause® Neon, 20х50 мм, 200 листов, 4 цвета</model>
       <brand>ErichKrause</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="65"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="63"/>
       </availabilities>
       <price>1291</price>
     </offer>
@@ -559,7 +559,7 @@
       <model>Папка-картотека пластиковая ErichKrause® Classic, с 12 отделениями, A4, черный (в дисплее по 6 шт.)</model>
       <brand>ErichKrause</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="6"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>2765</price>
     </offer>
@@ -647,7 +647,7 @@
       <model>ПКП Сибирский Арсенал Гранит-5</model>
       <brand>Сибирский Арсенал</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="4"/>
       </availabilities>
       <price>71058</price>
     </offer>
@@ -711,7 +711,7 @@
       <model>Картридж Europrint EPC-PC211EV</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>3602</price>
     </offer>
@@ -1511,7 +1511,7 @@
       <model>IP видеокамера Dahua DH-IPC-HFW2649T-ZAS-IL</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
       </availabilities>
       <price>154000</price>
     </offer>
@@ -1607,7 +1607,7 @@
       <model>Ноутбук ASUS Vivobook S14 S3407CA-LY094 14&quot; FHD+ 60Hz Core Ultra 5 225H 16GB 512GB DOS</model>
       <brand>Asus</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="5"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>434990</price>
     </offer>
