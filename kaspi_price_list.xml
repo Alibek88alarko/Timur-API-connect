@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-03T10:02:25" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-03T12:03:40" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -39,7 +39,7 @@
       <model>Вал проявки Europrint P3100 (для картриджа 106R01379)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="2"/>
       </availabilities>
       <price>479</price>
     </offer>
@@ -47,7 +47,7 @@
       <model>Магнитный вал Europrint 1200 (для картриджа C7115A)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="26"/>
       </availabilities>
       <price>308</price>
     </offer>
@@ -55,7 +55,7 @@
       <model>Дозирующее лезвие Europrint P1005 (для картриджа CB435A)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>133</price>
     </offer>
@@ -127,7 +127,7 @@
       <model>Сепаратор Europrint RC1-2038-000 (для принтеров с механизмом подачи типа 1010)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="60"/>
       </availabilities>
       <price>201</price>
     </offer>
@@ -623,7 +623,7 @@
       <model>Термопаста X-Game в шприце 4 г</model>
       <brand>XG</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="360"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="358"/>
       </availabilities>
       <price>1500</price>
     </offer>
@@ -1095,7 +1095,7 @@
       <model>Турникет Dahua DHI-ASGG120F</model>
       <brand>Dahua</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="42"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="43"/>
       </availabilities>
       <price>406480</price>
     </offer>
@@ -1183,7 +1183,7 @@
       <model>Зап. часть Печатающая головка Canon BH-40 EMB Black (3421C001)</model>
       <brand>Canon</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="96"/>
       </availabilities>
       <price>21000</price>
     </offer>
@@ -1975,7 +1975,7 @@
       <model>Набор инструментов Poholy NO.2006 для прокладки информационных сетей</model>
       <brand>Poholy</brand>
       <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="18"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="17"/>
       </availabilities>
       <price>27813</price>
     </offer>
@@ -1999,7 +1999,7 @@
       <model>Магнитный вал Europrint M607 (MR) (для картриджа EPC-237A)</model>
       <brand>Europrint</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="57"/>
       </availabilities>
       <price>1860</price>
     </offer>
