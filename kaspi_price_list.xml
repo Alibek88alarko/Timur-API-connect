@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-11T04:02:55" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-11T06:03:50" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -575,7 +575,7 @@
       <model>Рюкзак Xiaomi Casual Daypack Черный</model>
       <brand>Xiaomi</brand>
       <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>5990</price>
     </offer>
@@ -1611,14 +1611,6 @@
       </availabilities>
       <price>1</price>
     </offer>
-    <offer sku="S3407CA-LY094">
-      <model>Ноутбук ASUS Vivobook S14 S3407CA-LY094 14&quot; FHD+ 60Hz Core Ultra 5 225H 16GB 512GB DOS</model>
-      <brand>Asus</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>434990</price>
-    </offer>
     <offer sku="WC3MWH0B-O">
       <model>Полимеризационная камера Anycubic Wash &amp; Cure 3 Max</model>
       <brand>Anycubic</brand>
@@ -2002,6 +1994,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
       </availabilities>
       <price>250</price>
+    </offer>
+    <offer sku="RPCM 1532 (32A)">
+      <model>Модуль удаленного управления питанием RCNTEC RPCM 1532 (32A)</model>
+      <brand>Rcntec</brand>
+      <availabilities>
+        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
+      </availabilities>
+      <price>1</price>
     </offer>
   </offers>
 </kaspi_catalog>
