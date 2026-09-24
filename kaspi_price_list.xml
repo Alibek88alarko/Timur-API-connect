@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-23T22:31:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-09-24T01:59:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Al-Style</company>
   <merchantid>01</merchantid>
   <offers>
@@ -754,14 +754,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="21"/>
       </availabilities>
       <price>736711</price>
-    </offer>
-    <offer sku="R5MP1024G8">
-      <model>Твердотельный накопитель SSD AMD Radeon R5MP1024G8 1024GB M.2 NVMe PCIe 3.0x4</model>
-      <brand>AMD</brand>
-      <availabilities>
-        <availability available="no" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="0"/>
-      </availabilities>
-      <price>82506</price>
     </offer>
     <offer sku="ИКД3-0А1-1.0">
       <model>Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН</model>
@@ -1731,6 +1723,30 @@
       </availabilities>
       <price>1098990</price>
     </offer>
+    <offer sku="MD301">
+      <model>Компьютерная мышь ASUS ProArt Mouse MD301</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="12"/>
+      </availabilities>
+      <price>44990</price>
+    </offer>
+    <offer sku="PS102">
+      <model>Коврик для компьютерной мыши ASUS PS102 Mouse Pad</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="20"/>
+      </availabilities>
+      <price>14990</price>
+    </offer>
+    <offer sku="NEREUS BACKPACK/BK/16 INCH">
+      <model>Рюкзак ASUS NEREUS BACKPACK Черный</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="10"/>
+      </availabilities>
+      <price>14990</price>
+    </offer>
     <offer sku="2557258/633937">
       <model>Бумага широкоформатная ProMEGA 80гр 420*45*50,8</model>
       <brand>ProMEGA</brand>
@@ -1762,6 +1778,14 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="1"/>
       </availabilities>
       <price>12255</price>
+    </offer>
+    <offer sku="AD2190020">
+      <model>Адаптер питания ASUS 68W USB-C Adapter AD2190020</model>
+      <brand>Asus</brand>
+      <availabilities>
+        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="28"/>
+      </availabilities>
+      <price>14990</price>
     </offer>
     <offer sku="NH-AA2300ARBP2">
       <model>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере</model>
@@ -1978,30 +2002,6 @@
         <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="57"/>
       </availabilities>
       <price>1860</price>
-    </offer>
-    <offer sku="AVR-600-L">
-      <model>Стабилизатор SVC AVR-600-L</model>
-      <brand>SVC</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>11990</price>
-    </offer>
-    <offer sku="R6P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>300</price>
-    </offer>
-    <offer sku="R03P-SP2B">
-      <model>Батарейка CAMELION Super Heavy Duty R03P-SP2B 2 шт. в плёнке</model>
-      <brand>Camelion</brand>
-      <availabilities>
-        <availability available="yes" storeId="myFavoritePickupPoint1" preOrder="0" stockCount="500"/>
-      </availabilities>
-      <price>250</price>
     </offer>
   </offers>
 </kaspi_catalog>
